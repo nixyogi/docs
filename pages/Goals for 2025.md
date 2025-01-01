@@ -1,0 +1,24 @@
+## Yearly Goals
+	- ### Health
+		- Drink atleast 3L of water everyday. (Why ? : Because I want to be healthy)
+		- Do [[Yoga]] atleast 4 times in a week. Slowly take it to 6 times in a week. (Why ? : Because I want to be healthy)
+		- Eat healthy atleast 5 days in a week, to reduce weight (Why ? : Because I want to be healthy and reduce weight)
+	- ### Wealth
+		- Increase salary by 50% by the end of next year.
+		- Increase my investments by 50% by the end of next year.
+	- ### Career
+		- Learn these skills
+			- **Logseq**
+				- Understand the note-taking app and shift to it completely.
+			- **DSA**
+				- Complete DSA course by Q1.
+				- Solve atleast 300 leetcode problems by Q4.
+			- **AI**
+				- Should be able to create RAG apps by Q1.
+				- Should know the basics of how the AI model works.
+			- **Leadership**
+				- Lead atleast 1 project successfully with the help of GET's.
+	- ### Happiness
+		- Read a book every month. [[Books to Read]] (Why?: Because I want to learn new stuff)
+		- Make an habit of everyday journaling (Why ? : Because I want to reflect on my behaviour daily and improve it)
+		- Track my habits and monitor them. (Why ? : To improve accountability and to improve my behaviour)

@@ -7,16 +7,15 @@
 	- Hardware and compute requirements
 	- Operational modes and their applications
 - Touching the waters
-  collapsed:: true
 	- CNN & DNN Basics
 	- Model checkpoints
 	- Transfer learning
 - Understand and Document RAG its pros and cons
-  collapsed:: true
 	- https://lightning.ai/akshay-ddods/studios/rag-using-llama-3-3-by-meta-ai?view=public&section=featured&utm_source=substack&utm_medium=email
 - Understand System Architecture for AI SDR
 - Understand System Architecture for AI SEO - https://seobotai.com/
 -
+- ## References (videos to watch)
 - What is a neural network? [Link](https://youtu.be/aircAruvnKk)
 - Gradient descent, how neural networks learn [Link](https://youtu.be/IHZwWFHWa-w)
 - What is backpropagation really doing? [Link](https://youtu.be/Ilg3gGewQ5U)

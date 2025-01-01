@@ -1,0 +1,2 @@
+- This is a test page to test the namespaces
+- everying is a test to see what happens
