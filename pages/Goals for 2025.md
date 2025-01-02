@@ -4,8 +4,8 @@
 		- Do [[Yoga]] atleast 4 times in a week. Slowly take it to 6 times in a week. (Why ? : Because I want to be healthy)
 		- Eat healthy atleast 5 days in a week, to reduce weight (Why ? : Because I want to be healthy and reduce weight)
 	- ### Wealth
-		- Increase salary by 50% by the end of next year.
-		- Increase my investments by 50% by the end of next year.
+		- Increase salary by 50% by the end of year.
+		- Increase my investments by 50% by the end of year.
 	- ### Career
 		- Learn these skills
 			- **Logseq**
