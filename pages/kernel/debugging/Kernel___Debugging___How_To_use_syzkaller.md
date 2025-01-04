@@ -5,7 +5,7 @@ coverage-guided fuzzing techniques to apply fuzzing to kernel syscalls.
 
 ## How it works
 
-![manager](assets/syzkaller-process_structure.png)
+![manager](../assets/kernel-debug-img/syzkaller-process_structure.png)
 
 Manager controls the test system, spwans vm's with fuzzers inside them
 which generate small programs which invoke syscalls. 
@@ -114,7 +114,7 @@ can be done by following the steps below:
     make
     ```
     -   Note: I was not able to do this step because it gives errors. 
-        ![error](assets/syzkaller-error.png)
+        ![error](../assets/kernel-debug-img/syzkaller-error.png)
 
 
 1.  Enable the newly added syscall in config.cfg 

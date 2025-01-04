@@ -4,7 +4,7 @@
 
 1.  I started by choosing a subsystem and trying to solve bugs from that subsystem. 
 
-    ![old-bug](assets/old-bug.png)
+    ![old-bug](../assets/kernel-debug-img/old-bug.png)
 
     -   The problem with approach is
         1.  Some subsystems have very few bugs (eg: i2c) and most of these bugs are trivial or 
@@ -16,20 +16,20 @@
 
 1.  Choosing bugs which do not have C or syz reproducers 
 
-    ![noreproducers](assets/noreproducers.png)
+    ![noreproducers](../assets/kernel-debug-img/noreproducers.png)
 
     -   It is very hard to reproduce a bug locally without C or syz reproducers. 
         If you cannot reproduce then chance of solving the bug becomes very small. 
 
 1.  Reproducers are for old kernel versions 
 
-    ![reproducer-old](assets/reproducer-old.png)
+    ![reproducer-old](../assets/kernel-debug-img/reproducer-old.png)
 
     -   Again you may not be able to reproduce the bug. 
 
 1.  Choosing bugs which last occured more than 30 days 
 
-    ![old-bug](assets/old-bug.png)
+    ![old-bug](../assets/kernel-debug-img/old-bug.png)
 
     -   If the bug is not occuring for more that 30 days then it is probably solved. 
 
@@ -37,9 +37,9 @@
 
     -   Some bugs are false positives or some bugs the subsystem maintainer does not want to solve `WONTFIX`. 
         
-        ![wont-fix1](assets/wontfix1.png)
+        ![wont-fix1](../assets/kernel-debug-img/wontfix1.png)
         
-        ![wont-fix2](assets/wontfix2.png)
+        ![wont-fix2](../assets/kernel-debug-img/wontfix2.png)
 
     -   False positive patches will get rejected. 
     -   For WONTFIX bug, you may have to give a solid reason why this patch needs to be accepted. 
@@ -49,7 +49,7 @@
     -   You will see that someone has already test their patch in syzkaller and will most likely 
         submit the patch or the patch is in review. 
         
-        ![patched-bug](assets/patched-bug.png)
+        ![patched-bug](../assets/kernel-debug-img/patched-bug.png)
 
     -   90 % times the patches will get accepted, hence treat these bugs as solved bugs. 
 

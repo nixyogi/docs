@@ -5,20 +5,20 @@
 1.  Navigate to the syzkaller bug link 
     1.  If the bug is found in the upstream kernel 
         
-        ![download-images](assets/syzkaller-download-images2.png) 
+        ![download-images](../assets/kernel-debug-img/syzkaller-download-images2.png) 
 
         then download the kernel-image from the link using `wget` 
     
     2.  If the bug is found not on the upstream kernel, then it is best 
         to download the `.config` file and build the latest upstream kernel 
 
-        ![download-images](assets/syzkaller-download-images3.png) 
+        ![download-images](../assets/kernel-debug-img/syzkaller-download-images3.png) 
 
 1.  Now that the kernel is downloaded and ready, download these artifacts too. 
     -   disk image 
     -   C repro, save as `.c` file 
 
-    ![download-images](assets/syzkaller-download-images.png) 
+    ![download-images](../assets/kernel-debug-img/syzkaller-download-images.png) 
 
 2.  Extract the disk image and kernel image 
     ```sh 
@@ -51,7 +51,7 @@
 
 7.  If the bug is not fixed then it will give a kernel panic. 
 
-    ![syzkaller-panic](assets/syzkaller-panic.png) 
+    ![syzkaller-panic](../assets/kernel-debug-img/syzkaller-panic.png) 
 
 8.  If there is no panic then the bug has been fixed. 
 
@@ -61,20 +61,20 @@
 1.  Navigate to the syzkaller bug link 
     1.  If the bug is found in the upstream kernel 
         
-        ![download-images](assets/syzkaller-download-images2.png) 
+        ![download-images](../assets/kernel-debug-img/syzkaller-download-images2.png) 
 
         then download the kernel-image from the link using `wget` 
     
     2.  If the bug is found not on the upstream kernel, then it is best 
         to download the `.config` file and build the latest upstream kernel 
 
-        ![download-images](assets/syzkaller-download-images3.png) 
+        ![download-images](../assets/kernel-debug-img/syzkaller-download-images3.png) 
 
 1.  Now that the kernel is downloaded and ready, download these artifacts too. 
     -   disk image 
     -   syz repro, save as `.txt` file 
 
-        ![download-images](assets/syzkaller-download-images4.png) 
+        ![download-images](../assets/kernel-debug-img/syzkaller-download-images4.png) 
 
 2.  Extract the disk image and kernel image 
     ```sh 
@@ -104,6 +104,6 @@
 
 7.  If the bug is not fixed then it will give a kernel panic. 
 
-    ![syzkaller-panic](assets/syzkaller-panic.png) 
+    ![syzkaller-panic](../assets/kernel-debug-img/syzkaller-panic.png) 
 
 8.  If there is no panic then the bug probably has been fixed. 

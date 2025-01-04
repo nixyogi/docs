@@ -3,7 +3,7 @@
 ## What is Fuzzing ? 
 Feeding random inputs untill program crashes. 
 
-![fuzzing](assets/fuzzing-img.png)
+![fuzzing](../assets/kernel-debug-img/fuzzing-img.png)
 
 for Fuzzing we need to answer these questions 
 
@@ -27,7 +27,7 @@ So there are 3 approaches to generate better inputs
 1.  Structured inputs (structure-aware-fuzzing)
     -   We build a grammar for inputs and fuzz them. 
 2.  Guided generation (coverage-guided-fuzzing)
-    ![fuzzing](assets/guided-generation-fuzzing.png)
+    ![fuzzing](../assets/kernel-debug-img/guided-generation-fuzzing.png)
     -   We use an existing pool of corpus input or a random input
     -   We mutate (change) it 
     -   We use it as an input and execute the program
@@ -49,12 +49,12 @@ To inject inputs we need to understand what inputs does kernel have.
 #### What kind of inputs does kernel have 
 
 1.  syscalls
-    ![fuzzing](assets/kernel-inputs-syscall.png)
+    ![fuzzing](../assets/kernel-debug-img/kernel-inputs-syscall.png)
     -   We can use program which calls syscalls to inject syscall input.
 
 2.  external inputs i.e usb dev, network packets, firmware etc. 
 
-    ![fuzzing](assets/kernel-inputs-external.png)
+    ![fuzzing](../assets/kernel-debug-img/kernel-inputs-external.png)
     -   We can use userspace or hypervisor/emulator to give external inputs
         
         for ex: 

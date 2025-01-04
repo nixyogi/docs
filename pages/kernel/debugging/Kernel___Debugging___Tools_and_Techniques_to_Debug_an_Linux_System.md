@@ -299,7 +299,7 @@ This will check for leaks etc..
 
 This depends on what type of problem you are debugging.
 
-![summary2](assets/which-tool-best-for-debugging.png)
+![summary2](../assets/kernel-debug-img/which-tool-best-for-debugging.png)
 
 #### References
 

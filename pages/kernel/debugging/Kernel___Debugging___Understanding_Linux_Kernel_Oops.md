@@ -205,7 +205,7 @@ dissassemble <function-name>
 
 ## TLDR; Summary
 
-![summary1](assets/kernedebug.drawio.png)
+![summary1](../assets/kernel-debug-img/kernedebug.drawio.png)
 
 #### References 
 Ref: https://www.opensourceforu.com/2011/01/understanding-a-kernel-oops/

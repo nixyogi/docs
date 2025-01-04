@@ -55,13 +55,13 @@ It can be enabled in the kernel by setting config CONFIG_KASAN=y
     byte contains 0 if all bytes can be access (good bytes), 7 if 1 byte out of 8 bytes
     cannot be accessed (bad byte) and -1 if all the bytes cannot be accessed. 
 
-    ![quarantine](assets/shadow-byte.png)
+    ![quarantine](../assets/kernel-debug-img/shadow-byte.png)
 
     The shadow bytes are stored in a virtual memory section called KASAN shadow.
 
 2.  Red-zones around heap objects (to detect out-of-bound errors)
 
-    ![quarantine](assets/quarantine.png)
+    ![quarantine](../assets/kernel-debug-img/quarantine.png)
     
     If we try to access the redzones then bug is triggered. 
 
@@ -70,7 +70,7 @@ It can be enabled in the kernel by setting config CONFIG_KASAN=y
     This delays the reuse of heap blocks, so if the kernel tries to access 
     this block in quarantine then it is Use-After-Free bug. 
 
-    ![quarantine](assets/quarantine.png)
+    ![quarantine](../assets/kernel-debug-img/quarantine.png)
 
 4.  Compiler instrumentation: shadow check before memory access  
 

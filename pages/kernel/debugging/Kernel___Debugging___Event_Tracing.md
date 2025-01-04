@@ -84,4 +84,4 @@ root@syzkaller:~# cat /sys/kernel/tracing/trace
            rmmod-331     [001] .....   909.193745: module_free: hello_world
 ```
 
-![event-tracing-output](assets/event-tracing-output.png)
+![event-tracing-output](../assets/kernel-debug-img/event-tracing-output.png)
