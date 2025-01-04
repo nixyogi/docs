@@ -1,27 +1,29 @@
-# Understanding Types of Image representation 
-1. Vector Image - Vector images are represented to the computer in a form of an recipe on how to draw the image.
+alias::
 
-It is resolution independent.
-For example : 
-```
-draw circle
- center        0.5, 0.5
- radius        0.4
- fill-color    yellow
- stroke-color  black
- stroke-width  0.05
-draw line
- start         0.3, 0.6
- end           0.7, 0.6
- stroke-color  black
- stroke-width  0.1
-```
-
-2. Raster Image - Raster images are represented in a an array where each element is called a pixel.
-
-![368px-Rgb-raster-image.svg](../assets/opencv-img/368px-Rgb-raster-image.svg.png)
-
-Normally we deal with raster images.
+- # Understanding Types of Image representation 
+  1. Vector Image - Vector images are represented to the computer in a form of an recipe on how to draw the image.
+  
+  It is resolution independent.
+  For example : 
+  ```
+  draw circle
+   center        0.5, 0.5
+   radius        0.4
+   fill-color    yellow
+   stroke-color  black
+   stroke-width  0.05
+  draw line
+   start         0.3, 0.6
+   end           0.7, 0.6
+   stroke-color  black
+   stroke-width  0.1
+  ```
+  
+  2. Raster Image - Raster images are represented in a an array where each element is called a pixel.
+  
+  ![368px-Rgb-raster-image.svg](../assets/opencv-img/368px-Rgb-raster-image.svg.png)
+  
+  Normally we deal with raster images.
 - # Black and White Image 
   Now each pixel in a (Raster) Image is represented using 1/0 (1 bit) then we will get an image which is black and white with no color.
   
