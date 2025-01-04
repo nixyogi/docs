@@ -1,8 +1,10 @@
-# Introduction to OpenCV
+alias:: OpenCV
 
-Welcome to the OpenCV Course! In this course, you will dive into the world of computer vision and learn how to use OpenCV, a powerful open-source library, for various image processing and computer vision tasks. OpenCV provides a wide range of functions and algorithms that enable developers to analyze and manipulate digital images and videos with ease.
-
-To ensure a comprehensive learning experience, this course is structured into multiple modules, each covering important aspects of computer vision and OpenCV usage. Let's take a closer look at the contents of this course:
+- # Introduction to OpenCV
+  
+  Welcome to the OpenCV Course! In this course, you will dive into the world of computer vision and learn how to use OpenCV, a powerful open-source library, for various image processing and computer vision tasks. OpenCV provides a wide range of functions and algorithms that enable developers to analyze and manipulate digital images and videos with ease.
+  
+  To ensure a comprehensive learning experience, this course is structured into multiple modules, each covering important aspects of computer vision and OpenCV usage. Let's take a closer look at the contents of this course:
 - ### Module 1: Understanding Image Representation
 - [[Understanding Types of Digital Image Representation in Computers]]: Get introduced to different image formats and how they are represented in computers.
 - [[CMOS Camera Sensor and its Performance Parameters]]: Explore the working principles of CMOS camera sensors and the key performance parameters to consider.
