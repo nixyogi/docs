@@ -7,7 +7,7 @@ To ensure a comprehensive learning experience, this course is structured into mu
 - [[Understanding Types of Digital Image Representation in Computers]]: Get introduced to different image formats and how they are represented in computers.
 - [[CMOS Camera Sensor and its Performance Parameters]]: Explore the working principles of CMOS camera sensors and the key performance parameters to consider.
 - ### Module 2: Basics of Photography
-- Basics of Photography: Learn the fundamental concepts of photography and how they relate to computer vision and image processing.
+- [[Basics of Photography]]: Learn the fundamental concepts of photography and how they relate to computer vision and image processing.
 - ### Module 3: Introduction to OpenCV
 - OpenCV - Basics: Familiarize yourself with the basics of OpenCV library, its features, and its importance in computer vision.
 - Reading/Writing an Image: Discover how to read and write images using OpenCV.
