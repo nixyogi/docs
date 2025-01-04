@@ -1,3 +1,5 @@
+alias:: AI Course
+
 - Warming up to dive
 	- Build AI vocabulary and familiarise with the core components of AI models
 	- Model architecture and components
