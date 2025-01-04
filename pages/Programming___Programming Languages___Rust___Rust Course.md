@@ -1,5 +1,5 @@
-- [[Rust Data Types]]
-- [[Rust Variables and Immutability]]
+- [[Programming/Programming Languages/Rust/Rust Course/Rust Data Types]]
+- [[Programming/Programming Languages/Rust/Rust Course/Rust Variables and Immutability]]
 - [[Rust Functions]]
 - [[Rust Closures]]
 - [[Rust-Strings]]
