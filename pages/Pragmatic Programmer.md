@@ -1,1 +1,0 @@
-- ![The Pragmatic Programmer Your Journey to Mastery, 20th Anniversary Edition by Andrew Hunt David Hurst Thomas.pdf](../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Anniversary_Edition_by_Andrew_Hunt_David_Hurst_Thomas_1735825070654_0.pdf)
