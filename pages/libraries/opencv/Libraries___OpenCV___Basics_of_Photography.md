@@ -1,5 +1,7 @@
-# Basics of Photography 
-These are key points of photography which allows you to take great photos
+alias:: Basics of Photography
+
+- # Basics of Photography 
+  These are key points of photography which allows you to take great photos
 - ## Exposure 
   Exposure is the amount of light that is exposed to the camera sensor.
   
