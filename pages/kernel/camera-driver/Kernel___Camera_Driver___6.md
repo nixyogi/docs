@@ -1,6 +1,6 @@
 ## Working of Camera
 
-![image3](img/image3.png)
+![image3](../assets/camera-driver-img/image3.png)
 
 1. The light enters when shutter of the camera gets opened through lens and then it is stored in the form of photons. 
 2. Then these photons are converted into some electric signals having certain range of voltage say 0 to 5 V. 

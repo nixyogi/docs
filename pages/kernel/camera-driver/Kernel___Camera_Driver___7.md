@@ -1,7 +1,7 @@
 ## Image Processing Pipeline 
 Image processing Pipeline is a method used to convert an image into digital form while performing some operations on them, in order to get an enhanced image or to extract some useful information.
 
-![image4](img/image4.png)
+![image4](../assets/camera-driver-img/image4.png)
 
 **White Balancing:** 
 White balancing (WB) is the process of removing unrealistic color, so that the objects that appear white are rendered white in the image. There are two different methods of white balancing: 

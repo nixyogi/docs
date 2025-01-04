@@ -15,7 +15,7 @@ In elements, We have sink elements and source elements.
 **Sink elements** are end points in a media pipeline. They accept data but do not produce anything.
 Basic concept of media handling in Gstreamer 
 
-![images__3_](img/images__3_.png)
+![images__3_](../assets/camera-driver-img/images__3_.png)
 
 Here the output of the source element will be used as input for the filter-like element.The filter-like element will do something with the data and send the result to the final sink element.
 
@@ -28,11 +28,11 @@ A bin is a container for a collection of elements.
 • **Pipelines** :
 Elements arranged in particular sequence.
 
-![images__2_](img/images__2_.png)
+![images__2_](../assets/camera-driver-img/images__2_.png)
 
 **GStreamer** provides several mechanisms for communication and data exchange between the application and the pipeline.
 
-![communication](img/communication.png)
+![communication](../assets/camera-driver-img/communication.png)
 
 • **Buffers** are objects for passing data between elements in the pipeline. They travel from source to sinks.
 

@@ -6,7 +6,7 @@
 
 CSI can be divided into 5 major parts :
 
-![image5](img/image5.png)
+![image5](../assets/camera-driver-img/image5.png)
 
 * Image data – uses 4 lanes
 * Camera control – uses 2 lanes for i2c communication

@@ -1,4 +1,4 @@
-![V4l2-dia](img/V4l2-dia.jpg)
+![V4l2-dia](../assets/camera-driver-img/V4l2-dia.jpg)
 
 # Camera Driver Architecture
 1. Application - The user application which captures video or pictures
