@@ -2,15 +2,14 @@
 
 Status: Courses
 Tags: Rust
-
-## if-else construct
-
-1. `if-else` in Rust is not a statement but an expression.
+- ## if-else construct
+  
+  1. `if-else` in Rust is not a statement but an expression.
     1. Statements do not return any value
     2. Expressions return value. 
-2. Hence `if else` in Rust return value which can be ignored or assigned to a variable 
-3. **Both `if` and `else` branches should return the same type of value. Because Rust does not allow multiple types to be stored in a variable.**
-4. For example:
+  2. Hence `if else` in Rust return value which can be ignored or assigned to a variable 
+  3. **Both `if` and `else` branches should return the same type of value. Because Rust does not allow multiple types to be stored in a variable.**
+  4. For example:
     
     ```rust
     // Simple example 
@@ -30,8 +29,7 @@ Tags: Rust
        0
     }
     ```
-    
-    ## match expression
+- ## match expression
     
     1. `match` in Rust is a replacement to `switch` and `case` in C. 
     2. For Example:
