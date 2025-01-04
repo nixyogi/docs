@@ -5,16 +5,16 @@ It is resolution independent.
 For example : 
 ```
 draw circle
-   center        0.5, 0.5
-   radius        0.4
-   fill-color    yellow
-   stroke-color  black
-   stroke-width  0.05
+ center        0.5, 0.5
+ radius        0.4
+ fill-color    yellow
+ stroke-color  black
+ stroke-width  0.05
 draw line
-   start         0.3, 0.6
-   end           0.7, 0.6
-   stroke-color  black
-   stroke-width  0.1
+ start         0.3, 0.6
+ end           0.7, 0.6
+ stroke-color  black
+ stroke-width  0.1
 ```
 
 2. Raster Image - Raster images are represented in a an array where each element is called a pixel.

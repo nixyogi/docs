@@ -23,14 +23,12 @@ Types of Arithmetic Transforms
 14. cuberoot()
 15. exp()
 16. log()
-
-
-# Image Geometrical transforms 
-
-Geometrical transforms change the position of the pixel and not the value. 
-Hence after such transforms the position of the pixel changes to a new position.
-
-The examples of geometric transform is 
-1. Scaling
-2. Cropping 
-3. Wrap perspective
+- # Image Geometrical transforms 
+  
+  Geometrical transforms change the position of the pixel and not the value. 
+  Hence after such transforms the position of the pixel changes to a new position.
+  
+  The examples of geometric transform is 
+  1. Scaling
+  2. Cropping 
+  3. Wrap perspective
