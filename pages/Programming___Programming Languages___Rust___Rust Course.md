@@ -1,5 +1,6 @@
 alias:: Rust Course
 
+- status:: Pending
 - # Course Index
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Data Types]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Variables and Immutability]]
