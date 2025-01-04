@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["doing" "programming" "todo" "kernel" "libraries"]
+ :favorites ["programming" "kernel" "libraries" "doing" "todo"]
 
  ;; Set flashcards interval.
  ;; Expected value:
