@@ -1,4 +1,4 @@
-alias::
+alias:: Understanding Types of Digital Image Representation in Computers
 
 - # Understanding Types of Image representation 
   1. Vector Image - Vector images are represented to the computer in a form of an recipe on how to draw the image.
