@@ -5,7 +5,7 @@ alias:: Rust Course
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Variables and Immutability]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Functions]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Closures]]
-- [[Rust-Strings]]
+- [[Programming/Programming Languages/Rust/Rust Course/Rust-Strings]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Decision Making]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Loops]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Struct]]
