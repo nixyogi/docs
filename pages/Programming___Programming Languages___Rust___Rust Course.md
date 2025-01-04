@@ -1,7 +1,10 @@
+alias:: Rust Course
+
+- # Course Index
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Data Types]]
 - [[Programming/Programming Languages/Rust/Rust Course/Rust Variables and Immutability]]
-- [[Rust Functions]]
-- [[Rust Closures]]
+- [[Programming/Programming Languages/Rust/Rust Course/Rust Functions]]
+- [[Programming/Programming Languages/Rust/Rust Course/Rust Closures]]
 - [[Rust-Strings]]
 - [[Rust Decision Making]]
 - [[Rust Loops]]
