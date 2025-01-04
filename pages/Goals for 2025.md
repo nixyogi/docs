@@ -20,6 +20,6 @@
 			- **Leadership**
 				- Lead atleast 1 project successfully with the help of GET's.
 	- ### Happiness
-		- Read a book every month. [[Books to Read]] (Why?: Because I want to learn new stuff)
+		- Read a book every month. [[Books]] (Why?: Because I want to learn new stuff)
 		- Make an habit of everyday journaling (Why ? : Because I want to reflect on my behaviour daily and improve it)
 		- Track my habits and monitor them. (Why ? : To improve accountability and to improve my behaviour)
