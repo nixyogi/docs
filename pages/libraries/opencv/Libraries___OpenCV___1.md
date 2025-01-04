@@ -39,7 +39,7 @@ extrinsic properties (rotation and translation) in one matrix.
 
 # Epipolar Geometry 
 
-![Epipolar_geometry.svg](img/Epipolar_geometry.svg)
+![Epipolar_geometry.svg](../assets/opencv-img/Epipolar_geometry.svg)
 
 Lets say you are capturing images using 2 cameras. (stereo vision)
 
@@ -57,12 +57,12 @@ Now we will discuss the terms
 
 # Detecting Depth from Stereo images 
 
-![stereodepth](img/stereodepth.png)
+![stereodepth](../assets/opencv-img/stereodepth.png)
 
 Lets say we have 2 cameras side by side with same 3D calibration (i.e 0 rotation and B translation X domain) 
 
 Then the projection Matrix of the Right camera is 
-![matrix](img/matrix.png)  
+![matrix](../assets/opencv-img/matrix.png)  
 
 Where, 
 f - Focal length of the camera 
@@ -72,7 +72,7 @@ u0, v0 - are the x,y co-ordinates of the Principle point.
 x',y' - is the co-ordinates of the object in the image  
 
 And the To calculate depth we can use this formula
-![equation](img/equation.png)
+![equation](../assets/opencv-img/equation.png)
 
 The term (x-x') is called as `disparity`. 
 
