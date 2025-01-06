@@ -217,3 +217,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 51
   hl-color:: yellow
   id:: 677be130-5f88-4805-8e54-632cb7749a35
+- Make Quality a Requirements Issue
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: yellow
+  id:: 677be15f-1761-4e26-a0ad-ce3bf76bb9b0
+- Surprisingly, many users would rather use software with some rough edges today than wait a year for the shiny, bells-andwhistles version (and in fact what they will need a year from now may be completely different anyway).
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 677be16d-7ad7-4eda-845c-06bea30b8789
