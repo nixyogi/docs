@@ -162,3 +162,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 43
   hl-color:: green
   id:: 677be031-da4d-4562-9d7a-5bf9a107ec36
+- FIRST, DO NO HARM Andy once had an acquaintance who was obscenely rich. His house was immaculate, loaded with priceless antiques, objets d’art, and so on. One day, a tapestry that was hanging a little too close to a fireplace caught on fire. The fire department rushed in to save the day—and his house. But before they dragged their big, dirty hoses into the house, they stopped—with the fire raging—to roll out a mat between the front door and the source of the fire. They didn’t want to mess up the carpet
+  ls-type:: annotation
+  hl-page:: 44
+  hl-color:: green
+  id:: 677be059-c04f-4496-9a5d-a2935ee3fad1
+- By the same token, if you find yourself on a project where the code is pristinely beautiful—cleanly written, well designed, and elegant—you will likely take extra special care not to mess it up, just like the firefighters. 
+  ls-type:: annotation
+  hl-page:: 45
+  hl-color:: green
+  id:: 677be067-026f-4cf2-b550-3d332b87e10e
+- Stone Soup and Boiled Frogs
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: green
+  id:: 677be071-aa56-4bb3-9a90-232fc035a11d
