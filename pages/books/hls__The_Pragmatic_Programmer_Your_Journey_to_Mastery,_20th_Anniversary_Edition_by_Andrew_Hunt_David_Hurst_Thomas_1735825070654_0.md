@@ -202,3 +202,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 50
   hl-color:: green
   id:: 677be0e5-53b3-4acd-9d87-a20095c9753d
+- As Ed Yourdon described in an article in IEEE Software, When good-enough software is best [You95], you can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll find that you are more productive and your users are happier. And you may well find that your programs are actually better for their shorter incubation
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: yellow
+  id:: 677be118-d580-4bd2-a541-b10d8db299b1
+- The phrase “good enough’’ does not imply sloppy or poorly
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: yellow
+  id:: 677be125-5195-421f-9f47-84eb335e58a4
+- produced code. All systems must meet their users’ requirements to be successful, and meet basic performance, privacy, and security standards. We are simply advocating that users be given an opportunity to participate in the process of deciding when what you’ve produced is good enough for their needs
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: yellow
+  id:: 677be130-5f88-4805-8e54-632cb7749a35
