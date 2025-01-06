@@ -227,3 +227,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 52
   hl-color:: yellow
   id:: 677be16d-7ad7-4eda-845c-06bea30b8789
+- Don’t spoil a perfectly good program by overembellishment and overrefinement. Move on, and let your code stand in its own right for a while
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: yellow
+  id:: 677be199-0e2c-441a-9ac3-659e5a241345
