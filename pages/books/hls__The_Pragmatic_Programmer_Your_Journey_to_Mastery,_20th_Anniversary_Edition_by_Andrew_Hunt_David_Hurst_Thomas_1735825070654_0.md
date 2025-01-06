@@ -177,3 +177,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 46
   hl-color:: green
   id:: 677be071-aa56-4bb3-9a90-232fc035a11d
+- You may be in a situation where you know exactly what needs doing and how to do it. The entire system just appears before your eyes—you know it’s right. But ask permission to tackle the whole thing and you’ll be met with delays and blank stares. People will form committees, budgets will need approval, and things will get complicated. Everyone will guard their own resources. Sometimes this is called “start-up fatigue.’’ It’s time to bring out the stones. Work out what you can reasonably ask for. Develop it well. Once you’ve got it, show people, and let them marvel. Then say “of course, it would be better if we added…’
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 677be094-98de-4cd7-bd11-4ccb1a8edc03
+- Be a Catalyst for Change
+  ls-type:: annotation
+  hl-page:: 47
+  hl-color:: green
+  id:: 677be0ae-d205-4acc-a3ed-469004ad79f0
