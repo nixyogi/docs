@@ -32,8 +32,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 27
   hl-color:: yellow
   id:: 677bdd5e-d7d5-4577-9d98-65952a9ef644
-- You adjust your approach to suit the current circumstances and environment. You judge the relative importance of all the factors affecting a project and use your experience to produce appropriate solutions. And you do this continuously as the work progresses. Pragmatic Programmers get the job done, and do it well.
+- You adjust your approach to suit the current circumstances and environment. You judge the relative importance of all the factors affecting a project and use your experience to produce appropriate solutions. And you do this continuously as the work progresses. Pragmatic Programmers get the job done, and do it well
   ls-type:: annotation
   hl-page:: 27
   hl-color:: yellow
-  id:: 677bdd6e-a34a-4ecf-a464-9918e4cfc077
+  id:: 677bdd81-70e2-4bc4-9c81-a73be942d4f0
+- Pragmatic Programmer, you’ll share many of the following characteristics
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: red
+  id:: 677bdd9c-7721-4567-927f-17913a3bfd24
+- Early adopter/fast adapter
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: red
+  id:: 677bdda2-0c33-4e9f-8c68-1138f0a51240
+- Inquisitive
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: red
+  id:: 677bdda6-4ed3-4da6-9eaf-989ad266c4c4
+- Critical thinker
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: red
+  id:: 677bddac-92bd-40bb-8b8a-c580a26ef3b9
