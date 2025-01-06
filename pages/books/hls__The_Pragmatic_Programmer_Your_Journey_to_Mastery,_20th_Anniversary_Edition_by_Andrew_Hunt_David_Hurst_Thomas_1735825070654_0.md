@@ -127,3 +127,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 38
   hl-color:: yellow
   id:: 677bdf79-7f41-46cb-acc9-3a6faf78beb6
+- Responsibility is something you actively agree to.
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 677bdfa2-cc5e-4b9f-a0aa-3449b5df5d38
+- When you do accept the responsibility for an outcome, you should expect to be held accountable for it
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 677bdfa7-46ed-4134-915a-17b78d44e00e
+- Don’t blame someone or something else, or make up an excuse. Don’t blame all the problems on a vendor, a programming language, management, or your coworkers. Any and all of these may play a role, but it is up to you to provide solutions, not excuses.
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: yellow
+  id:: 677bdfb7-855a-491d-bfc8-04e2c589c5cb
