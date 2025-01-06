@@ -87,3 +87,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 32
   hl-color:: yellow
   id:: 677bde48-0d01-4632-a4c4-e609887d393a
+- Every day, work to refine the skills you have and to add new tools to your repertoire. Unlike the Eton lawns, you’ll start seeing results in a matter of days. Over the years, you’ll be amazed at how your experience has blossomed and how your skills have grown
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: yellow
+  id:: 677bde75-1291-48b6-bed6-100f3bf363a5
+- What distinguishes Pragmatic Programmers? We feel it’s an attitude, a style, a philosophy of approaching problems and their solutions. They think beyond the immediate problem, placing it in its larger context and seeking out the bigger picture.
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 677bde95-25d9-4c56-b1d4-3540b414f7a7
+- Another key to their success is that Pragmatic Programmers take responsibility for everything they do
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 677bde9c-cae3-4ba5-80ff-b1187a95dfcb
