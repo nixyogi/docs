@@ -102,3 +102,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 34
   hl-color:: yellow
   id:: 677bde9c-cae3-4ba5-80ff-b1187a95dfcb
+- Being responsible, Pragmatic Programmers won’t sit idly by and watch their projects fall apart through neglect. In Topic 3, Software Entropy, we tell you how to keep your projects pristine.
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 677bdeba-18d9-45ff-a805-199730b878e5
