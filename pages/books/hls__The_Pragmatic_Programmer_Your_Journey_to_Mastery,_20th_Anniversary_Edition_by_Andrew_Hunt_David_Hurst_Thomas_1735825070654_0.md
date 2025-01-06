@@ -187,3 +187,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 47
   hl-color:: green
   id:: 677be0ae-d205-4acc-a3ed-469004ad79f0
+- Most software disasters start out too small to notice, and most project overruns happen a day at a time. Systems drift from their specifications feature by feature, while patch after patch gets added to a piece of code until there’s nothing of the original left. It’s often the accumulation of small things that breaks morale and teams
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: green
+  id:: 677be0c0-8a71-4ae5-8943-6595d7e7a53b
+- Remember the Big Picture We’ve never tried this—honest. But “they” say that if you take a frog and drop it into boiling water, it will jump straight back out again. However, if you place the frog in a pan of cold water, then gradually heat it, the frog won’t notice the slow increase in temperature and will stay put until cooked
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: yellow
+  id:: 677be0cc-c256-4395-92c2-3f92609e6f00
+- Good-Enough Software
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: green
+  id:: 677be0e5-53b3-4acd-9d87-a20095c9753d
