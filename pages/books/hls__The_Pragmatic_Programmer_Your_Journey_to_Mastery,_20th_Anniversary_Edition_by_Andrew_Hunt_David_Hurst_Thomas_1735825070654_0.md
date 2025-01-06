@@ -57,3 +57,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 29
   hl-color:: red
   id:: 677bddac-92bd-40bb-8b8a-c580a26ef3b9
+- Realistic
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: red
+  id:: 677bddb8-8e92-4022-9e41-63c18affe67d
+- Jack of all trades
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: red
+  id:: 677bddc4-ad5b-4fa7-a8a5-43f6dff71d6b
+- Care About Your Craft We feel that there is no point in developing software unless you care about doing it well
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: green
+  id:: 677bddd7-8d30-4105-b9f2-145293d73971
+- Think! About Your Work In order to be a Pragmatic Programmer, we’re challenging you to think about what you’re doing while you’re doing it. This isn’t a one-time audit of current practices—it’s an ongoing critical appraisal of every decision you make, every day, and on every project. Never run on auto-pilot.
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: green
+  id:: 677bdde9-dc38-49f5-b671-0f6dabdc1f61
