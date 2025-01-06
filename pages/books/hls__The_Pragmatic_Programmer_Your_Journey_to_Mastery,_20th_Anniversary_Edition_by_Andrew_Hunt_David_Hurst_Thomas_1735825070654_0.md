@@ -152,3 +152,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 41
   hl-color:: yellow
   id:: 677bdfea-62b7-4a6b-a72a-428f586c914f
+- When disorder increases in software, we call it “software rot.”
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 677be00a-24c3-4c31-ae43-fcaf407980f7
+- Don’t Live with Broken Windows Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered. If there is insufficient time to fix it properly, then board it up
+  ls-type:: annotation
+  hl-page:: 43
+  hl-color:: green
+  id:: 677be031-da4d-4562-9d7a-5bf9a107ec36
