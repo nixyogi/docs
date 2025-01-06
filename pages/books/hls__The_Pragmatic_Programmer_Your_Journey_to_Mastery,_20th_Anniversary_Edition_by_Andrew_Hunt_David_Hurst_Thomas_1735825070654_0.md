@@ -77,3 +77,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 30
   hl-color:: green
   id:: 677bdde9-dc38-49f5-b671-0f6dabdc1f61
+- There should be engineering in software construction. However, this doesn’t preclude individual craftsmanship.
+  ls-type:: annotation
+  hl-page:: 32
+  hl-color:: yellow
+  id:: 677bde36-49c4-4f89-8026-02acaa11e9d7
+- One hundred years from now, our engineering may seem as archaic as the techniques used by medieval cathedral builders seem to today’s civil engineers, while our craftsmanship will still be honored.
+  ls-type:: annotation
+  hl-page:: 32
+  hl-color:: yellow
+  id:: 677bde48-0d01-4632-a4c4-e609887d393a
