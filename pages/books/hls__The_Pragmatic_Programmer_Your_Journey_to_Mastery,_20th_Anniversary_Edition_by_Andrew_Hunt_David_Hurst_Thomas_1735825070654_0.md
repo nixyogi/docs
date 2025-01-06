@@ -107,3 +107,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 34
   hl-color:: yellow
   id:: 677bdeba-18d9-45ff-a805-199730b878e5
+- Pragmatic Programmers take charge of their own career, and aren’t afraid to admit ignorance or error.
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 677bdf34-9c41-4692-9bf6-eedd991cd020
