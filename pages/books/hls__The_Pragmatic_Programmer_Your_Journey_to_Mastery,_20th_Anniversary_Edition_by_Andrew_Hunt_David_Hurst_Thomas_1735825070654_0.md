@@ -142,3 +142,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 39
   hl-color:: yellow
   id:: 677bdfb7-855a-491d-bfc8-04e2c589c5cb
+- Provide Options, Don’t Make Lame Excuses Before you approach anyone to tell them why something can’t be done, is late, or is broken, stop and listen to yourself. Talk to the rubber duck on your monitor, or the cat. Does your excuse sound reasonable, or stupid? How’s it going to sound to your boss?
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: green
+  id:: 677bdfd2-e725-41ac-b4af-6338ec42acbd
+- Try to flush out the lame excuses before voicing them aloud. If you must, tell your cat first. 
+  ls-type:: annotation
+  hl-page:: 41
+  hl-color:: yellow
+  id:: 677bdfea-62b7-4a6b-a72a-428f586c914f
