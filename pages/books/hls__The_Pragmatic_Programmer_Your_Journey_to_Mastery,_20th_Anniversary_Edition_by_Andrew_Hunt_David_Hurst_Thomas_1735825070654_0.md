@@ -112,3 +112,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 38
   hl-color:: yellow
   id:: 677bdf34-9c41-4692-9bf6-eedd991cd020
+- This means being honest and direct.
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 677bdf6e-6fe2-44d2-aa3e-093acdd5131b
+- We can be proud of our abilities, but we must own up to our shortcomings—our ignorance and our mistakes.
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 677bdf73-7b29-4793-bda6-213b69359699
+- your team needs to be able to trust and rely on you— and you need to be comfortable relying on each of them as well
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 677bdf79-7f41-46cb-acc9-3a6faf78beb6
