@@ -5,5 +5,5 @@ tags:: brain health
 	- 6 secs of High intensity cardio-training, then 1 min rest . Repeat this 6 times for get significantly improved brain performance.
 	- Why it improves brain performance ?
 		- Exercise releases compounds like Cortisol, Adrenaline and many more which increases the blood flow to the brain. Hence improving the brain performance.
-	- One issue with the HIT is that
+	- One issue with the HIT (High Intensity Training) is that it needs to be done in moderation. If we over do it then acute
 	- Exercise especially in the core muscles lead to significant increase in the compounds giving better results
