@@ -1127,3 +1127,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 133
   hl-color:: yellow
   id:: 67840031-6f20-408e-a471-0ac2590dc3ac
+- And, in the process of producing an estimate, you’ll come to understand more about the world your programs inhabit.
+  ls-type:: annotation
+  hl-page:: 133
+  hl-color:: yellow
+  id:: 6784004e-9d72-423c-8df8-57b4351a1369
+- By learning to estimate, and by developing this skill to the point where you have an intuitive feel for the magnitudes of things, you will be able to show an apparent magical ability to determine their feasibility.
+  ls-type:: annotation
+  hl-page:: 133
+  hl-color:: yellow
+  id:: 6784005c-89dc-4601-93e9-40863f3ad87d
+- Tip 23 Estimate to Avoid Surprises
+  ls-type:: annotation
+  hl-page:: 133
+  hl-color:: yellow
+  id:: 67840067-7d4c-47fc-a685-b41c0848f864
