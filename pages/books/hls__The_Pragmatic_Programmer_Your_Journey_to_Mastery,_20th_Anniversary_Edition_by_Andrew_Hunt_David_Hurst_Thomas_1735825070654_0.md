@@ -851,3 +851,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 104
   hl-color:: yellow
   id:: 6783f50e-ae0b-43ca-af50-eae2be5338a3
+- The problem is that critical decisions aren’t easily reversible.
+  ls-type:: annotation
+  hl-page:: 105
+  hl-color:: yellow
+  id:: 6783f53f-4973-44e7-b93d-f0d868e1e48e
