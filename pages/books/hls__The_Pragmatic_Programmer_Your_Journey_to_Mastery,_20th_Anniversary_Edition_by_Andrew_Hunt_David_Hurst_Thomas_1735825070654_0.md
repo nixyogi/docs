@@ -1117,3 +1117,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 124
   hl-color:: yellow
   id:: 6783ff9f-caf6-4bca-b145-00d0f755e333
+- In general, use off-the-shelf external languages (such as YAML, JSON, or CSV) if you can. If not, look at internal languages. We’d recommend using external languages only in cases where your language will be written by the users of your application
+  ls-type:: annotation
+  hl-page:: 129
+  hl-color:: yellow
+  id:: 67840000-2cec-48b6-a2cd-1a35be733ffb
+- Topic 15 Estimating
+  ls-type:: annotation
+  hl-page:: 133
+  hl-color:: yellow
+  id:: 67840031-6f20-408e-a471-0ac2590dc3ac
