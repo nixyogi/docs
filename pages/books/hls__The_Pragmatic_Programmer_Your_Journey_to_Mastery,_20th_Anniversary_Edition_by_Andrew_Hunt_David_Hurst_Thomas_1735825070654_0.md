@@ -977,3 +977,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 114
   hl-color:: yellow
   id:: 6783f7f8-eafb-4ad4-80ed-526183614fc2
+- Because each individual development is smaller, you avoid creating those monolithic blocks of code that are reported as 95% complete week after week.
+  ls-type:: annotation
+  hl-page:: 115
+  hl-color:: yellow
+  id:: 6783f808-e477-41fd-ab5e-f09387870d19
+- TRACER BULLETS DON’T ALWAYS HIT THEIR TARGET Tracer bullets show what you’re hitting. This may not always be the target. You then adjust your aim until they’re on target. That’s the point.
+  ls-type:: annotation
+  hl-page:: 115
+  hl-color:: yellow
+  id:: 6783f813-96a3-44a7-a8fe-4f50829c1877
+- TRACER CODE VERSUS PROTOTYPING You might think that this tracer code concept is nothing more than prototyping under an aggressive name. There is a difference. With a prototype, you’re aiming to explore specific aspects of the final system.
+  ls-type:: annotation
+  hl-page:: 115
+  hl-color:: yellow
+  id:: 6783f838-0e38-4f63-84f6-558c4ff8ddc0
