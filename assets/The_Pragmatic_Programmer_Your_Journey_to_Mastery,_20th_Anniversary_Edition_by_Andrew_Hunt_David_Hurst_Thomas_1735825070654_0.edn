@@ -4029,4 +4029,4 @@
                           :page 81},
                :content {:text "Here’s the acid test: when some single facet of the code has to change, do you find yourself making that change in multiple places, and in multiple different formats? Do you have to change code and documentation, or a database schema and a structure that holds it, or…? If so, your code isn’t DRY."},
                :properties {:color "yellow"}}],
- :extra {:page 82}}
+ :extra {:page 83}}
