@@ -681,3 +681,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 93
   hl-color:: yellow
   id:: 6783f162-4c62-431f-861e-554f686ca2dc
+- The cyclic is the stick you hold in your right hand. Move it, and the helicopter moves in the corresponding direction. Your left hand holds the collective pitch lever. Pull up on this and you increase the pitch on all the blades, generating lift. At the end of the pitch lever is the throttle. Finally you have two foot pedals, which vary the amount of tail rotor thrust and so help turn the helicopter
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: yellow
+  id:: 6783f171-9642-4005-8611-fa28bfed1c4d
+- However, when you try it, you discover that life isn’t that simple. The helicopter’s nose drops, and you start to spiral down to the left. Suddenly you discover that you’re flying a system where every control input has secondary effects. Lower the left-hand lever and you need to add compensating backward movement to the right-hand stick and push the right pedal. But then each of these changes affects all of the other controls again. Suddenly you’re juggling an unbelievably complex system, where every change impacts all the other inputs. 
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: yellow
+  id:: 6783f182-594a-45cf-b9cd-4ab98ffad42c
+- BENEFITS OF ORTHOGONALITY
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f193-e678-4a7b-87c3-998984367804
+- Eliminate Effects Between Unrelated Things
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f197-dafd-4c68-a947-ce28afdf4adb
