@@ -492,3 +492,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 76
   hl-color:: yellow
   id:: 6783bf9f-9fcf-4574-a569-22d4b29dc37d
+- Values are things that help you make decisions: should I do this, or that? When it comes to thinking about software, ETC is a guide, helping you choose between paths
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 6783c011-a5d6-40a8-8468-17998951a956
+- You may need to spend a week or so deliberately asking yourself “did the thing I just did make the overall system easier or harder to change?” Do it when you save a file. Do it when you write a test. Do it when you fix a bug.
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 6783c02a-e1c2-40dc-9ca7-b72783e543fd
