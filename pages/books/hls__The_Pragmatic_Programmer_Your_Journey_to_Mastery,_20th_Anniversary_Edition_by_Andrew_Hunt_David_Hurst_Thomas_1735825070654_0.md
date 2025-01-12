@@ -1202,3 +1202,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 137
   hl-color:: yellow
   id:: 67840141-a8f6-4ee4-8689-ce50f060c3c4
+- Calculate the Answers Only in the simplest of cases will an estimate have a single answer. You might be happy to say “I can walk five cross-town blocks in 15 minutes.” However, as the systems get more complex, you’ll want to hedge your answers. Run multiple calculations, varying the values of the critical parameters, until you work out which ones really drive the model.
+  ls-type:: annotation
+  hl-page:: 137
+  hl-color:: yellow
+  id:: 6784015f-1607-4e54-a936-d1c30f1726c8
+- Keep Track of Your Estimating Prowess We think it’s a great idea to record your estimates so you can see how close you were. If an overall estimate involved calculating subestimates, keep track of these as well. Often you’ll find your estimates are pretty good—in fact, after a while, you’ll come to expect this.
+  ls-type:: annotation
+  hl-page:: 138
+  hl-color:: yellow
+  id:: 6784017c-d7eb-47b6-9a62-7803b58bf8b5
+- ESTIMATING PROJECT SCHEDULES Normally you’ll be asked to estimate how long something will take. If that “something” is complex, the estimate can be very difficult to produce. In this section, we’ll look at two techniques for reducing that uncertainty.
+  ls-type:: annotation
+  hl-page:: 138
+  hl-color:: yellow
+  id:: 6784018f-490a-49ce-814c-88bf690238d0
