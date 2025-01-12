@@ -841,3 +841,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 101
   hl-color:: yellow
   id:: 6783f3be-8ebe-4606-8de4-e6f883661d5c
+- Topic 11 Reversibility
+  ls-type:: annotation
+  hl-page:: 104
+  hl-color:: yellow
+  id:: 6783f442-8bb6-47e7-be21-3b593dacf7f9
