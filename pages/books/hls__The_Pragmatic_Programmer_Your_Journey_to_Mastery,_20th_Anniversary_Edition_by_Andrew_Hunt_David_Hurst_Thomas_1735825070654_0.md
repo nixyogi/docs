@@ -477,3 +477,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 75
   hl-color:: yellow
   id:: 6783bf6a-628f-4969-9eb7-820661672f36
+- A thing is well designed if it adapts to the people who use it. For code, that means it must adapt by changing. So we believe in the ETC principle: Easier to Change. ETC. That’s it.
+  ls-type:: annotation
+  hl-page:: 75
+  hl-color:: yellow
+  id:: 6783bf7a-d19d-426c-85f5-eee11bedf482
+- every design principle out there is a special case of ETC
+  ls-type:: annotation
+  hl-page:: 75
+  hl-color:: yellow
+  id:: 6783bf86-7991-42c3-967d-05f9d57f9e90
+- ETC IS A VALUE, NOT A RULE
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 6783bf9f-9fcf-4574-a569-22d4b29dc37d
