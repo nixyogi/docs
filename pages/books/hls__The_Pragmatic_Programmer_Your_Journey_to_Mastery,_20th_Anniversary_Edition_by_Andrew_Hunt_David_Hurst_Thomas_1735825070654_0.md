@@ -272,3 +272,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 56
   hl-color:: yellow
   id:: 6783bc2c-35b5-4779-8f47-88edd7c86d74
+- Buy low, sell high Learning an emerging technology before it becomes popular can be just as hard as finding an undervalued stock, but the payoff can be just as rewarding.
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 6783bc38-f843-4395-a58b-e588efacc7b2
+- Review and rebalance This is a very dynamic industry. That hot technology you started investigating last month might be stone cold by now.
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 6783bc49-3ec9-485d-8785-ca38a7f24226
+- Invest Regularly in Your Knowledge Portfolio
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: yellow
+  id:: 6783bc55-7ed3-4f88-a8bc-7c8a34ca5643
+- Learn at least one new language every year Different languages solve the same problems in different ways. By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut.
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: yellow
+  id:: 6783bc5f-74d7-4080-8255-09c8076912d6
