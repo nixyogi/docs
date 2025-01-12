@@ -801,3 +801,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 98
   hl-color:: yellow
   id:: 6783f2ef-71e9-4818-8972-2e118ab8ad74
+- Avoid global data Every time your code references global data, it ties itself into the other components that share that data. Even globals that you intend only to read can lead to trouble(for example, if you suddenly need to change your code to be multithreaded). In general, your code is easier to understand and maintain if you explicitly pass any required context into your modules. In object-oriented applications, context is often passed as parameters to objects’ constructors. In other code, you can create structures containing the context and pass around references to them.
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: yellow
+  id:: 6783f318-1d58-4e0a-99ce-3e41a93507a9
+- Avoid similar functions Often you’ll come across a set of functions that all look similar—maybe they share common code at the start and end, but each has a different central algorithm. Duplicate code is a symptom of structural problems. 
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: yellow
+  id:: 6783f335-e219-4a0c-8a73-a13845d0db0b
+- Get into the habit of being constantly critical of your code.
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: yellow
+  id:: 6783f33d-c549-4a54-bf62-8ebacb8fd44d
