@@ -1027,3 +1027,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 119
   hl-color:: yellow
   id:: 6783fe7f-1e9b-4490-8bf6-de9d78a379ec
+- THINGS TO PROTOTYPE
+  ls-type:: annotation
+  hl-page:: 119
+  hl-color:: yellow
+  id:: 6783fe8f-2018-4746-82dc-ccd40ec3eaa0
+- What sorts of things might you choose to investigate with a prototype? Anything that carries risk. Anything that hasn’t been tried before, or that is absolutely critical to the final system. Anything unproven, experimental, or doubtful. Anything you aren’t comfortable with.
+  ls-type:: annotation
+  hl-page:: 119
+  hl-color:: yellow
+  id:: 6783fe97-a560-4170-83cf-cbbe6542e111
+- You can prototype: Architecture New functionality in an existing system Structure or contents of external data Third-party tools or components Performance issues User interface design
+  ls-type:: annotation
+  hl-page:: 119
+  hl-color:: yellow
+  id:: 6783fea0-d3a1-4238-b78b-3151ab4bb401
+- Prototyping is a learning experience. Its value lies not in the code produced, but in the lessons learned. That’s really the point of prototyping.
+  ls-type:: annotation
+  hl-page:: 120
+  hl-color:: yellow
+  id:: 6783feaa-a9d9-470d-8e74-2e09f1df49fa
+- Tip 21 Prototype to Learn
+  ls-type:: annotation
+  hl-page:: 120
+  hl-color:: yellow
+  id:: 6783feaf-4245-4eaf-b0f3-d169110ded23
+- HOW TO USE PROTOTYPES When building a prototype, what details can you ignore? Correctness You may be able to use dummy data where appropriate. Completeness The prototype may function only in a very limited sense, perhaps with only one preselected piece of input data and one menu item. Robustness Error checking is likely to be incomplete or missing entirely. If you stray from the predefined path, the prototype may crash and burn in a glorious display of pyrotechnics. That’s okay. Style Prototype code shouldn’t have much in the way of comments or documentation (although you may produce reams of documentation as a result of your experience with the prototype)
+  ls-type:: annotation
+  hl-page:: 120
+  hl-color:: yellow
+  id:: 6783fec8-413b-4da4-b122-56eb1a28a125
