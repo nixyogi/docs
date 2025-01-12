@@ -1172,3 +1172,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 135
   hl-color:: yellow
   id:: 678400e1-62c0-4296-9679-f6f8d4737f3e
+- Build a Model of the System This is the fun part of estimating. From your understanding of the question being asked, build a rough-and-ready bare-bones mental model. If you’re estimating response times, your model may involve a server and some kind of arriving traffic. For a project, the model may be the steps that your organization uses
+  ls-type:: annotation
+  hl-page:: 135
+  hl-color:: yellow
+  id:: 678400ff-83c3-4977-9641-31aee8291c42
+- during development, along with a very rough picture of how the system might be implemented.
+  ls-type:: annotation
+  hl-page:: 136
+  hl-color:: yellow
+  id:: 67840104-74fb-4cee-8f3b-faa38b668cfc
+- Model building can be both creative and useful in the long term. Often, the process of building the model leads to discoveries of underlying patterns and processes that weren’t apparent on the surface
+  ls-type:: annotation
+  hl-page:: 136
+  hl-color:: yellow
+  id:: 6784010f-57e4-47ef-85e6-83e80782aa88
