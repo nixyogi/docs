@@ -237,3 +237,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 54
   hl-color:: yellow
   id:: 6783bb8d-0fcb-4680-b0df-a2adb6c92d66
+- Unfortunately, they’re expiring assets. Your knowledge becomes out of date as new techniques, languages, and environments are developed. Changing market forces may render your experience obsolete or irrelevant.
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 6783bbc8-b551-4d9e-8986-9309075d8e18
+- Your ability to learn new things is your most important strategic asset. But how do you learn how to learn, and how do you know what to learn?
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 6783bbd5-82d9-4e63-bcc6-eb75e625d1fc
+- We like to think of all the facts programmers know about computing, the application domains they work in, and all their experience as their knowledge portfolios. Managing a knowledge portfolio is very similar to managing a financial portfolio:1. Serious investors invest regularly—as a habit.2. Diversification is the key to long-term success.3. Smart investors balance their portfolios between conservative and high-risk, high-reward investments.4. Investors try to buy low and sell high for maximum return.5. Portfolios should be reviewed and rebalanced periodically. To be successful in your career, you must invest in your knowledge portfolio using these same guidelines.
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 6783bbed-23ea-445e-a07f-13d8e23a8ee2
