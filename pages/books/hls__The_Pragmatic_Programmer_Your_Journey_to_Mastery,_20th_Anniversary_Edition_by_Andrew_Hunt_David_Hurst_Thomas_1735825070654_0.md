@@ -661,3 +661,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 90
   hl-color:: yellow
   id:: 6783f09e-f757-4554-a4b0-4f636df132f3
+- Orthogonality is a critical concept if you want to produce systems that are easy to design, build, test, and extend.
+  ls-type:: annotation
+  hl-page:: 92
+  hl-color:: yellow
+  id:: 6783f0e8-f7a2-416b-8eda-148fad410589
