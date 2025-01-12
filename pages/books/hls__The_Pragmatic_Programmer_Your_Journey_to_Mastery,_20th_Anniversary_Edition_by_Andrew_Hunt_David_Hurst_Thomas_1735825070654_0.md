@@ -1152,3 +1152,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 134
   hl-color:: yellow
   id:: 67840090-9ea2-4ee3-ae8c-90c6fbd4d1ec
+- So, if after doing all the necessary work, you decide that a project will take 125 working days (25 weeks), you might want
+  ls-type:: annotation
+  hl-page:: 134
+  hl-color:: yellow
+  id:: 678400ab-eacf-4988-a980-c927b89f45ba
+- to deliver an estimate of “about six months.”
+  ls-type:: annotation
+  hl-page:: 135
+  hl-color:: yellow
+  id:: 678400b1-2cb7-4636-85b4-50d78d85ac06
+- WHERE DO ESTIMATES COME FROM? All estimates are based on models of the problem. But before we get too deeply into the techniques of building models, we have to mention a basic estimating trick that always gives good answers: ask someone who’s already done it.
+  ls-type:: annotation
+  hl-page:: 135
+  hl-color:: yellow
+  id:: 678400c7-de1c-4614-bd51-cd8734c5fa38
+- Understand What’s Being Asked The first part of any estimation exercise is building an understanding of what’s being asked. As well as the accuracy issues discussed above, you need to have a grasp of the scope of the domain. 
+  ls-type:: annotation
+  hl-page:: 135
+  hl-color:: yellow
+  id:: 678400e1-62c0-4296-9679-f6f8d4737f3e
