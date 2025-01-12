@@ -512,3 +512,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 76
   hl-color:: yellow
   id:: 6783c05e-2eeb-4777-baa2-45a4ba2d1b5b
+- Second, treat this as a way to develop instincts. Note the situation in your engineering day book: the choices you have, and some guesses about change. Leave a tag in the source. Then, later, when this code has to change, you’ll be able to look back and give yourself feedback. It might help the next time you reach a similar fork in the road
+  ls-type:: annotation
+  hl-page:: 77
+  hl-color:: yellow
+  id:: 6783c095-390c-4e7e-8fd8-13b8cd841d9c
