@@ -701,3 +701,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 94
   hl-color:: yellow
   id:: 6783f197-dafd-4c68-a947-ce28afdf4adb
+- We want to design components that are self-contained: independent, and with a single, well-defined purpose (what Yourdon and Constantine call cohesion in Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design [YC79]). When components are isolated from one another, you know that you can change one without having to worry about the rest. As long as you don’t change that component’s external interfaces, you can be confident that you won’t cause problems that ripple through the entire system.
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f1ac-d1f1-4e53-b788-20c6a44461d8
+- You get two major benefits if you write orthogonal systems: increased productivity and reduced risk.
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f1b4-6beb-43da-bb7a-53e6c65b847f
+- Gain Productivity
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f1ba-341e-419d-ab29-b12555bf30e7
+- Changes are localized, so development time and testing time are reduced.
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f1c2-ebb4-439d-be6a-4d37f7436676
+- An orthogonal approach also promotes reuse. If components have specific, well-defined responsibilities, they can be combined with new components in ways
+  ls-type:: annotation
+  hl-page:: 94
+  hl-color:: yellow
+  id:: 6783f1d3-593f-41ec-a9e7-132ead357b31
