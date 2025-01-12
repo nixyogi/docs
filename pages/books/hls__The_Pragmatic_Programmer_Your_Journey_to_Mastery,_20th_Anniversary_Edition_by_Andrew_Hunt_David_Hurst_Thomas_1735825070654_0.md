@@ -932,3 +932,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 111
   hl-color:: yellow
   id:: 6783f6cf-c10c-4008-8e8a-196253b76492
+- This was a great opportunity to use tracer code. We developed the framework for the front end, libraries for representing the queries, and a structure for converting a stored query into a database-specific query. Then we put it all together and checked that it worked.
+  ls-type:: annotation
+  hl-page:: 112
+  hl-color:: yellow
+  id:: 6783f787-7dd7-4f6b-abbc-998a9418dc4c
+- Over the following months we gradually fleshed out this basic structure, adding new functionality by augmenting each component of the tracer code in parallel. When the UI added a new query type, the library grew and the SQL generation was made more sophisticated.
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: yellow
+  id:: 6783f796-41af-4881-be02-a9a15fa8388e
+- Tracer code is not disposable: you write it for keeps. It contains all the error checking, structuring, documentation, and selfchecking that any piece of production code has. It simply is not fully functional. However, once you have achieved an end-toend connection among the components of your system, you can check how close to the target you are, adjusting if necessary. Once you’re on target, adding functionality is easy
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: yellow
+  id:: 6783f7a6-645c-472a-84cf-cc12e89bcf73
+- The tracer code approach has many advantages
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: yellow
+  id:: 6783f7bb-2743-48fd-ae3d-692f4215d3ab
