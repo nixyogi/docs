@@ -232,3 +232,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 52
   hl-color:: yellow
   id:: 677be199-0e2c-441a-9ac3-659e5a241345
+- Your knowledge and experience are your most important day-to-day professional assets
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 6783bb8d-0fcb-4680-b0df-a2adb6c92d66
