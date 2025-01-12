@@ -616,3 +616,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 88
   hl-color:: yellow
   id:: 6783c335-a0cf-4339-9a76-2e9e39136dcb
+- REPRESENTATIONAL DUPLICATION Your code interfaces to the outside world: other libraries via APIs, other services via remote calls, data in external sources, and so on. And pretty much each time you do, you introduce some kind of DRY violation: your code has to have knowledge that is also present in the external thing. It needs to know the API, or the schema, or the meaning of error codes, or whatever. The duplication here is that two things (your code and the external entity) have to have knowledge of the representation of their interface. Change it at one end, and the other end breaks. This duplication is inevitable, but can be mitigated. Here are some strategies.
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: yellow
+  id:: 6783efde-f884-4ab4-97d8-482678831a43
+- Duplication Across Internal APIs For internal APIs, look for tools that let you specify the API in some kind of neutral format. These tools will typically generate documentation, mock APIs, functional tests, and API clients, the latter in a number of different languages. Ideally the tool will store all your APIs in a central repository, allowing them to be shared across teams.
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: yellow
+  id:: 6783efef-3560-4013-9cb7-336cbd4f2eb1
+- Duplication Across External APIs Increasingly, you’ll find that public APIs are documented formally using something like OpenAPI. This allows you to import the API spec into your local API tools and integrate more reliably with the service
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: yellow
+  id:: 6783f002-7056-4875-8d50-3f257a198d04
