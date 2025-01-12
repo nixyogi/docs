@@ -608,11 +608,11 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-color:: yellow
   id:: 6783c2c9-a3cd-4200-bd1e-669c992a14a4
 - ```
-  ((6783c2f0-f48b-4057-93f4-e2f480d9caa7))
+  class Line { private double length; private Point start; private Point end; public Line(Point start, Point end) { this.start = start; this.end = end; calculateLength();}// public void setStart(Point p) { this.start = p; calculateLength(); } void setEnd(Point p) { this.end = p; calculateLength(); } Point getStart() { return start; } Point getEnd() { return end; } double getLength() { return length; } private void calculateLength() { this.length = start.distanceTo(end);}};
   ```
 -
-- class Line { private double length; private Point start; private Point end; public Line(Point start, Point end) { this.start = start; this.end = end; calculateLength();}// public void setStart(Point p) { this.start = p; calculateLength(); } void setEnd(Point p) { this.end = p; calculateLength(); } Point getStart() { return start; } Point getEnd() { return end; } double getLength() { return length; } private void calculateLength() { this.length = start.distanceTo(end);}};
+- All services offered by a module should be available through a uniform notation, which does not betray whether they are implemented through storage or through computation
   ls-type:: annotation
-  hl-page:: 87
+  hl-page:: 88
   hl-color:: yellow
-  id:: 6783c2f0-f48b-4057-93f4-e2f480d9caa7
+  id:: 6783c335-a0cf-4339-9a76-2e9e39136dcb
