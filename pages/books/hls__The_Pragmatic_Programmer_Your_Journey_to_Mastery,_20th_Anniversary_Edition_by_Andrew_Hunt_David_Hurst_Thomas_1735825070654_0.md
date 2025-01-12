@@ -1142,3 +1142,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 133
   hl-color:: yellow
   id:: 67840067-7d4c-47fc-a685-b41c0848f864
+- HOW ACCURATE IS ACCURATE ENOUGH? To some extent, all answers are estimates. It’s just that some are more accurate than others. So the first question you have to ask yourself when someone asks you for an estimate is the context in which your answer will be taken. Do they need high accuracy, or are they looking for a ballpark figure?
+  ls-type:: annotation
+  hl-page:: 134
+  hl-color:: yellow
+  id:: 67840077-a02f-4262-b84d-40f213237db5
+- If you say that something will take about 130 working days, then people will be expecting it to come in pretty close. However, if you say “Oh, about six months,” then they know to look for it any time between five and seven months from now. Both numbers represent the same duration, but “130 days” probably implies a higher degree of accuracy than you feel
+  ls-type:: annotation
+  hl-page:: 134
+  hl-color:: yellow
+  id:: 67840090-9ea2-4ee3-ae8c-90c6fbd4d1ec
