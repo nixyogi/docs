@@ -252,3 +252,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 55
   hl-color:: yellow
   id:: 6783bbed-23ea-445e-a07f-13d8e23a8ee2
+- Invest regularly Just as in financial investing, you must invest in your knowledge portfolio regularly, even if it’s just a small amount. 
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 6783bc05-207a-4962-8468-028caf21f0c5
+- Diversify The more different things you know, the more valuable
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 6783bc0d-8607-4f7d-843b-bd8c6b8820c2
+- you are. As a baseline, you need to know the ins and outs of the particular technology you are working with currently. But don’t stop there. The face of computing changes rapidly—hot technology today may well be close to useless (or at least not in demand) tomorrow. The more technologies you are comfortable with, the better you will be able to adjust to change. And don’t forget all the other skills you need, including those in nontechnical areas
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 6783bc1f-b511-4a5e-9084-f60b1e2798c2
+- Manage risk Technology exists along a spectrum from risky, potentially high-reward to low-risk, low-reward standards. It’s not a good idea to invest all of your money in high-risk stocks that might collapse suddenly, nor should you invest all of it conservatively and miss out on possible opportunities. Don’t put all your technical eggs in one basket.
+  ls-type:: annotation
+  hl-page:: 56
+  hl-color:: yellow
+  id:: 6783bc2c-35b5-4779-8f47-88edd7c86d74
