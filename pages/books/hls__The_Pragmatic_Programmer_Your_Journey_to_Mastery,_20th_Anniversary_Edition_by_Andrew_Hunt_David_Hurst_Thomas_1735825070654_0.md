@@ -502,3 +502,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 76
   hl-color:: yellow
   id:: 6783c02a-e1c2-40dc-9ca7-b72783e543fd
+- There’s an implicit premise in ETC. It assumes that a person can tell which of many paths will be easier to change in the future. Much of the time, common sense will be correct, and you can make an educated guess.
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 6783c046-758c-4197-ae23-c44b15f7671b
+- Sometimes, though, you won’t have a clue. That’s OK. In those cases, we think you can do two things. First, given that you’re not sure what form change will take, you can always fall back on the ultimate “easy to change” path: try to make what you write replaceable. That way, whatever happens in the future, this chunk of code won’t be a roadblock.
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 6783c05e-2eeb-4777-baa2-45a4ba2d1b5b
