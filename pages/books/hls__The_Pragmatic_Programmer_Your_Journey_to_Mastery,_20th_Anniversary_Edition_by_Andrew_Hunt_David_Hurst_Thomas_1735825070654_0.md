@@ -826,3 +826,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 100
   hl-color:: yellow
   id:: 6783f370-c957-4aae-9629-48d50a5e1fa2
+- When you come across a problem, assess how localized the fix is. Do you change just one module, or are the changes scattered throughout the entire system?
+  ls-type:: annotation
+  hl-page:: 100
+  hl-color:: yellow
+  id:: 6783f393-5136-486f-adf1-52ef5678f457
+- DOCUMENTATION Perhaps surprisingly, orthogonality also applies to documentation. The axes are content and presentation. With truly orthogonal documentation, you should be able to change the appearance dramatically without changing the content.
+  ls-type:: annotation
+  hl-page:: 101
+  hl-color:: yellow
+  id:: 6783f3a3-e88b-49b1-9013-9a8623aa75f6
+- Orthogonality is closely related to the DRY principle. With DRY, you’re looking to minimize duplication within a system, whereas with orthogonality you reduce the interdependency among the system’s components. It may be a clumsy word, but if you use the principle of orthogonality, combined closely with the DRY principle, you’ll find that the systems you develop are more flexible, more understandable, and easier to debug, test, and maintain.
+  ls-type:: annotation
+  hl-page:: 101
+  hl-color:: yellow
+  id:: 6783f3be-8ebe-4606-8de4-e6f883661d5c
