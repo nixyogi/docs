@@ -1,3 +1,4 @@
+public:: true
 file:: [The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Anniversary_Edition_by_Andrew_Hunt_David_Hurst_Thomas_1735825070654_0.pdf](../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Anniversary_Edition_by_Andrew_Hunt_David_Hurst_Thomas_1735825070654_0.pdf)
 file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Anniversary_Edition_by_Andrew_Hunt_David_Hurst_Thomas_1735825070654_0.pdf
 
