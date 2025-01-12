@@ -417,3 +417,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 66
   hl-color:: yellow
   id:: 6783be47-9e15-4f52-b234-c1a9e93561b7
+- INVOLVE YOUR AUDIENCE We often find that the documents we produce end up being less important than the process we go through to produce them. If possible, involve your readers with early drafts of your document. Get their feedback, and pick their brains. You’ll build a good working relationship, and you’ll probably produce a better document in the process.
+  ls-type:: annotation
+  hl-page:: 67
+  hl-color:: yellow
+  id:: 6783be60-01cf-4180-b027-12156536bbb2
+- BE A LISTENER There’s one technique that you must use if you want people to listen to you: listen to them. Even if this is a situation where you have all the information, even if this is a formal meeting with you standing in front of 20 suits—if you don’t listen to them, they won’t listen to you. Encourage people to talk by asking questions, or ask them to restate the discussion in their own words. Turn the meeting into a dialog, and you’ll make your point more effectively. Who knows, you might even learn something.
+  ls-type:: annotation
+  hl-page:: 67
+  hl-color:: yellow
+  id:: 6783be72-1765-455e-8250-c33ab8176bc3
+- GET BACK TO PEOPLE If you ask someone a question, you feel they’re impolite if they don’t respond. But how often do you fail to get back to people when they send you an email or a memo asking for information or requesting some action? In the rush of everyday life, it’s easy to forget. Always respond to emails and voicemails, even if the response is simply “I’ll get back to you later.’’ Keeping people informed makes them far more forgiving of the occasional slip, and makes them feel that you haven’t forgotten them.
+  ls-type:: annotation
+  hl-page:: 67
+  hl-color:: yellow
+  id:: 6783be85-a26f-4444-8ca0-380077301f90
