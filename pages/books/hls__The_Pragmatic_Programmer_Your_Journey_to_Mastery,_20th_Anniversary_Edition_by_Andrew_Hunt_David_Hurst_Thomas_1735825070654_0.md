@@ -292,3 +292,38 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 57
   hl-color:: yellow
   id:: 6783bc5f-74d7-4080-8255-09c8076912d6
+- Read a technical book each month While there’s a glut of short-form essays and occasionally reliable answers on the web, for deep understanding you need long-form books. Browse the booksellers for technical books on interesting topics related to your current project. Once you’re in the habit, read a book a month. 
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: yellow
+  id:: 6783bc6d-358f-4050-9f62-c564d8e10a0b
+- Read nontechnical books, too
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: yellow
+  id:: 6783bc74-3338-41f3-a74c-03d8c11e84fd
+- t is important to remember that computers are used by people—people whose needs you are trying to satisfy. You work with people, are employed by people, and get hacked by people. Don’t forget the human side of the equation, as that requires an entirely different skill set(we ironically call these soft skills, but they are actually quite hard to master)
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6783bc7f-1c83-42cb-b500-15c9fda0bc43
+- Take classes Look for interesting courses at a local or online college or university, or perhaps at the next nearby trade show or conference.
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6783bc86-b5b4-49d6-a15b-60784dfeaa1c
+- Participate in local user groups and meetups Isolation can be deadly to your career; find out what people are working on outside of your company. Don’t just go and listen: actively participate.
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6783bc90-ea97-4093-891f-abae566f4a81
+- Experiment with different environments If you’ve worked only in Windows, spend some time with Linux.
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6783bc9b-a03f-46e2-921d-fd82f71df89a
+- Stay current Read news and posts online on technology different from that of your current project. It’s a great way to find out what experiences other people are having with it, the particular jargon they use, and so on.
+  ls-type:: annotation
+  hl-page:: 58
+  hl-color:: yellow
+  id:: 6783bca4-32bf-4ed4-931a-028b93f813a0
