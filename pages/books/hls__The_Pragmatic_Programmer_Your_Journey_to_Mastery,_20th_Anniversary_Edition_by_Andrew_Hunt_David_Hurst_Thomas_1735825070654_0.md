@@ -1057,3 +1057,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 120
   hl-color:: yellow
   id:: 6783fec8-413b-4da4-b122-56eb1a28a125
+- Prototypes gloss over details, and focus in on specific aspects of the system being considered, so you may want to implement them using a high-level scripting language
+  ls-type:: annotation
+  hl-page:: 120
+  hl-color:: yellow
+  id:: 6783fed6-3fa1-4b74-8cc2-5dcc2920b85a
+- To prototype user interfaces, use a tool that lets you focus on the appearance and/or interactions without worrying about code or markup.
+  ls-type:: annotation
+  hl-page:: 121
+  hl-color:: yellow
+  id:: 6783fee2-6afd-4241-8114-b1212b9bcfe8
+- PROTOTYPING ARCHITECTURE Many prototypes are constructed to model the entire system under consideration.
+  ls-type:: annotation
+  hl-page:: 121
+  hl-color:: yellow
+  id:: 6783ff03-ad72-43be-91b5-1cea3306ab3a
