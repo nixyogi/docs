@@ -791,3 +791,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 97
   hl-color:: yellow
   id:: 6783f2b5-5be8-49bf-bce5-da3427242ad5
+- CODING Every time you write code you run the risk of reducing the orthogonality of your application. Unless you constantly monitor not just what you are doing but also the larger context of the application, you might unintentionally duplicate functionality in some other module, or express existing knowledge twice.
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: yellow
+  id:: 6783f2dd-1db5-45df-bfbe-ec6dcb83ed6a
+- Keep your code decoupled Write shy code—modules that don’t reveal anything unnecessary to other modules and that don’t rely on other modules’ implementations. 
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: yellow
+  id:: 6783f2ef-71e9-4818-8972-2e118ab8ad74
