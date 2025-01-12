@@ -676,3 +676,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 92
   hl-color:: yellow
   id:: 6783f11a-5968-4cf0-8495-42adb53c6d87
+- A Nonorthogonal System
+  ls-type:: annotation
+  hl-page:: 93
+  hl-color:: yellow
+  id:: 6783f162-4c62-431f-861e-554f686ca2dc
