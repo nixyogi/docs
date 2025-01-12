@@ -1187,3 +1187,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 136
   hl-color:: yellow
   id:: 6784010f-57e4-47ef-85e6-83e80782aa88
+- Break the Model into Components Once you have a model, you can decompose it into components. You’ll need to discover the mathematical rules that describe how these components interact. Sometimes a component contributes a single value that is added into the result. Some components may supply multiplying factors, while others may be more complicated (such as those that simulate the arrival of traffic at a node).
+  ls-type:: annotation
+  hl-page:: 136
+  hl-color:: yellow
+  id:: 67840127-d5ab-412f-b7cc-a44c457edb44
+- Give Each Parameter a Value Once you have the parameters broken out, you can go through and assign each one a value.
+  ls-type:: annotation
+  hl-page:: 136
+  hl-color:: yellow
+  id:: 67840132-c0c4-457c-a7ed-7a7737168bf1
+- The trick is to work out which parameters have the most impact on the result, and concentrate on getting them about right. Typically, parameters whose values are added into a result are less significant than those that are multiplied or divided.
+  ls-type:: annotation
+  hl-page:: 137
+  hl-color:: yellow
+  id:: 67840141-a8f6-4ee4-8689-ce50f060c3c4
