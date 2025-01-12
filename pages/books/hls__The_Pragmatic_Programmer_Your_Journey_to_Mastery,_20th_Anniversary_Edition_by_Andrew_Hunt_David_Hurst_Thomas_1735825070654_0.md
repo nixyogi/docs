@@ -567,3 +567,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 80
   hl-color:: yellow
   id:: 6783c13c-4ab6-4ac8-b635-4ee3b8380db6
+- DRY is about the duplication of knowledge, of intent. It’s about expressing the same thing in two different places, possibly in two totally different ways.
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 6783c161-fa82-47bf-b7ca-e7a72ee54f0f
+- Here’s the acid test: when some single facet of the code has to change, do you find yourself making that change in multiple places, and in multiple different formats? Do you have to change code and documentation, or a database schema and a structure that holds it, or…? If so, your code isn’t DRY.
+  ls-type:: annotation
+  hl-page:: 81
+  hl-color:: yellow
+  id:: 6783c173-a7fb-4aa1-a4bb-f28f877ceabb
