@@ -427,8 +427,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 67
   hl-color:: yellow
   id:: 6783be72-1765-455e-8250-c33ab8176bc3
-- GET BACK TO PEOPLE If you ask someone a question, you feel they’re impolite if they don’t respond. But how often do you fail to get back to people when they send you an email or a memo asking for information or requesting some action? In the rush of everyday life, it’s easy to forget. Always respond to emails and voicemails, even if the response is simply “I’ll get back to you later.’’ Keeping people informed makes them far more forgiving of the occasional slip, and makes them feel that you haven’t forgotten them.
+- GET BACK TO PEOPLE If you ask someone a question, you feel they’re impolite if they don’t respond. 
   ls-type:: annotation
   hl-page:: 67
   hl-color:: yellow
-  id:: 6783be85-a26f-4444-8ca0-380077301f90
+  id:: 6783be97-a32e-4088-b994-8ab0a763fb9b
+- It’s Both What You Say and the Way You Say It Unless you work in a vacuum, you need to be able to communicate. The more effective that communication, the more influential you become
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 6783beab-3b75-41e4-86f3-204295855377
