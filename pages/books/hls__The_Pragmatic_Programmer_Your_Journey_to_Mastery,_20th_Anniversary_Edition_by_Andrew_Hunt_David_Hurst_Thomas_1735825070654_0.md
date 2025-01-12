@@ -816,3 +816,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 99
   hl-color:: yellow
   id:: 6783f33d-c549-4a54-bf62-8ebacb8fd44d
+- TESTING An orthogonally designed and implemented system is easier to test. Because the interactions between the system’s components are formalized and limited, more of the system testing can be performed at the individual module level. 
+  ls-type:: annotation
+  hl-page:: 100
+  hl-color:: yellow
+  id:: 6783f358-57bb-4e52-a179-51c197ad2716
+- Writing unit tests is itself an interesting test of orthogonality. What does it take to get a unit test to build and run? Do you have to import a large percentage of the rest of the system’s code? If so, you’ve found a module that is not well decoupled from the rest of the system.
+  ls-type:: annotation
+  hl-page:: 100
+  hl-color:: yellow
+  id:: 6783f370-c957-4aae-9629-48d50a5e1fa2
