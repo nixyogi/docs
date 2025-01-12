@@ -587,3 +587,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 85
   hl-color:: yellow
   id:: 6783c266-c622-4408-86c6-ab6d8f883a84
+- DUPLICATION IN DOCUMENTATION Somehow the myth was born that you should comment all your functions. 
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: yellow
+  id:: 6783c28a-ef26-4478-b9a8-9ed5e6aa3a51
+- DRY Violations in Data Our data structures represent knowledge, and they can fall afoul of the DRY principle
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: yellow
+  id:: 6783c2a3-e3ae-4e57-9776-82496252b432
+- Later on in the development process, you may choose to violate the DRY principle for performance reasons. Frequently this occurs when you need to cache data to avoid repeating
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: yellow
+  id:: 6783c2c1-3bb5-499b-9a50-0f63f39d34d9
