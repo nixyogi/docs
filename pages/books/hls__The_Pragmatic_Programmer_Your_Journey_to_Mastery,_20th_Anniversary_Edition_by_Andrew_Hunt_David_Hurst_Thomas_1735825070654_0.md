@@ -992,3 +992,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 115
   hl-color:: yellow
   id:: 6783f838-0e38-4f63-84f6-558c4ff8ddc0
+- n any case, once you’d made your decision, you’d start again and code the algorithms in their final environment, interfacing to the real world. This is prototyping, and it is very useful.
+  ls-type:: annotation
+  hl-page:: 116
+  hl-color:: yellow
+  id:: 6783f85a-f9ad-4897-9654-8952eef9e253
