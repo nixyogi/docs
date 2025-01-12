@@ -861,3 +861,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 105
   hl-color:: yellow
   id:: 6783f572-5617-4342-bffb-9c11929b7eab
+- Tip 18 There Are No Final Decisions
+  ls-type:: annotation
+  hl-page:: 106
+  hl-color:: yellow
+  id:: 6783f5b1-b50f-4664-9188-61f26251ab92
+- FLEXIBLE ARCHITECTURE While many people try to keep their code flexible, you also need to think about maintaining flexibility in the areas of architecture, deployment, and vendor integration.
+  ls-type:: annotation
+  hl-page:: 106
+  hl-color:: yellow
+  id:: 6783f5bf-2b4d-4dd7-a3d2-eddf440a299f
