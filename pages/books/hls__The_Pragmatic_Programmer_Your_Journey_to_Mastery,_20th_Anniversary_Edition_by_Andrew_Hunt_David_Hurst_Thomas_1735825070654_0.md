@@ -846,3 +846,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 104
   hl-color:: yellow
   id:: 6783f442-8bb6-47e7-be21-3b593dacf7f9
+- f you go into a project hampered by the myopic notion that there is only one way to do it, you may be in for an unpleasant surprise.
+  ls-type:: annotation
+  hl-page:: 104
+  hl-color:: yellow
+  id:: 6783f50e-ae0b-43ca-af50-eae2be5338a3
