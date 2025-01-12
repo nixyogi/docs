@@ -382,3 +382,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 63
   hl-color:: yellow
   id:: 6783bdce-0e0d-4507-aa2e-e1777a5eb5f3
+- Write natural language as you would write code: honor the DRY principle, ETC, automation, and so on.
+  ls-type:: annotation
+  hl-page:: 63
+  hl-color:: yellow
+  id:: 6783bdee-c15b-4251-86e9-1fd622ad3099
+- English is Just Another Programming Language
+  ls-type:: annotation
+  hl-page:: 64
+  hl-color:: yellow
+  id:: 6783bdf5-b6ca-4d1a-a6a6-4b4dd80d1531
+- KNOW YOUR AUDIENCE You’re communicating only if you’re conveying what you mean to convey—just talking isn’t enough. To do that, you need to understand the needs, interests, and capabilities of your audience. 
+  ls-type:: annotation
+  hl-page:: 64
+  hl-color:: yellow
+  id:: 6783be00-28e3-4319-855b-40fb56fbec58
