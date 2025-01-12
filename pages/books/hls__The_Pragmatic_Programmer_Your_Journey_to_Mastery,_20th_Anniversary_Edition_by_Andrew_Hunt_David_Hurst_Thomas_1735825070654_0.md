@@ -552,3 +552,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 80
   hl-color:: yellow
   id:: 6783c11c-3336-4b3b-bc8a-d42e96082061
+- Why do we call it DRY?
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6783c121-a1d3-4d40-aa2b-bf49960d7837
+- DRY—Don’t Repeat Yourself
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6783c125-cfd8-4d53-9f19-febe18f7cd09
+- It isn’t a question of whether you’ll remember: it’s a question of when you’ll forget.
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6783c13c-4ab6-4ac8-b635-4ee3b8380db6
