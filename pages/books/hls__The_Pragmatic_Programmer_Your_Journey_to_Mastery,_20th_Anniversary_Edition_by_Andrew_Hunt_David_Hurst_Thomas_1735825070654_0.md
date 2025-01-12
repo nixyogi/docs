@@ -1097,3 +1097,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 122
   hl-color:: yellow
   id:: 6783ff49-5ba1-4739-b9c8-196c2ad71997
+- Topic 14 Domain Languages
+  ls-type:: annotation
+  hl-page:: 124
+  hl-color:: yellow
+  id:: 6783ff7f-0abb-4ebf-b134-2a3bebbddfb5
+- Computer languages influence how you think about a problem, and how you think about communicating. Every language comes with a list of features
+  ls-type:: annotation
+  hl-page:: 124
+  hl-color:: yellow
+  id:: 6783ff88-a6c8-4ce9-a466-4fe8544c74ba
+- In some cases, Pragmatic Programmers can go to the next level and actually program using the vocabulary, syntax, and semantics—the language—of the domain
+  ls-type:: annotation
+  hl-page:: 124
+  hl-color:: yellow
+  id:: 6783ff9a-f42a-49a9-8c36-17cb58f46750
+- Tip 22 Program Close to the Problem Domain
+  ls-type:: annotation
+  hl-page:: 124
+  hl-color:: yellow
+  id:: 6783ff9f-caf6-4bca-b145-00d0f755e333
