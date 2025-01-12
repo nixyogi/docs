@@ -651,3 +651,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 89
   hl-color:: yellow
   id:: 6783f05b-c61d-4156-bad6-5ba2808ecb3e
+- Appoint a team member as the project librarian, whose job is to facilitate the exchange of knowledge. Have a central place in the source tree where utility routines and scripts can be deposited. And make a point of reading other people’s source code and documentation, either informally or during code reviews. You’re not snooping—you’re learning from them.
+  ls-type:: annotation
+  hl-page:: 90
+  hl-color:: yellow
+  id:: 6783f091-19e5-49bc-86c0-96af3b6c027e
+- Make It Easy to Reuse What you’re trying to do is foster an environment where it’s easier to find and reuse existing stuff than to write it yourself. If it isn’t easy, people won’t do it
+  ls-type:: annotation
+  hl-page:: 90
+  hl-color:: yellow
+  id:: 6783f09e-f757-4554-a4b0-4f636df132f3
