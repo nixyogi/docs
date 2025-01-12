@@ -1072,3 +1072,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 121
   hl-color:: yellow
   id:: 6783ff03-ad72-43be-91b5-1cea3306ab3a
+- Here are some specific areas you may want to look for in the architectural prototype: Are the responsibilities of the major areas well defined and appropriate? Are the collaborations between major components well defined? Is coupling minimized? Can you identify potential sources of duplication?
+  ls-type:: annotation
+  hl-page:: 121
+  hl-color:: yellow
+  id:: 6783ff17-fe40-480c-9b9e-45c1feeeb9f5
+- Are interface definitions and constraints acceptable? Does every module have an access path to the data it needs during execution? Does it have that access when it needs it?
+  ls-type:: annotation
+  hl-page:: 122
+  hl-color:: yellow
+  id:: 6783ff1b-cd43-4e37-a930-04110f5fd23a
+- HOW NOT TO USE PROTOTYPES Before you embark on any code-based prototyping, make sure that everyone understands that you are writing disposable code.
+  ls-type:: annotation
+  hl-page:: 122
+  hl-color:: yellow
+  id:: 6783ff29-8582-429d-9940-2660719f9fd8
+- Remind them that you can build a great prototype of a new car out of balsa wood and duct tape, but you wouldn’t try to drive it in rush-hour traffic!
+  ls-type:: annotation
+  hl-page:: 122
+  hl-color:: yellow
+  id:: 6783ff3b-f91e-4e3a-8976-f9f4e1c047dd
