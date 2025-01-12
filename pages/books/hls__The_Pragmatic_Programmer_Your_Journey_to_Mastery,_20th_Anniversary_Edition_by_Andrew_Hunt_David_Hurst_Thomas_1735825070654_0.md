@@ -577,3 +577,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 81
   hl-color:: yellow
   id:: 6783c173-a7fb-4aa1-a4bb-f28f877ceabb
+- Not All Code Duplication Is Knowledge Duplication As part of your online wine ordering application you’re capturing and validating your user’s age, along with the quantity they’re ordering. According to the site owner, they should both be numbers, and both greater than zero. So you code up the validations: def validate_age(value): validate_type(value, :integer) validate_min_integer(value, 0) def validate_quantity(value): validate_type(value, :integer) validate_min_integer(value, 0) During code review, the resident know-it-all bounces this code, claiming it’s a DRY violation: both function bodies are the same
+  ls-type:: annotation
+  hl-page:: 84
+  hl-color:: yellow
+  id:: 6783c25b-9639-43ac-9235-a1c0a6b4ba89
+- They are wrong. The code is the same, but the knowledge they represent is different. The two functions validate two separate things that just happen to have the same rules. That’s a coincidence, not a duplication.
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: yellow
+  id:: 6783c266-c622-4408-86c6-ab6d8f883a84
