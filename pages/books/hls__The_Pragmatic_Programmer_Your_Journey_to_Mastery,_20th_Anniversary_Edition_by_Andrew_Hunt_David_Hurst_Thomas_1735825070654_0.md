@@ -871,3 +871,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 106
   hl-color:: yellow
   id:: 6783f5bf-2b4d-4dd7-a3d2-eddf440a299f
+- How can you plan for this kind of architectural volatility? You can’t. What you can do is make it easy to change. Hide third-party APIs behind your own abstraction layers. Break your code into components: even if you end up deploying them on a single massive server, this approach is a lot easier than taking a monolithic application and splitting it.
+  ls-type:: annotation
+  hl-page:: 107
+  hl-color:: yellow
+  id:: 6783f5f5-ed6e-4e0b-8f49-af76d0fe68f8
+- Tip 19 Forgo Following Fads
+  ls-type:: annotation
+  hl-page:: 108
+  hl-color:: yellow
+  id:: 6783f5fe-60fd-46dd-b092-1bb887a98ae3
