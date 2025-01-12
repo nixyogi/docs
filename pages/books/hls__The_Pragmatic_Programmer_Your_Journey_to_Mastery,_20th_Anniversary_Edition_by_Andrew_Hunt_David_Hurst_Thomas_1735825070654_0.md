@@ -1007,3 +1007,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 118
   hl-color:: yellow
   id:: 6783fe33-27a3-4203-9b65-a0f98052ed9a
+- We build software prototypes in the same fashion, and for the same reasons—to analyze and expose risk, and to offer chances for correction at a greatly reduced cost. 
+  ls-type:: annotation
+  hl-page:: 118
+  hl-color:: yellow
+  id:: 6783fe53-ff80-4f33-be88-1e3b1aa93f6f
+- We tend to think of prototypes as code-based, but they don’t always have to be. Like the car makers, we can build prototypes out of different materials. Post-it notes are great for prototyping dynamic things such as workflow and application logic.
+  ls-type:: annotation
+  hl-page:: 118
+  hl-color:: yellow
+  id:: 6783fe66-5bf5-42d1-bac4-0736e83c0ed1
+- A user interface can be prototyped as a drawing on a whiteboard, as a nonfunctional mock-up drawn with a paint program, or with an interface builder.
+  ls-type:: annotation
+  hl-page:: 118
+  hl-color:: yellow
+  id:: 6783fe6b-1ce0-4004-a247-8ab0fb534d74
+- Prototypes are designed to answer just a few questions, so they are much cheaper and faster to develop than applications that go into production.
+  ls-type:: annotation
+  hl-page:: 119
+  hl-color:: yellow
+  id:: 6783fe7f-1e9b-4490-8bf6-de9d78a379ec
