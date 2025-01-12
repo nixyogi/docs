@@ -337,3 +337,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 60
   hl-color:: yellow
   id:: 6783bd1d-3fb3-45dd-99ab-b1491f8bc107
+- Critically Analyze What You Read and Hear
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: yellow
+  id:: 6783bd29-4dbf-4378-87b1-1721d2cbadb0
+- Ask the “Five Whys” A favorite consulting trick: ask “why?” at least five times. Ask a question, and get an answer. Dig deeper by asking“why?” Repeat as if you were a petulant four-year old(but a polite one). You might be able to get closer to a root cause this way.
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: yellow
+  id:: 6783bd35-dba6-40a9-a09d-1c35e5f7d14a
+- Who does this benefit? It may sound cynical, but follow the money can be a very helpful path to analyze. The benefits to someone else or another organization may be aligned with your own, or not.
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: yellow
+  id:: 6783bd3d-e5e0-49bb-bf0b-1f132dc83868
+- What’s the context? Everything occurs in its own context, which is why “one size fits all” solutions often don’t. Consider an article or book touting a “best practice.” Good questions to consider are “best for who?” What are the prerequisites, what are the consequences, short and long term?
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: yellow
+  id:: 6783bd44-5829-4bbe-a70d-71ef17d2f2be
+- When or Where would this work? Under what circumstances? Is it too late? Too early? Don’t stop with first-order thinking (what will happen next), but use second-order thinking: what will happen after that?
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: yellow
+  id:: 6783bd4c-7771-409b-822d-2e9c58ad4615
+- Why is this a problem? Is there an underlying model? How does the underlying model work?
+  ls-type:: annotation
+  hl-page:: 61
+  hl-color:: yellow
+  id:: 6783bd50-97c2-4742-abee-dc93d2bc639c
