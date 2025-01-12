@@ -726,3 +726,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 94
   hl-color:: yellow
   id:: 6783f1d3-593f-41ec-a9e7-132ead357b31
+- There is a fairly subtle gain in productivity when you combine orthogonal components. 
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f1e8-1a2b-47ec-b05b-98580478e2fa
+- Reduce Risk
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f1ed-eb33-4390-b843-a597acc398bc
+- Diseased sections of code are isolated. If a module is sick, it is less likely to spread the symptoms around the rest of the system.
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f1f5-180c-46d6-9a50-d8d91a77a917
+- The resulting system is less fragile.
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f1fc-00db-43f0-afda-12e9e7a8ca2f
+- An orthogonal system will probably be better tested, because it will be easier to design and run tests on its components
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f203-1aa3-4ea9-afe1-435c8d76039a
+- You will not be as tightly tied to a particular vendor, product, or platform, because the interfaces to these third-party components will be isolated to smaller parts of the overall development.
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f20e-d641-42c2-be09-71c4fffc47c5
