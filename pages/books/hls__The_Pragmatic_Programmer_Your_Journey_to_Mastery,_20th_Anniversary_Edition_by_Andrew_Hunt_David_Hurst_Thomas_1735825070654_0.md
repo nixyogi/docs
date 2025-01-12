@@ -631,3 +631,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 88
   hl-color:: yellow
   id:: 6783f002-7056-4875-8d50-3f257a198d04
+- Duplication with Data Sources Many data sources allow you to introspect on their data schema. This can be used to remove much of the duplication between them and your code. Rather than manually creating the code to contain this stored data, you can generate the containers directly from the schema.
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: yellow
+  id:: 6783f014-513c-4d31-b756-b6454f31862a
+- There’s another option, and one we often prefer. Rather than writing code that represents external data in a fixed structure(an instance of a struct or class, for example), just stick it into a key/value data structure (your language might call it a map, hash, dictionary, or even object).
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: yellow
+  id:: 6783f02f-9841-4578-8baf-1ce80f83bf38
+- On its own this is risky: you lose a lot of the security of knowing just what data you’re working with. So we recommend adding a second layer to this solution: a simple table-driven validation suite that verifies that the map you’ve created contains at least the data you need, in the format you need it. Your API documentation tool might be able to generate this.
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: yellow
+  id:: 6783f03d-ea38-4395-97c6-dc44669e6e2d
