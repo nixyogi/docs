@@ -517,3 +517,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 77
   hl-color:: yellow
   id:: 6783c095-390c-4e7e-8fd8-13b8cd841d9c
+- DRY—The Evils of Duplication
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6783c0b5-949d-4ac6-8f3a-f54d9d08b9ad
+- Unfortunately, knowledge isn’t stable. It changes—often rapidly. Your understanding of a requirement may change following a meeting with the client.
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6783c0d3-5504-4e76-ad76-a3a244dc54f2
+- All this instability means that we spend a large part of our time in maintenance mode, reorganizing and reexpressing the knowledge in our systems.
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6783c0e0-d320-4984-a71c-1a379f8443a5
