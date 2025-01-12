@@ -771,3 +771,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 96
   hl-color:: yellow
   id:: 6783f256-633c-40e8-93c2-748786cda40b
+- Also ask yourself how decoupled your design is from changes in the real world.
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: yellow
+  id:: 6783f27c-68fd-459c-be1f-8a39605c66bb
+- Are you using a telephone number as a customer identifier? What happens when the phone company reassigns area codes? Postal codes, Social Security Numbers or government IDs, email addresses, and domains are all external identifiers that you have no control over, and could change at any time for any reason. Don’t rely on the properties of things you can’t control.
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: yellow
+  id:: 6783f288-d27b-4a63-8d0c-d6a9b3715487
