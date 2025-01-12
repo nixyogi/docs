@@ -646,3 +646,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 89
   hl-color:: yellow
   id:: 6783f03d-ea38-4395-97c6-dc44669e6e2d
+- INTERDEVELOPER DUPLICATION Perhaps the hardest type of duplication to detect and handle occurs between different developers on a project. Entire sets of functionality may be inadvertently duplicated, and that duplication could go undetected for years, leading to maintenance problems. 
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: yellow
+  id:: 6783f05b-c61d-4156-bad6-5ba2808ecb3e
