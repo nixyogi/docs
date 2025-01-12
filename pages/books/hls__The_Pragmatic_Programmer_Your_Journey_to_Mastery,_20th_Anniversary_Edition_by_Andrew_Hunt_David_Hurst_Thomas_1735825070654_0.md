@@ -367,3 +367,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 61
   hl-color:: yellow
   id:: 6783bd50-97c2-4742-abee-dc93d2bc639c
+- Communicate!
+  ls-type:: annotation
+  hl-page:: 63
+  hl-color:: yellow
+  id:: 6783bdb9-d1c9-412b-a402-ce1c746415b4
+- I believe that it is better to be looked over than it is to be overlooked.
+  ls-type:: annotation
+  hl-page:: 63
+  hl-color:: yellow
+  id:: 6783bdbd-5fff-4176-bbff-4c621b0daec6
+- It’s not just what you’ve got, but also how you package it. Having the best ideas, the finest code, or the most pragmatic thinking is ultimately sterile unless you can communicate with other people.
+  ls-type:: annotation
+  hl-page:: 63
+  hl-color:: yellow
+  id:: 6783bdce-0e0d-4507-aa2e-e1777a5eb5f3
