@@ -896,3 +896,38 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 110
   hl-color:: yellow
   id:: 6783f680-601e-48a0-aa54-8d2edf9944f7
+- CODE THAT GLOWS IN THE DARK
+  ls-type:: annotation
+  hl-page:: 110
+  hl-color:: yellow
+  id:: 6783f69b-f6a1-455e-8b38-1f05d3bd9567
+- Tracer bullets work because they operate in the same environment and under the same constraints as the real bullets. They get to the target fast, so the gunner gets immediate feedback. And from a practical standpoint they’re a relatively cheap solution.
+  ls-type:: annotation
+  hl-page:: 110
+  hl-color:: yellow
+  id:: 6783f6a2-d6be-4951-886d-a9e3beabe550
+- To get the same effect in code, we look for something that gets us from a requirement to some aspect of the final system quickly, visibly, and repeatably.
+  ls-type:: annotation
+  hl-page:: 110
+  hl-color:: yellow
+  id:: 6783f6a6-900e-4977-84e2-318ed716f566
+- Look for the important requirements, the ones that define the system. Look for the areas where you have doubts, and where you see the biggest risks. Then prioritize your development so that these are the first areas you code.
+  ls-type:: annotation
+  hl-page:: 111
+  hl-color:: yellow
+  id:: 6783f6af-c364-43fc-bbeb-47daf0e1a09f
+- Tip 20 Use Tracer Bullets to Find the Target
+  ls-type:: annotation
+  hl-page:: 111
+  hl-color:: yellow
+  id:: 6783f6b4-6806-4340-95af-07d749b53088
+- For us, the very first tracer bullet is simply create the project, add a “hello world!,” and make sure it compiles and runs.
+  ls-type:: annotation
+  hl-page:: 111
+  hl-color:: yellow
+  id:: 6783f6c7-97a0-47b1-a4a0-b59ef430e199
+- Then we look for areas of uncertainty in the overall application and add the skeleton needed to make it work
+  ls-type:: annotation
+  hl-page:: 111
+  hl-color:: yellow
+  id:: 6783f6cf-c10c-4008-8e8a-196253b76492
