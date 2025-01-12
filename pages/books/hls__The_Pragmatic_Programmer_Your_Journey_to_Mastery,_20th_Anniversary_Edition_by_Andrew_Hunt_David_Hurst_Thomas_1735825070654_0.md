@@ -602,3 +602,17 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 86
   hl-color:: yellow
   id:: 6783c2c1-3bb5-499b-9a50-0f63f39d34d9
+- expensive operations. The trick is to localize the impact. The violation is not exposed to the outside world: only the methods within the class have to worry about keeping things straight
+  ls-type:: annotation
+  hl-page:: 87
+  hl-color:: yellow
+  id:: 6783c2c9-a3cd-4200-bd1e-669c992a14a4
+- ```
+  ((6783c2f0-f48b-4057-93f4-e2f480d9caa7))
+  ```
+-
+- class Line { private double length; private Point start; private Point end; public Line(Point start, Point end) { this.start = start; this.end = end; calculateLength();}// public void setStart(Point p) { this.start = p; calculateLength(); } void setEnd(Point p) { this.end = p; calculateLength(); } Point getStart() { return start; } Point getEnd() { return end; } double getLength() { return length; } private void calculateLength() { this.length = start.distanceTo(end);}};
+  ls-type:: annotation
+  hl-page:: 87
+  hl-color:: yellow
+  id:: 6783c2f0-f48b-4057-93f4-e2f480d9caa7
