@@ -781,3 +781,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 97
   hl-color:: yellow
   id:: 6783f288-d27b-4a63-8d0c-d6a9b3715487
+- Be careful to preserve the orthogonality of your system as you introduce third-party toolkits and libraries. Choose your technologies wisely.
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: yellow
+  id:: 6783f2a6-25fa-4cd9-a9ea-9b1069096a2a
+- When you bring in a toolkit (or even a library from other members of your team), ask yourself whether it imposes changes on your code that shouldn’t be there. If an object persistence scheme is transparent, then it’s orthogonal. If it requires you to create or access objects in a special way, then it’s not. Keeping such details isolated from your code has the added benefit of making it easier to change vendors in the future.
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: yellow
+  id:: 6783f2b5-5be8-49bf-bce5-da3427242ad5
