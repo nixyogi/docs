@@ -881,3 +881,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 108
   hl-color:: yellow
   id:: 6783f5fe-60fd-46dd-b092-1bb887a98ae3
+- Topic 12 Tracer Bullets
+  ls-type:: annotation
+  hl-page:: 109
+  hl-color:: yellow
+  id:: 6783f636-01e7-4677-be5e-73d0be0052af
