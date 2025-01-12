@@ -856,3 +856,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 105
   hl-color:: yellow
   id:: 6783f53f-4973-44e7-b93d-f0d868e1e48e
+- By sticking to their recommendations— especially the DRY principle, decoupling, and use of external configuration—we don’t have to make as many critical, irreversible decisions.
+  ls-type:: annotation
+  hl-page:: 105
+  hl-color:: yellow
+  id:: 6783f572-5617-4342-bffb-9c11929b7eab
