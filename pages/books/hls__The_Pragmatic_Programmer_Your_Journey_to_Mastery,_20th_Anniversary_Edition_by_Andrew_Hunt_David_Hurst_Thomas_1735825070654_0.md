@@ -1232,3 +1232,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 139
   hl-color:: yellow
   id:: 678401c9-cda8-41d1-959d-a3e3f2e7bd14
+- Eating the Elephant We find that often the only way to determine the timetable for a project is by gaining experience on that same project.
+  ls-type:: annotation
+  hl-page:: 139
+  hl-color:: yellow
+  id:: 678401e4-6638-406a-a40e-f03e92982e8d
+- ip 24 Iterate the Schedule with the Code
+  ls-type:: annotation
+  hl-page:: 140
+  hl-color:: yellow
+  id:: 67840201-2f52-462c-8189-4ea7be8d333d
