@@ -1217,3 +1217,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 138
   hl-color:: yellow
   id:: 6784018f-490a-49ce-814c-88bf690238d0
+- Painting the Missile“How long will it take to paint the house?”“Well, if everything goes right, and this paint has the coverage they claim, it might be as few as 10 hours. But that’s unlikely: I’d guess a more realistic figure is closer to 18 hours. And, of course, if the weather turns bad, that could push it out to 30 or more.” That’s how people estimate in the real world. 
+  ls-type:: annotation
+  hl-page:: 138
+  hl-color:: yellow
+  id:: 6784019f-764c-4cd8-a5ec-e9218b38da9e
+- When the U.S. Navy needed to plan the Polaris submarine project, they adopted this style of estimating with a methodology they called the Program Evaluation Review Technique, or PERT. Every PERT task has an optimistic, a most likely, and a pessimistic estimate. The tasks are arranged into a dependency network, and then you use some simple statistics to identify likely best and worst times for the overall project.
+  ls-type:: annotation
+  hl-page:: 139
+  hl-color:: yellow
+  id:: 678401b9-6dde-45ac-8475-9d1879eaf7c5
+- Using a range of values like this is a great way to avoid one of the most common causes of estimation error: padding a number because you’re unsure. Instead, the statistics behind PERT spreads the uncertainty out for you, giving you better estimations of the whole project.
+  ls-type:: annotation
+  hl-page:: 139
+  hl-color:: yellow
+  id:: 678401c9-cda8-41d1-959d-a3e3f2e7bd14
