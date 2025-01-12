@@ -997,3 +997,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 116
   hl-color:: yellow
   id:: 6783f85a-f9ad-4897-9654-8952eef9e253
+- The distinction is important enough to warrant repeating. Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system. Think of prototyping as the reconnaissance and intelligence gathering that takes place before a single tracer bullet is fired.
+  ls-type:: annotation
+  hl-page:: 117
+  hl-color:: yellow
+  id:: 6783fe2b-e520-4407-8f9a-69247eb3c36e
+- Topic 13 Prototypes and Post-it Notes
+  ls-type:: annotation
+  hl-page:: 118
+  hl-color:: yellow
+  id:: 6783fe33-27a3-4203-9b65-a0f98052ed9a
