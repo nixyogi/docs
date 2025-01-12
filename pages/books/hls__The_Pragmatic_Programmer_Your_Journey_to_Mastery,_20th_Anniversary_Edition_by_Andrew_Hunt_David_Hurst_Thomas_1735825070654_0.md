@@ -952,3 +952,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 113
   hl-color:: yellow
   id:: 6783f7bb-2743-48fd-ae3d-692f4215d3ab
+- Users get to see something working early
+  ls-type:: annotation
+  hl-page:: 113
+  hl-color:: yellow
+  id:: 6783f7c3-619c-4aa5-9d08-b6ad41ad1ecb
+- Developers build a structure to work in The most daunting piece of paper is the one with nothing written on it. If you have worked out all the end-to-end interactions of your application, and have embodied them in code, then your team won’t need to pull as much out of thin air. This makes everyone more productive, and encourages consistency.
+  ls-type:: annotation
+  hl-page:: 114
+  hl-color:: yellow
+  id:: 6783f7d9-9c62-4c2e-a86a-733008b81636
+- You have an integration platform As the system is connected end-to-end, you have an environment to which you can add new pieces of code once they have been unit-tested
+  ls-type:: annotation
+  hl-page:: 114
+  hl-color:: yellow
+  id:: 6783f7e5-7748-4e25-aca8-189295803cb5
+- You have something to demonstrate Project sponsors and top brass have a tendency to want to see demos at the most inconvenient times. With tracer code, you’ll always have something to show them.
+  ls-type:: annotation
+  hl-page:: 114
+  hl-color:: yellow
+  id:: 6783f7ef-3540-47e5-8445-bd2e842195e0
+- You have a better feel for progress In a tracer code development, developers tackle use cases one by one. When one is done, they move to the next.
+  ls-type:: annotation
+  hl-page:: 114
+  hl-color:: yellow
+  id:: 6783f7f8-eafb-4ad4-80ed-526183614fc2
