@@ -437,3 +437,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 68
   hl-color:: yellow
   id:: 6783beab-3b75-41e4-86f3-204295855377
+- DOCUMENTATION Finally, there’s the matter of communicating via documentation. Typically, developers don’t give much thought to documentation. At best it is an unfortunate necessity; at worst it is treated as a low-priority task in the hope that management will forget about it at the end of the project. Pragmatic Programmers embrace documentation as an integral part of the overall development process. Writing documentation can be made easier by not duplicating effort or wasting time, and by keeping documentation close at hand—in the code itself. In fact, we want to apply all of our pragmatic principles to documentation as well as to code
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 6783bec9-25a7-4633-a2e5-6fba63f571b9
+- Build Documentation In, Don’t Bolt It On
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 6783becf-3806-4bd2-b1fb-45a9cb3e9da0
+- It’s easy to produce good-looking documentation from the comments in source code, and we recommend adding
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 6783bed5-d96e-4244-b2c4-affa83ef523f
+- comments to modules and exported functions to give other developers a leg up when they come to use it
+  ls-type:: annotation
+  hl-page:: 69
+  hl-color:: yellow
+  id:: 6783beda-7891-416b-80a4-16553642a272
+- However, this doesn’t mean we agree with the folks who say that every function, data structure, type declaration, etc., needs its own comment. This kind of mechanical comment writing actually makes it more difficult to maintain code: now there are two things to update when you make a change. So restrict your non-API commenting to discussing why something is done, its purpose and its goal.
+  ls-type:: annotation
+  hl-page:: 69
+  hl-color:: yellow
+  id:: 6783beeb-a478-4b4e-a7d7-cebdc9ec5dab
+- Commenting source code gives you the perfect opportunity to document those elusive bits of a project that can’t be documented anywhere else: engineering trade-offs, why decisions were made, what other alternatives were discarded, and so on.
+  ls-type:: annotation
+  hl-page:: 69
+  hl-color:: yellow
+  id:: 6783befe-f5ff-417a-924d-0d3fd1873c3d
