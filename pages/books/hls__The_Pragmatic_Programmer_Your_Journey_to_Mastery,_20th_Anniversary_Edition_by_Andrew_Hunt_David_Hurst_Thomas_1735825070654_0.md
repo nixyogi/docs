@@ -467,3 +467,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 69
   hl-color:: yellow
   id:: 6783befe-f5ff-417a-924d-0d3fd1873c3d
+- The Essence of Good Design
+  ls-type:: annotation
+  hl-page:: 75
+  hl-color:: yellow
+  id:: 6783bf4c-a757-47a3-988e-560b70d4e1f9
+- Good Design Is Easier to Change Than Bad Design
+  ls-type:: annotation
+  hl-page:: 75
+  hl-color:: yellow
+  id:: 6783bf6a-628f-4969-9eb7-820661672f36
