@@ -6065,4 +6065,4 @@
                           :page 101},
                :content {:text "Orthogonality is closely related to the DRY principle. With DRY, you’re looking to minimize duplication within a system, whereas with orthogonality you reduce the interdependency among the system’s components. It may be a clumsy word, but if you use the principle of orthogonality, combined closely with the DRY principle, you’ll find that the systems you develop are more flexible, more understandable, and easier to debug, test, and maintain."},
                :properties {:color "yellow"}}],
- :extra {:page 101}}
+ :extra {:page 103}}
