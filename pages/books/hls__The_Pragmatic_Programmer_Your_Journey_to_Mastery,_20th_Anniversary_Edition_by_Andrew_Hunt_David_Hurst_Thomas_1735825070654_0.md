@@ -327,3 +327,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 58
   hl-color:: yellow
   id:: 6783bca4-32bf-4ed4-931a-028b93f813a0
+- somebody asks you a question. You don’t have the faintest idea what the answer is, and freely admit as much. Don’t let it stop there. Take it as a personal challenge to find the answer. Ask around. Search the web—the scholarly parts too, not just the consumer parts.
+  ls-type:: annotation
+  hl-page:: 59
+  hl-color:: yellow
+  id:: 6783bd0a-6e46-4242-b35d-22b7820a8ad7
+- CRITICAL THINKING The last important point is to think critically about what you read and hear. You need to ensure that the knowledge in your portfolio is accurate and unswayed by either vendor or media hype.
+  ls-type:: annotation
+  hl-page:: 60
+  hl-color:: yellow
+  id:: 6783bd1d-3fb3-45dd-99ab-b1491f8bc107
