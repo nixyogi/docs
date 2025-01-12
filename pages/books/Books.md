@@ -1,5 +1,4 @@
 ## Yet to start
-	- [[Books/Pragmatic Programmer]]
 	- [[The Laws of Human Nature]]
 	- [[Mastery]]
 	- [[The 48 Laws of Power]]
@@ -14,6 +13,6 @@
 	-
 	-
 - ## Reading
-	-
+	- [[Books/Pragmatic Programmer]]
 - ## Done
 	-
