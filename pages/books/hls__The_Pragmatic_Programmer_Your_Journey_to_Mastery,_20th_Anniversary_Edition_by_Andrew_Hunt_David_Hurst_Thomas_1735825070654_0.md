@@ -397,3 +397,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 64
   hl-color:: yellow
   id:: 6783be00-28e3-4319-855b-40fb56fbec58
+- KNOW WHAT YOU WANT TO SAY Probably the most difficult part of the more formal styles of communication used in business is working out exactly what it is you want to say. Fiction writers often plot out their books in detail before they start, but people writing technical documents are often happy to sit down at a keyboard, enter:1. Introduction and start typing whatever comes into their heads next. Plan what you want to say. Write an outline. Then ask yourself,“Does this communicate what I want to express to my audience in a way that works for them?” Refine it until it does
+  ls-type:: annotation
+  hl-page:: 65
+  hl-color:: yellow
+  id:: 6783be17-55cf-4fc3-995c-609ac9539405
+- CHOOSE YOUR MOMENT It’s six o’clock on Friday afternoon, following a week when the auditors have been in. Your boss’s youngest is in the hospital, it’s pouring rain outside, and the commute home is guaranteed to be a nightmare. This probably isn’t a good time to ask her for a memory upgrade for your laptop.
+  ls-type:: annotation
+  hl-page:: 65
+  hl-color:: yellow
+  id:: 6783be26-02a7-4924-b08f-bf7076dd8ece
+- CHOOSE A STYLE Adjust the style of your delivery to suit your audience. Some people want a formal “just the facts’’ briefing. Others like a long, wide-ranging chat before getting down to business. What is their skill level and experience in this area? Are they experts? Newbies? Do they need hand-holding or just a quick tl;dr? If in doubt, ask. Remember, however, that you are half of the communication transaction. If someone says they need a paragraph describing something and you can’t see any way of doing it in less than several pages, tell them so. Remember, that kind of feedback is a form of communication, too
+  ls-type:: annotation
+  hl-page:: 66
+  hl-color:: yellow
+  id:: 6783be3b-928c-4201-b52c-7cc6eea68c57
+- MAKE IT LOOK GOOD Your ideas are important. They deserve a good-looking vehicle to convey them to your audience. Too many developers (and their managers) concentrate solely on content when producing written documents. We think this is a mistake. Any chef (or watcher of the Food Network) will tell you that you can slave in the kitchen for hours only to ruin your efforts with poor presentation
+  ls-type:: annotation
+  hl-page:: 66
+  hl-color:: yellow
+  id:: 6783be47-9e15-4f52-b234-c1a9e93561b7
