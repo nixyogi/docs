@@ -1092,3 +1092,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 122
   hl-color:: yellow
   id:: 6783ff3b-f91e-4e3a-8976-f9f4e1c047dd
+- Properly used prototypes can save you huge amounts of time, money, and pain by identifying and correcting potential problem spots early in the development cycle—the time when fixing mistakes is both cheap and easy.
+  ls-type:: annotation
+  hl-page:: 122
+  hl-color:: yellow
+  id:: 6783ff49-5ba1-4739-b9c8-196c2ad71997
