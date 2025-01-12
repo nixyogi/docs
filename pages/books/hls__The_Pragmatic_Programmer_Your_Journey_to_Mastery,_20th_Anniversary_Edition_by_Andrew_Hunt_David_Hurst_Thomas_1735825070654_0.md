@@ -666,3 +666,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 92
   hl-color:: yellow
   id:: 6783f0e8-f7a2-416b-8eda-148fad410589
+- “Orthogonality’’ is a term borrowed from geometry. Two lines are orthogonal if they meet at right angles, such as the axes on a graph. In vector terms, the two lines are independent.
+  ls-type:: annotation
+  hl-page:: 92
+  hl-color:: yellow
+  id:: 6783f104-2919-4002-89eb-d6252ea6a5b0
+- In computing, the term has come to signify a kind of independence or decoupling. Two or more things are orthogonal if changes in one do not affect any of the others. In a welldesigned system, the database code will be orthogonal to the user interface: you can change the interface without affecting the database, and swap databases without changing the interface.
+  ls-type:: annotation
+  hl-page:: 92
+  hl-color:: yellow
+  id:: 6783f11a-5968-4cf0-8495-42adb53c6d87
