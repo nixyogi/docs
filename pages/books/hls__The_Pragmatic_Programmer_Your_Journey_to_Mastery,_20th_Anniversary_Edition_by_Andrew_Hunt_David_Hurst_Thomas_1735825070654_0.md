@@ -756,3 +756,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 95
   hl-color:: yellow
   id:: 6783f20e-d641-42c2-be09-71c4fffc47c5
+- DESIGN
+  ls-type:: annotation
+  hl-page:: 95
+  hl-color:: yellow
+  id:: 6783f225-114f-45bc-a557-bb1d32c74977
+- Systems should be composed of a set of cooperating modules, each of which implements functionality independent of the others. Sometimes these components are organized into layers, each providing a level of abstraction. This layered approach is a powerful way to design orthogonal systems. Because each layer uses only the abstractions provided by the layers below it, you have great flexibility in changing underlying implementations without affecting code. Layering also reduces the risk of runaway dependencies between modules. 
+  ls-type:: annotation
+  hl-page:: 96
+  hl-color:: yellow
+  id:: 6783f23c-d2a0-41e1-b160-16e25e5da838
+- If I dramatically change the requirements behind a particular function, how many modules are affected? In an orthogonal system, the answer should be “one.’’
+  ls-type:: annotation
+  hl-page:: 96
+  hl-color:: yellow
+  id:: 6783f256-633c-40e8-93c2-748786cda40b
