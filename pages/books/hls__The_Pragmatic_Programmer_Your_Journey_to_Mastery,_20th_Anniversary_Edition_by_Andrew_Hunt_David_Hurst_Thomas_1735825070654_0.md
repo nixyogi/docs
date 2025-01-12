@@ -886,3 +886,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 109
   hl-color:: yellow
   id:: 6783f636-01e7-4677-be5e-73d0be0052af
+- term tracer bullet development to visually illustrate the need for immediate feedback under actual conditions with a moving goal
+  ls-type:: annotation
+  hl-page:: 110
+  hl-color:: yellow
+  id:: 6783f672-9d45-4fc8-b8fa-5a25b8a508a1
+- Because your users have never seen a system like this before, their requirements may be vague. Because you may be using algorithms, techniques, languages, or libraries you aren’t familiar with, you face a large number of unknowns.
+  ls-type:: annotation
+  hl-page:: 110
+  hl-color:: yellow
+  id:: 6783f680-601e-48a0-aa54-8d2edf9944f7
