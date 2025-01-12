@@ -532,3 +532,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 79
   hl-color:: yellow
   id:: 6783c0e0-d320-4984-a71c-1a379f8443a5
+- Programmers are constantly in maintenance mode. Our understanding changes day by day. New requirements arrive and existing requirements evolve as we’re heads-down on the project. Perhaps the environment changes. Whatever the reason, maintenance is not a discrete activity, but a routine part of the entire development process.
+  ls-type:: annotation
+  hl-page:: 79
+  hl-color:: yellow
+  id:: 6783c0f1-6e39-44df-bc0b-854c84fcd6bb
+- When we perform maintenance, we have to find and change the representations of things—
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6783c107-a5c1-40b2-a72f-31c55bfd8bca
+- The problem is that it’s easy to duplicate knowledge in the specifications, processes, and programs that we develop, and when we do so, we invite a maintenance nightmare—one that starts well before the application ships.
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6783c111-095b-4809-be2a-3ff94dc454ee
+- Every piece of knowledge must have a single, unambiguous, authoritative representation within a system
+  ls-type:: annotation
+  hl-page:: 80
+  hl-color:: yellow
+  id:: 6783c11c-3336-4b3b-bc8a-d42e96082061
