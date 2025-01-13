@@ -1242,3 +1242,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 140
   hl-color:: yellow
   id:: 67840201-2f52-462c-8189-4ea7be8d333d
+- WHAT TO SAY WHEN ASKED FOR AN ESTIMATE You say “I’ll get back to you.” You almost always get better results if you slow the process down and spend some time going through the steps we describe in this section. Estimates given at the coffee machine will (like the coffee) come back to haunt you.
+  ls-type:: annotation
+  hl-page:: 141
+  hl-color:: yellow
+  id:: 67840226-0155-4069-ac10-c1fa283c86a4
