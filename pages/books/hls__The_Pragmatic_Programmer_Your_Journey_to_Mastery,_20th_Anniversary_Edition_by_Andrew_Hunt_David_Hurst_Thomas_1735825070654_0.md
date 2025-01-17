@@ -1287,3 +1287,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 146
   hl-color:: yellow
   id:: 678a16d3-6c42-4e20-aab2-2404d1a03797
+- Tip 25 Keep Knowledge in Plain Text
+  ls-type:: annotation
+  hl-page:: 147
+  hl-color:: yellow
+  id:: 678a1703-d50d-425c-a2c4-27c595676eb4
+- Insurance Against Obsolescence Human-readable forms of data, and self-describing data, will outlive all other forms of data and the applications that created them. Period. As long as the data survives, you will have a chance to be able to use it—potentially long after the original application that wrote it is defunct.
+  ls-type:: annotation
+  hl-page:: 147
+  hl-color:: yellow
+  id:: 678a172c-d99e-408e-a5f9-41b10f13b58a
