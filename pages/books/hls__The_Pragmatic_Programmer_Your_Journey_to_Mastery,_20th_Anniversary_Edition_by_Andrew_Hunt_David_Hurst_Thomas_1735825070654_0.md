@@ -1247,3 +1247,20 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 141
   hl-color:: yellow
   id:: 67840226-0155-4069-ac10-c1fa283c86a4
+- Tools amplify your talent. The better your tools, and the better
+  ls-type:: annotation
+  hl-page:: 143
+  hl-color:: yellow
+  id:: 678a15e6-7302-4f55-9d35-966e5025fd1d
+- you know how to use them, the more productive you can be.
+  ls-type:: annotation
+  hl-page:: 144
+  hl-color:: yellow
+  id:: 678a15ed-db97-47cf-8400-de0e2ed8e5ec
+- [:span]
+  ls-type:: annotation
+  hl-page:: 144
+  hl-color:: yellow
+  id:: 678a15fd-e794-4793-9260-cab6c966cbc7
+  hl-type:: area
+  hl-stamp:: 1737102845647
