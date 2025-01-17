@@ -1277,3 +1277,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 144
   hl-color:: yellow
   id:: 678a162f-9966-4164-960f-d6f5e2b1dc96
+- Topic 16 The Power of Plain Text
+  ls-type:: annotation
+  hl-page:: 146
+  hl-color:: yellow
+  id:: 678a16c1-5fc3-4c8b-97bf-3ff1eddf9de7
+- As Pragmatic Programmers, our base material isn’t wood or iron, it’s knowledge. We gather requirements as knowledge, and then express that knowledge in our designs, implementations, tests, and documents. And we believe that the best format for storing knowledge persistently is plain text. With plain text, we give ourselves the ability to manipulate knowledge, both manually and programmatically, using virtually every tool at our disposal.
+  ls-type:: annotation
+  hl-page:: 146
+  hl-color:: yellow
+  id:: 678a16d3-6c42-4e20-aab2-2404d1a03797
