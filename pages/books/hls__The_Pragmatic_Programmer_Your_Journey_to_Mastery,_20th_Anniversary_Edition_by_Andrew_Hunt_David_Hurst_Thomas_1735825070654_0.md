@@ -1302,3 +1302,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 149
   hl-color:: yellow
   id:: 678a1857-9fac-4cae-bee1-4583c5e86bb9
+- Easier Testing If you use plain text to create synthetic data to drive system tests, then it is a simple matter to add, update, or modify the test data without having to create any special tools to do so.
+  ls-type:: annotation
+  hl-page:: 149
+  hl-color:: yellow
+  id:: 678a1865-de38-4513-95bd-64af62a4a521
+- You need to ensure that all parties can communicate using a common standard. Plain text is that standard.
+  ls-type:: annotation
+  hl-page:: 150
+  hl-color:: yellow
+  id:: 678a1879-b31f-419e-85e4-f53858b253ee
