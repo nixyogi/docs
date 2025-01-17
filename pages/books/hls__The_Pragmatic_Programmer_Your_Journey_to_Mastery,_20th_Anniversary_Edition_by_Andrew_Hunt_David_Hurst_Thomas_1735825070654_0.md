@@ -1297,3 +1297,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 147
   hl-color:: yellow
   id:: 678a172c-d99e-408e-a5f9-41b10f13b58a
+- Leverage Virtually every tool in the computing universe, from version control systems to editors to command-line tools, can operate on plain text.
+  ls-type:: annotation
+  hl-page:: 149
+  hl-color:: yellow
+  id:: 678a1857-9fac-4cae-bee1-4583c5e86bb9
