@@ -1257,10 +1257,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 144
   hl-color:: yellow
   id:: 678a15ed-db97-47cf-8400-de0e2ed8e5ec
-- [:span]
+- Start with a basic set of generally applicable tools. As you gain experience, and as you come across special requirements, you’ll add to this basic set.
   ls-type:: annotation
   hl-page:: 144
   hl-color:: yellow
-  id:: 678a15fd-e794-4793-9260-cab6c966cbc7
-  hl-type:: area
-  hl-stamp:: 1737102845647
+  id:: 678a160a-d74e-4d39-8f50-0e943d04fc03
+- Always be on the lookout for better ways of doing things.
+  ls-type:: annotation
+  hl-page:: 144
+  hl-color:: yellow
+  id:: 678a1613-e423-49c1-87fc-4755fe324067
+- Many new programmers make the mistake of adopting a single power tool, such as a particular integrated development environment (IDE), and never leave its cozy interface. 
+  ls-type:: annotation
+  hl-page:: 144
+  hl-color:: yellow
+  id:: 678a1627-7568-4260-bdec-3dcfb066c85d
+- This really is a mistake. You need to be comfortable beyond the limits imposed by an IDE.
+  ls-type:: annotation
+  hl-page:: 144
+  hl-color:: yellow
+  id:: 678a162f-9966-4164-960f-d6f5e2b1dc96
