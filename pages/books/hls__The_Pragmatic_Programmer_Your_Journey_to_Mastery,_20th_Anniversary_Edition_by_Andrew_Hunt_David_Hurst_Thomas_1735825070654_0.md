@@ -1322,3 +1322,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 152
   hl-color:: yellow
   id:: 678cd6fe-640b-46c3-a201-4424c6fd30c1
+- A benefit of GUIs is WYSIWYG— what you see is what you get. The disadvantage is WYSIAYG— what you see is all you get.
+  ls-type:: annotation
+  hl-page:: 153
+  hl-color:: yellow
+  id:: 678cd71d-f156-4bee-b61f-649941f92667
+- GUI environments are normally limited to the capabilities that their designers intended. If you need to go beyond the model the designer provided, you are usually out of luck—and more often than not, you do need to go beyond the model.
+  ls-type:: annotation
+  hl-page:: 153
+  hl-color:: yellow
+  id:: 678cd733-1c76-4460-b32a-26d1aad2d9b3
+- Tip 26 Use the Power of Command Shells
+  ls-type:: annotation
+  hl-page:: 153
+  hl-color:: yellow
+  id:: 678cd748-873c-458c-8e08-be90e40e760d
