@@ -1412,3 +1412,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 157
   hl-color:: yellow
   id:: 678cd82e-c35c-4026-8724-aab694405691
+- First, look at yourself while you’re editing. Every time you find yourself doing something repetitive, get into the habit of thinking “there must be a better way.” Then find it.
+  ls-type:: annotation
+  hl-page:: 158
+  hl-color:: yellow
+  id:: 678cd843-9934-4c26-aa15-266549e0da88
+- Once you’ve discovered a new, useful feature, you now need to get it installed into your muscle memory, so you can use it without thinking. The only way we know to do that is through repetition. Consciously look for opportunities to use your new superpower, ideally many times a day. After a week or so, you’ll find you use it without thinking
+  ls-type:: annotation
+  hl-page:: 158
+  hl-color:: yellow
+  id:: 678cd850-591a-4902-b0fa-7dd7ddb0faa8
