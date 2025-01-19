@@ -1392,3 +1392,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 156
   hl-color:: yellow
   id:: 678cd7da-b5de-4130-8f7c-922833478a1f
+- Why is this a big deal? Are we saying you’ll save lots of time? Actually yes: over the course of a year, you might actually gain an additional week if you make your editing just 4% more efficient 
+  ls-type:: annotation
+  hl-page:: 156
+  hl-color:: yellow
+  id:: 678cd801-0be9-46b8-84bb-1add9a03d21f
+- But that’s not the real benefit. No, the major gain is that by becoming fluent, you no longer have to think about the mechanics of editing.
+  ls-type:: annotation
+  hl-page:: 156
+  hl-color:: yellow
+  id:: 678cd80a-a8c6-4f80-afc1-9c1a14731608
+- WHAT DOES “FLUENT” MEAN? What counts as being fluent? Here’s the challenge list: When editing text, move and make selections by character, word, line, and paragraph. When editing code, move by various syntactic units (matching delimiters, functions, modules, …). Reindent code following changes. Comment and uncomment blocks of code with a single command. Undo and redo changes. Split the editor window into multiple panels, and navigate between them. Navigate to a particular line number. Sort selected lines. Search for both strings and regular expressions, and repeat previous searches. Temporarily create multiple cursors based on a selection or on a pattern match, and edit the text at each in parallel. Display compilation errors in the current project. Run the current project’s tests
+  ls-type:: annotation
+  hl-page:: 157
+  hl-color:: yellow
+  id:: 678cd828-05f4-4685-bbb4-35e1800a10b9
+- Can you do all this without using a mouse/trackpad? You might say that your current editor can’t do some of these things. Maybe it’s time to switch?
+  ls-type:: annotation
+  hl-page:: 157
+  hl-color:: yellow
+  id:: 678cd82e-c35c-4026-8724-aab694405691
