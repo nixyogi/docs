@@ -1312,3 +1312,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 150
   hl-color:: yellow
   id:: 678a1879-b31f-419e-85e4-f53858b253ee
+- For a programmer manipulating files of text, that workbench is the command shell.
+  ls-type:: annotation
+  hl-page:: 152
+  hl-color:: yellow
+  id:: 678cd6ed-fdb7-4555-b4d4-b99744f2cbe7
+- From the shell prompt, you can invoke your full repertoire of tools, using pipes to combine them in ways never dreamt of by their original developers. From the shell, you can launch applications, debuggers, browsers, editors, and utilities. You can search for files, query the status of the system, and filter output. And by programming the shell, you can build complex macro commands for activities you perform often.
+  ls-type:: annotation
+  hl-page:: 152
+  hl-color:: yellow
+  id:: 678cd6fe-640b-46c3-a201-4424c6fd30c1
