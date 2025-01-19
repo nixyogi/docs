@@ -1382,3 +1382,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 156
   hl-color:: yellow
   id:: 678cd7c1-c907-403a-9b10-24a31338e181
+- We’re happy for you to use as many editors as you want. We’d just like you to be working toward fluency in each.
+  ls-type:: annotation
+  hl-page:: 156
+  hl-color:: yellow
+  id:: 678cd7d2-d6f6-48b1-8b62-07bcc3de590a
+- Tip 27 Achieve Editor Fluency
+  ls-type:: annotation
+  hl-page:: 156
+  hl-color:: yellow
+  id:: 678cd7da-b5de-4130-8f7c-922833478a1f
