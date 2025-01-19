@@ -1362,3 +1362,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 154
   hl-color:: yellow
   id:: 678cd787-aac9-4430-ab8e-037d98cb6fe0
+- Aliases and shell functions. Simplify your workflow by turning commands you use a lot into simple aliases. 
+  ls-type:: annotation
+  hl-page:: 154
+  hl-color:: yellow
+  id:: 678cd790-a796-4270-89c6-92bc595a90b0
+- Command completion. Most shells will complete the names of commands and files: type the first few characters, hit tab, and it’ll fill in what it can.
+  ls-type:: annotation
+  hl-page:: 154
+  hl-color:: yellow
+  id:: 678cd7a4-e5da-49c3-afa1-401a9eb0dd28
+- Topic 18 Power Editing
+  ls-type:: annotation
+  hl-page:: 156
+  hl-color:: yellow
+  id:: 678cd7b5-de42-4ae4-89e0-d623f0c996bf
+- You need to be able to manipulate text as effortlessly as possible, because text is the basic raw material of programming.
+  ls-type:: annotation
+  hl-page:: 156
+  hl-color:: yellow
+  id:: 678cd7c1-c907-403a-9b10-24a31338e181
