@@ -1432,3 +1432,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 161
   hl-color:: yellow
   id:: 678cd913-ddc9-4f11-860a-1b1c5d0a38b8
+- A good VCS will let you track changes, answering questions such as: Who made changes in this line of code? What’s the difference between the current version and last week’s? How many lines of code did we change in this release? Which files get changed most often? This kind of information is invaluable for bug-tracking, audit, performance, and quality purposes.
+  ls-type:: annotation
+  hl-page:: 162
+  hl-color:: yellow
+  id:: 678cd936-10dc-46dc-8713-1526302af3c8
+- Topic 20 Debugging
+  ls-type:: annotation
+  hl-page:: 168
+  hl-color:: yellow
+  id:: 678cd963-8988-4f0c-9614-cc5f6843ee67
