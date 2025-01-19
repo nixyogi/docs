@@ -1337,3 +1337,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 153
   hl-color:: yellow
   id:: 678cd748-873c-458c-8e08-be90e40e760d
+- Gain familiarity with the shell, and you’ll find your productivity soaring.
+  ls-type:: annotation
+  hl-page:: 153
+  hl-color:: yellow
+  id:: 678cd752-01dc-45db-932d-885faaab5c88
+- A SHELL OF YOUR OWN In the same way that a woodworker will customize their workspace, a developer should customize their shell. This typically also involves changing the configuration of the terminal program you use.
+  ls-type:: annotation
+  hl-page:: 154
+  hl-color:: yellow
+  id:: 678cd761-8048-471c-9836-8a513f7b3bab
+- Setting color themes.
+  ls-type:: annotation
+  hl-page:: 154
+  hl-color:: yellow
+  id:: 678cd768-f4b7-4232-97e8-7963c0645e12
+- Configuring a prompt.
+  ls-type:: annotation
+  hl-page:: 154
+  hl-color:: yellow
+  id:: 678cd76c-efc7-40fb-8ce1-00159163016b
+- Personal preferences are everything here: we tend to like simple prompts, with a shortened current directory name and version control status along with the time.
+  ls-type:: annotation
+  hl-page:: 154
+  hl-color:: yellow
+  id:: 678cd787-aac9-4430-ab8e-037d98cb6fe0
