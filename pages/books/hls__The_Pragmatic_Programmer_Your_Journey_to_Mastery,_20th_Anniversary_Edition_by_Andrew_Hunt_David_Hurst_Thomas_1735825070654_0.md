@@ -1422,3 +1422,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 158
   hl-color:: yellow
   id:: 678cd850-591a-4902-b0fa-7dd7ddb0faa8
+- Topic 19 Version Control
+  ls-type:: annotation
+  hl-page:: 161
+  hl-color:: yellow
+  id:: 678cd902-56af-4806-9746-1dd12e419b74
+- Well, that’s one of the many benefits of using a version control system (VCS): it’s a giant undo key—a project-wide time machine that can return you to those halcyon days of last week, when the code actually compiled and ran.
+  ls-type:: annotation
+  hl-page:: 161
+  hl-color:: yellow
+  id:: 678cd913-ddc9-4f11-860a-1b1c5d0a38b8
