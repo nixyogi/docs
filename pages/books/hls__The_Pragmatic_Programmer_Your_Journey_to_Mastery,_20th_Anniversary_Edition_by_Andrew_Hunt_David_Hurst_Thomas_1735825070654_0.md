@@ -1442,3 +1442,333 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 168
   hl-color:: yellow
   id:: 678cd963-8988-4f0c-9614-cc5f6843ee67
+- The word bug has been used to describe an “object of terror’’ ever since the fourteenth century. Rear Admiral Dr. Grace Hopper, the inventor of COBOL, is credited with observing the first computer bug—literally, a moth caught in a relay in an early computer system. When asked to explain why the machine wasn’t behaving as intended, a technician reported that there was “a bug in the system,” and dutifully taped it— wings and all—into the log book.
+  ls-type:: annotation
+  hl-page:: 168
+  hl-color:: yellow
+  id:: 678cd985-1d94-4c29-9db6-5454b819406d
+- Software defects manifest themselves in a variety of ways, from misunderstood requirements to coding errors. Unfortunately, modern computer systems are still limited to doing what you tell them to do, not necessarily what you want them to do.
+  ls-type:: annotation
+  hl-page:: 168
+  hl-color:: yellow
+  id:: 678cd99a-620e-440d-b62e-9ef6c842bf5d
+- PSYCHOLOGY OF DEBUGGING
+  ls-type:: annotation
+  hl-page:: 168
+  hl-color:: yellow
+  id:: 678cd9a4-5fed-49c9-9847-b2df468f4459
+- Debugging is a sensitive, emotional subject for many developers. Instead of attacking it as a puzzle to be solved, you may encounter denial, finger pointing, lame excuses, or just plain apathy.
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9b6-91de-4917-ae05-3461bd4d1102
+- However, in the technical arena, you want to concentrate on fixing the problem, not the blame.
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9c3-52af-4fbb-abf2-04043f3826c8
+- Tip 29 Fix the Problem, Not the Blame
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9c8-9d78-4bd1-8bbb-873b82cb10a8
+- It doesn’t really matter whether the bug is your fault or someone else’s. It is still your problem.
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9d0-231f-4c76-ba07-b50ff367c61e
+- A DEBUGGING MINDSET Before you start debugging, it’s important to adopt the right mindset. You need to turn off many of the defenses you use each day to protect your ego, tune out any project pressures you may be under, and get yourself comfortable.
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9db-fa88-44eb-a954-0915d7e1092f
+- Tip 30 Don’t Panic
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9e8-2d22-4e59-b6be-42c968343c97
+- It’s easy to get into a panic, especially if you are facing a deadline, or have a nervous boss or client breathing down your neck while you are trying to find the cause of the bug.
+  ls-type:: annotation
+  hl-page:: 169
+  hl-color:: yellow
+  id:: 678cd9f4-8181-4a05-8135-36b9619537d4
+- what could be causing the symptoms that you believe indicate a bug
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 678cd9fa-3b08-4c7a-ac51-d73c1067581d
+- If your first reaction on witnessing a bug or seeing a bug report is “that’s impossible,” you are plainly wrong. 
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 678cda01-7a91-498d-9043-6726b5d3de15
+- Beware of myopia when debugging. Resist the urge to fix just the symptoms you see: it is more likely that the actual fault may be several steps removed from what you are observing, and may involve a number of other related things. Always try to discover the root cause of a problem, not just this particular appearance of it.
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 678cda12-2c9c-4e90-a74f-5881280a8767
+- WHERE TO START Before you start to look at the bug, make sure that you are working on code that built cleanly—without warnings.
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 678cda1e-61f8-4aa5-a772-38f797e12648
+- When trying to solve any problem, you need to gather all the relevant data.
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 678cda4f-c949-4269-8823-222e02c833c3
+- It’s easy to be misled by coincidences, and you can’t afford to waste time debugging coincidences. You first need to be accurate in your observations
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 678cda5f-b66a-404f-939c-cd0a036cbdcd
+- You may need to interview the user who reported the bug in order to gather more data than you were initially given. Artificial tests (such as the programmer’s single brush stroke from bottom to top) don’t exercise enough of an application. You must brutally test both boundary conditions and realistic end-user usage
+  ls-type:: annotation
+  hl-page:: 171
+  hl-color:: yellow
+  id:: 678cda93-281c-4fbe-b3af-532cf7c4812a
+- DEBUGGING STRATEGIES Once you think you know what is going on, it’s time to find out what the program thinks is going on
+  ls-type:: annotation
+  hl-page:: 171
+  hl-color:: yellow
+  id:: 678cdaa1-a7b7-4632-8bff-8105d1a8e0cc
+- Reproducing Bugs
+  ls-type:: annotation
+  hl-page:: 171
+  hl-color:: yellow
+  id:: 678cdaae-df61-4ac7-84c8-d3981cbc2a62
+- The best way to start fixing a bug is to make it reproducible. After all, if you can’t reproduce it, how will you know if it is ever fixed? But we want more than a bug that can be reproduced by following some long series of steps; we want a bug that can be reproduced with a single command. It’s a lot harder to fix a bug if you have to go through 15 steps to get to the point where the bug shows up.
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 678cdabc-0554-4da1-bff9-a38efd41e381
+- Tip 31 Failing Test Before Fixing Code
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 678cdac4-a8e4-4c5a-9d92-965f20d8c9a1
+- Sometimes by forcing yourself to isolate the circumstances that display the bug, you’ll even gain an insight on how to fix it. The act of writing the test informs the solution.
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 678cdad1-17d4-4701-9085-de0da66e5f08
+- Tip 32 Read the Damn Error Message
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 678cdaf0-2da4-44fe-9c5d-2d8140786c71
+- Get in there with a debugger and use your failing test to trigger the problem.
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 678cdafa-1d70-4a2b-b17c-3fb30c0cc94f
+- Sometimes you’re looking at a stack trace that seems to scroll on forever. In this case, there’s often a quicker way to find the problem than examining each and every stack frame: use a binary chop.
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 678cdb26-2591-4e02-aaa4-6c888f4b9a00
+- Sensitivity to Input Values You’ve been there. Your program works fine with all the test data, and survives its first week in production with honor. Then it suddenly crashes when fed a particular dataset.
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 678cdb3b-417c-444c-a591-db633bc36baa
+- You can try looking at the place it crashes and work backwards. But sometimes it’s easier to start with the data. Get a copy of the dataset and feed it through a locally running copy of the app, making sure it still crashes. Then binary chop the data until you isolate exactly which input values are leading to the crash.
+  ls-type:: annotation
+  hl-page:: 174
+  hl-color:: yellow
+  id:: 678cdb48-4ec1-4703-92e8-5ae64a5fad28
+- Regressions Across Releases You’re on a good team, and you release your software into production. At some point a bug pops up in code that worked OK a week ago. Wouldn’t it be nice if you could identify the specific change that introduced it? Guess what? Binary chop time.
+  ls-type:: annotation
+  hl-page:: 174
+  hl-color:: yellow
+  id:: 678cdb55-55a8-44b4-865f-a7097df1a888
+- THE BINARY CHOP
+  ls-type:: annotation
+  hl-page:: 174
+  hl-color:: yellow
+  id:: 678cdb7a-2364-45e4-940f-01093d68ffab
+- it’s faster to use a divide and conquer approach. Choose a value in the middle of the array. If it’s the one you’re looking for, stop. Otherwise you can chop the array in two. If the value you find is greater than the target then you know it must be in the first half of the array, otherwise it’s in the second half. Repeat the procedure in the appropriate subarray, and in no time you’ll have a result. 
+  ls-type:: annotation
+  hl-page:: 174
+  hl-color:: yellow
+  id:: 678cdb92-e231-47ae-a3e0-ab8a493f9f6c
+- Let’s see how to apply it to debugging.
+  ls-type:: annotation
+  hl-page:: 174
+  hl-color:: yellow
+  id:: 678cdb9c-5174-43b4-88a5-662964100083
+- When you’re facing a massive stacktrace and you’re trying to find out exactly which function mangled the value in error, you do a chop by choosing a stack frame somewhere in the middle and seeing if the error is manifest there. If it is, then you know to focus on the frames before, otherwise the problem is in the frames after. Chop again. Even if you have 64 frames in the stacktrace, this approach will give you an answer after at most six attempts.
+  ls-type:: annotation
+  hl-page:: 175
+  hl-color:: yellow
+  id:: 678cdbae-9f89-43d7-8f79-838b5ab0eef5
+- If you find bugs that appear on certain datasets, you might be able to do the same thing. Split the dataset into two, and see if the problem occurs if you feed one or the other through the app.
+  ls-type:: annotation
+  hl-page:: 175
+  hl-color:: yellow
+  id:: 678cdbb7-3485-4350-b812-18f32879257d
+- If your team has introduced a bug during a set of releases, you can use the same type of technique. Create a test that causes the current release to fail. Then choose a half-way release between now and the last known working version. Run the test again, and decide how to narrow your search. Being able to do this is just one of the many benefits of having good version control in your projects. 
+  ls-type:: annotation
+  hl-page:: 175
+  hl-color:: yellow
+  id:: 678cdbcb-eab6-45fc-8d85-9a2ca9af15b1
+- Logging and/or Tracing Debuggers generally focus on the state of the program now. Sometimes you need more—you need to watch the state of a program or a data structure over time. Seeing a stack trace can only tell you how you got here directly. 
+  ls-type:: annotation
+  hl-page:: 175
+  hl-color:: yellow
+  id:: 678cdbdc-474b-4ce4-8db5-0ccd678e4563
+- You can use tracing statements to drill down into the code. That is, you can add tracing statements as you descend the call tree.
+  ls-type:: annotation
+  hl-page:: 176
+  hl-color:: yellow
+  id:: 678cdbeb-b2d5-4cbd-8c33-8063f95f3f27
+- Rubber Ducking A very simple but particularly useful technique for finding the cause of a problem is simply to explain it to someone else.
+  ls-type:: annotation
+  hl-page:: 176
+  hl-color:: yellow
+  id:: 678cdc01-a7e5-4791-90eb-96d602a29cb8
+- It sounds simple, but in explaining the problem to another person you must explicitly state things that you may take for granted when going through the code yourself. 
+  ls-type:: annotation
+  hl-page:: 176
+  hl-color:: yellow
+  id:: 678cdc10-cca1-4dd1-be1e-dfde58c4cb45
+- Process of Elimination In most projects, the code you are debugging may be a mixture of application code written by you and others on your project team, third-party products
+  ls-type:: annotation
+  hl-page:: 177
+  hl-color:: yellow
+  id:: 678cdc23-491d-4e7b-a6cd-4aa9d193a2ca
+- It is possible that a bug exists in the OS, the compiler, or a thirdparty product—but this should not be your first thought. It is much more likely that the bug exists in the application code under development. It is generally more profitable to assume that the application code is incorrectly calling into a library than to assume that the library itself is broken. Even if the problem does lie with a third party, you’ll still have to eliminate your code before submitting the bug report.
+  ls-type:: annotation
+  hl-page:: 177
+  hl-color:: yellow
+  id:: 678cdc34-2de2-4dab-b249-8559ae1c15a6
+- Tip 33 “select” Isn’t Broken
+  ls-type:: annotation
+  hl-page:: 178
+  hl-color:: yellow
+  id:: 678cdc51-4917-473c-9f5f-e52485019151
+- We now use the phrase “select is broken’’ as a gentle reminder whenever one of us starts blaming the system for a fault that is likely to be our own
+  ls-type:: annotation
+  hl-page:: 177
+  hl-color:: yellow
+  id:: 678cdc58-dd06-49e4-997b-0e28e0ca588d
+- If you “changed only one thing’’ and the system stopped working, that one thing was likely to be responsible, directly or indirectly, no matter how farfetched it seems.
+  ls-type:: annotation
+  hl-page:: 178
+  hl-color:: yellow
+  id:: 678cdc6c-26dd-457e-acaf-ae41ec1dc805
+- When you find yourself surprised by a bug (perhaps even muttering “that’s impossible” under your breath where we can’t hear you), you must reevaluate truths you hold dear
+  ls-type:: annotation
+  hl-page:: 178
+  hl-color:: yellow
+  id:: 678cdc95-8b51-41e3-8916-05021fdb0a1a
+- Of course it can. The amount of surprise you feel when something goes wrong is proportional to the amount of trust and faith you have in the code being run.
+  ls-type:: annotation
+  hl-page:: 178
+  hl-color:: yellow
+  id:: 678cdca0-99fe-41d5-a8e5-f30989b4880d
+- Tip 34 Don’t Assume It—Prove It
+  ls-type:: annotation
+  hl-page:: 179
+  hl-color:: yellow
+  id:: 678cdcb1-9bf9-4476-85e9-6768bd67b60c
+- When you come across a surprise bug, beyond merely fixing it, you need to determine why this failure wasn’t caught earlier.
+  ls-type:: annotation
+  hl-page:: 179
+  hl-color:: yellow
+  id:: 678cdcb8-0fe2-45f2-a8bd-a1ae9e101c04
+- While you’re at it, are there any other places in the code that may be susceptible to this same bug? Now is the time to find and fix them. Make sure that whatever happened, you’ll know if it happens again.
+  ls-type:: annotation
+  hl-page:: 179
+  hl-color:: yellow
+  id:: 678cdcd6-010f-4ff0-830e-ea75007823f5
+- If it took a long time to fix this bug, ask yourself why. Is there anything you can do to make fixing this bug easier the next time around? Perhaps you could build in better testing hooks, or write a log file analyzer.
+  ls-type:: annotation
+  hl-page:: 179
+  hl-color:: yellow
+  id:: 678cdce0-87d6-43e9-938e-fbc8512b9b3c
+- Topic 21 Text Manipulation
+  ls-type:: annotation
+  hl-page:: 181
+  hl-color:: yellow
+  id:: 678cdcf5-68e8-4e41-957f-92dc6fb29b9d
+- Fortunately, there are a number of great text manipulation languages. Unix developers (and we include macOS users here) often like to use the power of their command shells, augmented with tools such as awk and sed. People who prefer a more structured tool may prefer languages such as Python or Ruby. These languages are important enabling technologies. Using them, you can quickly hack up utilities and prototype ideas—[28]
+  ls-type:: annotation
+  hl-page:: 181
+  hl-color:: yellow
+  id:: 678cdd22-bf36-4a27-aab2-faed0c83fa93
+- jobs that might take five or ten times as long using conventional languages. And that multiplying factor is crucially important to the kind of experimenting that we do. Spending 30 minutes trying out a crazy idea is a whole lot better than spending five hours. Spending a day automating important components of a project is acceptable; spending a week might not be.
+  ls-type:: annotation
+  hl-page:: 182
+  hl-color:: yellow
+  id:: 678cdd32-5c68-4f89-b82c-cf3ee9ece7c8
+- Tip 35 Learn a Text Manipulation Language
+  ls-type:: annotation
+  hl-page:: 182
+  hl-color:: yellow
+  id:: 678cdd44-668a-45d6-89e4-4c878331276c
+- here’s a sample of some stuff we’ve done with Ruby and Python just related to the creation of this book
+  ls-type:: annotation
+  hl-page:: 182
+  hl-color:: yellow
+  id:: 678cdd62-e848-43e0-b7ed-7d14bb0cefc1
+- Building the Book The build system for the Pragmatic Bookshelf is written in Ruby. Authors, editors, layout people, and support folks use Rake tasks to coordinate the building of PDFs and ebooks
+  ls-type:: annotation
+  hl-page:: 182
+  hl-color:: yellow
+  id:: 678cdd6c-099a-44d5-ace6-47bcea294ff7
+- Code inclusion and highlighting We think it is important that any code presented in a book should have been tested first. Most of the code in this book has been. However, using the DRY principle(see Topic 9, DRY—The Evils of Duplication) we didn’t want to copy and paste lines of code from the tested programs into the book. 
+  ls-type:: annotation
+  hl-page:: 182
+  hl-color:: yellow
+  id:: 678cdd74-f7f2-43d2-9158-710ea8416ff1
+- We turned to Ruby. A relatively simple script is invoked when we format the book—it extracts a named segment of a source file, does syntax highlighting, and converts the result into the typesetting language we use.
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 678cdd82-ab87-4f55-92a1-8866c7f6ff76
+- Website update We have a simple script that does a partial book build, extracts the table of contents, then uploads it to the book’s page on our website
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 678cdd89-c448-4b5f-83b6-91d9056e3ce0
+- Including equations There’s a Python script that converts LaTeX math markup into nicely formatted text.
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 678cdd8e-ba9d-41ae-b3b7-f3457b65f109
+- Index generation Most indexes are created as separate documents (which makes maintaining them difficult if a document changes). Ours are marked up in the text itself, and a Ruby script collates and formats the entries
+  ls-type:: annotation
+  hl-page:: 183
+  hl-color:: yellow
+  id:: 678cdd97-11b4-47a7-ac9d-84e4b6f37007
+- Topic 22 Engineering Daybooks
+  ls-type:: annotation
+  hl-page:: 185
+  hl-color:: yellow
+  id:: 678cdda4-8994-4c8d-8fd0-12a241c69444
+- It turned out that they’d been trained to keep an engineering daybook, a kind of journal in which they recorded what they did, things they’d learned, sketches of ideas, readings from meters: basically anything to do with their work. When the notebook became full, they’d write the date range on the spine, then stick it on the shelf next to previous daybooks.
+  ls-type:: annotation
+  hl-page:: 185
+  hl-color:: yellow
+  id:: 678cddc3-5b31-4f47-a8ce-09144308d033
+- We use daybooks to take notes in meetings, to jot down what we’re working on, to note variable values when debugging, to leave reminders where we put things, to record wild ideas, and sometimes just to doodle
+  ls-type:: annotation
+  hl-page:: 185
+  hl-color:: yellow
+  id:: 678cddca-6d64-4d15-8f1d-78619d78063f
+- The daybook has three main benefits: It is more reliable than memory. People might ask “What was the name of that company you called last week about the power supply
+  ls-type:: annotation
+  hl-page:: 185
+  hl-color:: yellow
+  id:: 678cddd0-a4f3-4d80-9c75-9ffb25790837
+- problem?” and you can flip back a page or so and give them the name and number. It gives you a place to store ideas that aren’t immediately relevant to the task at hand. That way you can continue to concentrate on what you are doing, knowing that the great idea won’t be forgotten. It acts as a kind of rubber duck (described here). When you stop to write something down, your brain may switch gears, almost as if talking to someone—a great chance to reflect. You may start to make a note and then suddenly realize that what you’d just done, the topic of the note, is just plain wrong
+  ls-type:: annotation
+  hl-page:: 186
+  hl-color:: yellow
+  id:: 678cddd7-87c4-48d5-afa8-bd48b536ec9f
+- There’s an added benefit, too. Every now and then you can look back at what you were doing oh-so-many-years-ago and think about the people, the projects, and the awful clothes and hairstyles. So, try keeping an engineering daybook. Use paper, not a file or a wiki: there’s something special about the act of writing compared to typing. Give it a month, and see if you’re getting any benefits. If nothing else, it’ll make writing your memoir easier when you’re rich and famous.
+  ls-type:: annotation
+  hl-page:: 186
+  hl-color:: yellow
+  id:: 678cdde9-0829-4036-a49a-8866eae78238
