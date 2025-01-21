@@ -1912,3 +1912,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 197
   hl-color:: yellow
   id:: 678fae94-f908-49ec-8608-25e4aa9c6fd4
+- In other environments, the exceptions generated from DBCstyle assertions might be turned off globally or ignored in the code
+  ls-type:: annotation
+  hl-page:: 197
+  hl-color:: yellow
+  id:: 678faeaa-53aa-480a-9e36-65bee81c98cd
+- f you’re using assertions to enforce contracts, you must add code to the precondition to save any information you’ll want to use in the postcondition, if the language will even allow that.
+  ls-type:: annotation
+  hl-page:: 198
+  hl-color:: yellow
+  id:: 678faeba-33f1-4e89-b9e1-1ded3f65dec1
+- Finally, conventional runtime systems and libraries are not designed to support contracts, so these calls are not checked.
+  ls-type:: annotation
+  hl-page:: 198
+  hl-color:: yellow
+  id:: 678faec4-54c0-4d2e-88d0-16574f9523bd
