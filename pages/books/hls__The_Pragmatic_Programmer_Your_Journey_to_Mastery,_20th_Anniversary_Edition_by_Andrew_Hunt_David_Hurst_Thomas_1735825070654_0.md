@@ -1957,3 +1957,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 199
   hl-color:: yellow
   id:: 678faf54-7d9d-48e4-9cfb-19eab600a2e6
+- That’s why we use the term semantic invariants—it must be central to the very meaning of a thing, and not subject to the whims of policy (which is what more dynamic business rules are for).
+  ls-type:: annotation
+  hl-page:: 200
+  hl-color:: yellow
+  id:: 678faf99-41c4-43a7-a288-103a8f5ba80e
+- DYNAMIC CONTRACTS AND AGENTS
+  ls-type:: annotation
+  hl-page:: 200
+  hl-color:: yellow
+  id:: 678fafb3-e907-4369-9c50-e57a68aa2483
+- Until now, we have talked about contracts as fixed, immutable specifications. But in the landscape of autonomous agents, this doesn’t need to be the case. By the definition of “autonomous,” agents are free to reject requests that they do not want to honor.
+  ls-type:: annotation
+  hl-page:: 200
+  hl-color:: yellow
+  id:: 678fafc1-a77e-4522-8e98-b27fd868faf9
