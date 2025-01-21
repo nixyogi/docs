@@ -1892,3 +1892,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 196
   hl-color:: yellow
   id:: 678fad19-cd1f-453e-954f-b13716d7ffe0
+- In languages that do not support DBC in the code, this might be as far as you can go—and that’s not too bad. DBC is, after all, a design technique. Even without automatic checking, you can put the contract in the code as comments or in the unit tests and still get a very real benefit.
+  ls-type:: annotation
+  hl-page:: 197
+  hl-color:: yellow
+  id:: 678fae60-81e3-4cf5-8819-1616b63c7157
