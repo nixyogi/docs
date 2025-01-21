@@ -1872,3 +1872,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 195
   hl-color:: yellow
   id:: 678f5a8a-ad44-4141-9e87-7a355d8a827c
+- DBC and testing are different approaches to the broader topic of program correctness. They both have value and both have uses in different situations. DBC offers several advantages over specific testing approaches: DBC doesn’t require any setup or mocking DBC defines the parameters for success or failure in all cases, whereas testing can only target one specific case at a time TDD and other testing happens only at “test time” within the build cycle. But DBC and assertions are forever: during design, development, deployment, and maintenance TDD does not focus on checking internal invariants within the code under test, it’s more black-box style to check the public interface DBC is more efficient (and DRY-er) than defensive programming, where everyone has to validate data in case no one else does. TDD is a great technique, but as with many techniques, it might invite you to concentrate on the “happy path,” and not the real world full of bad data, bad actors, bad versions, and bad specifications
+  ls-type:: annotation
+  hl-page:: 196
+  hl-color:: yellow
+  id:: 678face7-8bca-4440-b80a-8eb9d82357f6
