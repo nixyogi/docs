@@ -1772,3 +1772,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 186
   hl-color:: yellow
   id:: 678cdde9-0829-4036-a49a-8866eae78238
+- Tip 36 You Can’t Write Perfect Software
+  ls-type:: annotation
+  hl-page:: 188
+  hl-color:: yellow
+  id:: 678f4ec5-665d-43f7-af3f-a0ba1be0127e
+- Because perfect software doesn’t exist. No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first. 
+  ls-type:: annotation
+  hl-page:: 188
+  hl-color:: yellow
+  id:: 678f4ecf-0fcb-4a75-b510-54a1105441fa
+- We are constantly interfacing with other people’s code—code that might not live up to our high standards—and dealing with inputs that may or may not be valid. So we are taught to code defensively. If there’s any doubt, we validate all information we’re given.
+  ls-type:: annotation
+  hl-page:: 189
+  hl-color:: yellow
+  id:: 678f4ef8-8e68-4ccd-9777-4cb0e32c9e12
+- We use assertions to detect bad data, and distrust data from potential attackers or trolls. We check for consistency, put constraints on database columns, and generally feel pretty good about ourselves.
+  ls-type:: annotation
+  hl-page:: 189
+  hl-color:: yellow
+  id:: 678f4eff-07b0-44b6-b584-0faf5e5d178e
