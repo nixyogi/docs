@@ -1927,3 +1927,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 198
   hl-color:: yellow
   id:: 678faec4-54c0-4d2e-88d0-16574f9523bd
+- DBC AND CRASHING EARLY
+  ls-type:: annotation
+  hl-page:: 198
+  hl-color:: yellow
+  id:: 678faf11-286e-443a-9374-a6dec2ca2440
+- By using an assert or DBC
+  ls-type:: annotation
+  hl-page:: 198
+  hl-color:: yellow
+  id:: 678faf16-74c8-4861-8af0-d65cab909806
