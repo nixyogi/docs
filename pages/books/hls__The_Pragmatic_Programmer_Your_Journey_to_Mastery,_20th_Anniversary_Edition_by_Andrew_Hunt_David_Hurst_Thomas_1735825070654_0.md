@@ -1862,3 +1862,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 193
   hl-color:: yellow
   id:: 678f59b2-d909-4733-a597-e3ea050a7b69
+- Tip 37 Design with Contracts
+  ls-type:: annotation
+  hl-page:: 195
+  hl-color:: yellow
+  id:: 678f5a6f-30be-48a0-ae9c-47c2e4602927
