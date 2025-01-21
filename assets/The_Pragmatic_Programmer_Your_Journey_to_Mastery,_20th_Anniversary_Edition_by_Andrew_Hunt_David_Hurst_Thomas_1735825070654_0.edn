@@ -13867,4 +13867,4 @@
                           :page 200},
                :content {:text "Until now, we have talked about contracts as fixed, immutable specifications. But in the landscape of autonomous agents, this doesn’t need to be the case. By the definition of “autonomous,” agents are free to reject requests that they do not want to honor."},
                :properties {:color "yellow"}}],
- :extra {:page 200}}
+ :extra {:page 201}}
