@@ -1837,3 +1837,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 192
   hl-color:: yellow
   id:: 678f5983-29eb-45d6-9c1d-d062384d4b42
+- Class invariants A class ensures that this condition is always true from the perspective of a caller.
+  ls-type:: annotation
+  hl-page:: 192
+  hl-color:: yellow
+  id:: 678f598c-7888-454d-9d94-2ad5f28a2d94
+- During internal processing of a
+  ls-type:: annotation
+  hl-page:: 192
+  hl-color:: yellow
+  id:: 678f598f-27fb-4c8c-a53c-d5300bbba1c3
+- routine, the invariant may not hold, but by the time the routine exits and control returns to the caller, the invariant must be true. (Note that a class cannot give unrestricted write-access to any data member that participates in the invariant.)
+  ls-type:: annotation
+  hl-page:: 193
+  hl-color:: yellow
+  id:: 678f5998-e99e-4457-aad9-cd2df5d5b790
+- The contract between a routine and any potential caller can thus be read as If all the routine’s preconditions are met by the caller, the routine shall guarantee that all postconditions and invariants will be true when it completes
+  ls-type:: annotation
+  hl-page:: 193
+  hl-color:: yellow
+  id:: 678f59a1-2153-4217-afb6-c691add8f70c
+- If either party fails to live up to the terms of the contract, then a remedy (which was previously agreed to) is invoked—maybe an exception is raised, or the program terminates. 
+  ls-type:: annotation
+  hl-page:: 193
+  hl-color:: yellow
+  id:: 678f59b2-d909-4733-a597-e3ea050a7b69
