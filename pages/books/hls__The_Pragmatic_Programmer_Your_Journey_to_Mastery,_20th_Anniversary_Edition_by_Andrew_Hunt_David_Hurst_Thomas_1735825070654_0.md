@@ -1877,3 +1877,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 196
   hl-color:: yellow
   id:: 678face7-8bca-4440-b80a-8eb9d82357f6
+- Class Invariants and Functional Languages
+  ls-type:: annotation
+  hl-page:: 196
+  hl-color:: yellow
+  id:: 678facfb-0335-49b9-8593-fcefd8ee7733
+- What this idea really refers to is state. In an object-oriented language, the state is associated with instances of classes. But other languages have state, too. In a functional language, you typically pass state to functions and receive updated state as a result.
+  ls-type:: annotation
+  hl-page:: 196
+  hl-color:: yellow
+  id:: 678fad0c-0233-4095-b4a1-fa4af4a5cbaa
+- IMPLEMENTING DBC
+  ls-type:: annotation
+  hl-page:: 196
+  hl-color:: yellow
+  id:: 678fad19-cd1f-453e-954f-b13716d7ffe0
