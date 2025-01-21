@@ -1822,3 +1822,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 192
   hl-color:: yellow
   id:: 678f5234-cc3a-4a26-bcf7-8a04055a264b
+- Every function and method in a software system does something. Before it starts that something, the function may have some expectation of the state of the world, and it may be able to make a statement about the state of the world when it concludes. Meyer describes these expectations and claims as follows:
+  ls-type:: annotation
+  hl-page:: 192
+  hl-color:: yellow
+  id:: 678f5963-84a0-4c3a-9a4c-8ad4783c28b8
+- Preconditions What must be true in order for the routine to be called; the routine’s requirements. A routine should never get called when its preconditions would be violated. It is the caller’s responsibility to pass good data
+  ls-type:: annotation
+  hl-page:: 192
+  hl-color:: yellow
+  id:: 678f597b-21e6-4716-bcdc-212d4f4cfdc2
+- Postconditions What the routine is guaranteed to do; the state of the world when the routine is done. The fact that the routine has a postcondition implies that it will conclude: infinite loops aren’t allowed.
+  ls-type:: annotation
+  hl-page:: 192
+  hl-color:: yellow
+  id:: 678f5983-29eb-45d6-9c1d-d062384d4b42
