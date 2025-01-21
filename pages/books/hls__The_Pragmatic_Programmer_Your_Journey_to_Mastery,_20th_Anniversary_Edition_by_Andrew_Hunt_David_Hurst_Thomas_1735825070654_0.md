@@ -1867,3 +1867,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 195
   hl-color:: yellow
   id:: 678f5a6f-30be-48a0-ae9c-47c2e4602927
+- Here, the emphasis is on “lazy” code: be strict in what you will accept before you begin, and promise as little as possible in return. Remember, if your contract indicates that you’ll accept anything and promise the world in return, then you’ve got a lot of code to write!
+  ls-type:: annotation
+  hl-page:: 195
+  hl-color:: yellow
+  id:: 678f5a8a-ad44-4141-9e87-7a355d8a827c
