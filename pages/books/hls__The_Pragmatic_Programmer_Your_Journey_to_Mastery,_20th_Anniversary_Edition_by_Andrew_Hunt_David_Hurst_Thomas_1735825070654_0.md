@@ -1792,3 +1792,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 189
   hl-color:: yellow
   id:: 678f4eff-07b0-44b6-b584-0faf5e5d178e
+- But Pragmatic Programmers take this a step further. They don’t trust themselves, either. Knowing that no one writes perfect code, including themselves, Pragmatic Programmers build in defenses against their own mistakes.
+  ls-type:: annotation
+  hl-page:: 189
+  hl-color:: yellow
+  id:: 678f4f07-41db-4904-92a8-a4d992c4af39
+- In a world of imperfect systems, ridiculous time scales, laughable tools, and impossible requirements, let’s play it safe.
+  ls-type:: annotation
+  hl-page:: 190
+  hl-color:: yellow
+  id:: 678f4f29-9f31-4afd-ac2c-e96355f2c721
+- Topic 23 Design by Contract
+  ls-type:: annotation
+  hl-page:: 191
+  hl-color:: yellow
+  id:: 678f4f35-bbd1-4d34-a820-54aac844db60
