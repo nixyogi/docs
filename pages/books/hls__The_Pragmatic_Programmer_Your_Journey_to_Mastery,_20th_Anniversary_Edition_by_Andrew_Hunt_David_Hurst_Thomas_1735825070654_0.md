@@ -1937,3 +1937,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 198
   hl-color:: yellow
   id:: 678faf16-74c8-4861-8af0-d65cab909806
+- mechanism to validate the preconditions, postconditions, and invariants, you can crash early and report more accurate information about the problem.
+  ls-type:: annotation
+  hl-page:: 199
+  hl-color:: yellow
+  id:: 678faf1d-590c-459c-8045-4081e30b9707
+- It’s much easier to find and diagnose the problem by crashing early, at the site of the problem.
+  ls-type:: annotation
+  hl-page:: 199
+  hl-color:: yellow
+  id:: 678faf3c-1821-4a7c-9fce-4ad7b22e958e
+- SEMANTIC INVARIANTS
+  ls-type:: annotation
+  hl-page:: 199
+  hl-color:: yellow
+  id:: 678faf47-819d-4340-9046-16cf2cec5c95
