@@ -1952,3 +1952,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 199
   hl-color:: yellow
   id:: 678faf47-819d-4340-9046-16cf2cec5c95
+- You can use semantic invariants to express inviolate requirements, a kind of “philosophical contract.’’
+  ls-type:: annotation
+  hl-page:: 199
+  hl-color:: yellow
+  id:: 678faf54-7d9d-48e4-9cfb-19eab600a2e6
