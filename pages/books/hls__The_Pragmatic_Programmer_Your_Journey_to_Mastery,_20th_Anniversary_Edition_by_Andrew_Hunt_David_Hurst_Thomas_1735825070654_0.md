@@ -1807,3 +1807,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 191
   hl-color:: yellow
   id:: 678f4f35-bbd1-4d34-a820-54aac844db60
+- Can we use the same concept to help software modules interact? The answer is “yes.’’
+  ls-type:: annotation
+  hl-page:: 191
+  hl-color:: yellow
+  id:: 678f5213-bbdb-49dd-a81a-5357046e85ab
+- One of the best solutions for ensuring plain dealing is the contract
+  ls-type:: annotation
+  hl-page:: 191
+  hl-color:: yellow
+  id:: 678f521c-6ac5-43d3-ae8f-afce7e2269bd
+- of Design by Contract for the language Eiffel. It is a simple yet powerful technique that focuses on documenting (and agreeing to) the rights and responsibilities of software modules to ensure program correctness. What is a correct program? One that does no more and no less than it claims to do. Documenting and verifying that claim is the heart of Design by Contract (DBC, for short).
+  ls-type:: annotation
+  hl-page:: 192
+  hl-color:: yellow
+  id:: 678f5234-cc3a-4a26-bcf7-8a04055a264b
