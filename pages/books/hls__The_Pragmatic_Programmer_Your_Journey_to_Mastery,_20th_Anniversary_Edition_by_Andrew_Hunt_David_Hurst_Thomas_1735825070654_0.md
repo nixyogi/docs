@@ -1897,3 +1897,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 197
   hl-color:: yellow
   id:: 678fae60-81e3-4cf5-8819-1616b63c7157
+- Assertions
+  ls-type:: annotation
+  hl-page:: 197
+  hl-color:: yellow
+  id:: 678fae67-c4f9-4105-bfc3-64d93ecb04e4
+- While documenting these assumptions is a great start, you can get much greater benefit by having the compiler check your contract for you. You can partially emulate this in some languages by using assertions: runtime checks of logical conditions
+  ls-type:: annotation
+  hl-page:: 197
+  hl-color:: yellow
+  id:: 678fae82-bc4c-40d6-aa62-fcf8771248a3
+- To begin with, in objectoriented languages there probably is no support for propagating assertions down an inheritance hierarchy. This means that if you override a base class method that has a contract, the assertions that implement that contract will not be called correctly (unless you duplicate them manually in the new code)
+  ls-type:: annotation
+  hl-page:: 197
+  hl-color:: yellow
+  id:: 678fae94-f908-49ec-8608-25e4aa9c6fd4
