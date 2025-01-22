@@ -1997,3 +1997,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 203
   hl-color:: yellow
   id:: 67904682-c3f0-4e78-b482-315ed8f976b9
+- A logic error a couple of million instructions ago means that the selector for a case statement is no longer the expected 1, 2, or 3. We’ll hit the default case unexpectedly. That’s also one reason why each and every case/switch statement needs to have a default clause: we want to know when the“impossible” has happened.
+  ls-type:: annotation
+  hl-page:: 203
+  hl-color:: yellow
+  id:: 67904699-0739-4b9b-bda3-d49ad5c8795a
+- It’s easy to fall into the “it can’t happen” mentality. Most of us have written code that didn’t check that a file closed successfully, or that a trace statement got written as we expected.
+  ls-type:: annotation
+  hl-page:: 203
+  hl-color:: yellow
+  id:: 679046a7-1944-46ff-ba1e-56e45b7d7f1c
+- All errors give you information. You could convince yourself
+  ls-type:: annotation
+  hl-page:: 203
+  hl-color:: yellow
+  id:: 679046c8-a542-4afb-83b7-6673138491ec
+- that the error can’t happen, and choose to ignore it
+  ls-type:: annotation
+  hl-page:: 204
+  hl-color:: yellow
+  id:: 679046ce-9d95-4550-aa1c-b52845182184
