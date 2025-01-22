@@ -2017,3 +2017,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 204
   hl-color:: yellow
   id:: 679046ce-9d95-4550-aa1c-b52845182184
+- the basic principle stays the same—when your code discovers that something that was supposed to be impossible just happened, your program is no longer viable. Anything it does from this point forward becomes suspect, so terminate it
+  ls-type:: annotation
+  hl-page:: 205
+  hl-color:: yellow
+  id:: 67904768-f7f2-4eea-a9cb-7313a498adac
+- A dead program normally does a lot less damage than a crippled one.
+  ls-type:: annotation
+  hl-page:: 206
+  hl-color:: yellow
+  id:: 67904771-a900-48cc-aa32-8c6c7a3a53cd
+- Topic 25 Assertive Programming
+  ls-type:: annotation
+  hl-page:: 207
+  hl-color:: yellow
+  id:: 67904777-178a-4f6a-bdff-437ce2fc2ff8
