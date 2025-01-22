@@ -1972,3 +1972,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 200
   hl-color:: yellow
   id:: 678fafc1-a77e-4522-8e98-b27fd868faf9
+- Imagine: with enough components and agents that can negotiate their own contracts among themselves to achieve a goal, we might just solve the software productivity crisis by letting software solve it for us
+  ls-type:: annotation
+  hl-page:: 201
+  hl-color:: yellow
+  id:: 679045db-5df6-4530-92d8-f739e694afb7
