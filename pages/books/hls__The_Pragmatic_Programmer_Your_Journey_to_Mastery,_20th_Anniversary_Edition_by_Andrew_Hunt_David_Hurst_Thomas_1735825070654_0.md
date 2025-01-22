@@ -1977,3 +1977,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 201
   hl-color:: yellow
   id:: 679045db-5df6-4530-92d8-f739e694afb7
+- So next time you design a piece of software, design its contract as well.
+  ls-type:: annotation
+  hl-page:: 201
+  hl-color:: yellow
+  id:: 679045e7-bc2a-45a8-8f71-99cde9ca4215
+- Points to ponder: If DBC is so powerful, why isn’t it used more widely? Is it hard to come up with the contract? Does it make you think about issues you’d rather ignore for now? Does it force you to THINK!? Clearly, this is a dangerous tool!
+  ls-type:: annotation
+  hl-page:: 201
+  hl-color:: yellow
+  id:: 679045f1-a6f7-46ba-bfdc-e9ce15f74b53
