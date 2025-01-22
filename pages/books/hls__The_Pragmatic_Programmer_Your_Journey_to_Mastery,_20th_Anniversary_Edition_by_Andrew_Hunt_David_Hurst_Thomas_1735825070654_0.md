@@ -1987,3 +1987,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 201
   hl-color:: yellow
   id:: 679045f1-a6f7-46ba-bfdc-e9ce15f74b53
+- Topic 24 Dead Programs Tell No Lies
+  ls-type:: annotation
+  hl-page:: 203
+  hl-color:: yellow
+  id:: 6790466c-e648-4bf6-b8a8-b768ed57cff1
+- It’s the same with other people’s code. If something is starting to go awry with one of our programs, sometimes it is a library or framework routine that catches it first. Maybe we’ve passed in a nil value, or an empty list. 
+  ls-type:: annotation
+  hl-page:: 203
+  hl-color:: yellow
+  id:: 67904682-c3f0-4e78-b482-315ed8f976b9
