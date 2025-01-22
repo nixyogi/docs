@@ -14134,5 +14134,22 @@
                                    :height 1319.9999999999998}),
                           :page 203},
                :content {:text "All errors give you information. You could convince yourself"},
+               :properties {:color "yellow"}}
+              {:id #uuid "679046ce-9d95-4550-aa1c-b52845182184",
+               :page 204,
+               :position {:bounding {:x1 151.265625,
+                                     :y1 123.59375,
+                                     :x2 710.9408569335938,
+                                     :y2 150.59375,
+                                     :width 1019.9999999999999,
+                                     :height 1319.9999999999998},
+                          :rects ({:x1 151.265625,
+                                   :y1 123.59375,
+                                   :x2 710.9408569335938,
+                                   :y2 150.59375,
+                                   :width 1019.9999999999999,
+                                   :height 1319.9999999999998}),
+                          :page 204},
+               :content {:text "that the error can’t happen, and choose to ignore it"},
                :properties {:color "yellow"}}],
- :extra {:page 203}}
+ :extra {:page 204}}
