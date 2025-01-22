@@ -2032,3 +2032,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 207
   hl-color:: yellow
   id:: 67904777-178a-4f6a-bdff-437ce2fc2ff8
+- This can never happen…“This application will never be used abroad, so why internationalize it?” “count can’t be negative.” “Logging can’t fail.” Let’s not practice this kind of self-deception, particularly when coding.
+  ls-type:: annotation
+  hl-page:: 207
+  hl-color:: yellow
+  id:: 67904796-c9c3-4728-b896-8a59d8e4e599
+- Tip 39 Use Assertions to Prevent the Impossible
+  ls-type:: annotation
+  hl-page:: 207
+  hl-color:: yellow
+  id:: 6790479e-adc1-491f-b435-802dbd43e782
+- Whenever you find yourself thinking “but of course that could never happen,” add code to check it. The easiest way to do this is with assertions. In many language implementations, you’ll find some form of assert that checks a Boolean condition. These checks can be invaluable
+  ls-type:: annotation
+  hl-page:: 207
+  hl-color:: yellow
+  id:: 679047b3-1b6b-4c8c-9fb7-47b931a3f3bf
