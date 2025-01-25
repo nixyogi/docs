@@ -2287,3 +2287,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 228
   hl-color:: yellow
   id:: 6794a3dc-dc83-4ec1-864c-27e45f845da3
+- Coupling is the enemy of change, because it links together things that must change in parallel. This makes change more difficult: either you spend time tracking down all the parts that need changing, or you spend time wondering why things broke when you changed “just one thing” and not the other things to which it was coupled.
+  ls-type:: annotation
+  hl-page:: 228
+  hl-color:: yellow
+  id:: 6794cc80-1c72-4116-a62f-aa82cbb41b3b
