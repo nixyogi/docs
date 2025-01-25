@@ -2457,3 +2457,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 236
   hl-color:: yellow
   id:: 6794cedc-5603-4d42-acda-191b2436284c
+- Tip 47 Avoid Global Data
+  ls-type:: annotation
+  hl-page:: 236
+  hl-color:: yellow
+  id:: 6794cee7-ebc5-45ed-9223-b2c6464bec93
+- Global Data Includes Singletons
+  ls-type:: annotation
+  hl-page:: 236
+  hl-color:: yellow
+  id:: 6794cef0-f552-4d1f-963a-c5ded3af0126
+- n the previous section we were careful to talk about global data and not global variables. That’s because people often tell us“Look! No global variables. I wrapped it all as instance data in a singleton object or global module.”
+  ls-type:: annotation
+  hl-page:: 236
+  hl-color:: yellow
+  id:: 6794cefd-792a-4c02-bfb4-48b5590d3085
+- Try again, Skippy. If all you have is a singleton with a bunch of exported instance variables, then it’s still just global data. It just has a longer name.
+  ls-type:: annotation
+  hl-page:: 236
+  hl-color:: yellow
+  id:: 6794cf08-27b9-4656-b6ec-cf3ccc8ede95
+- So then folks take this singleton and hide all the data behind methods. Instead of coding Config.log_level they now say Config.log_level() or Config.getLogLevel().
+  ls-type:: annotation
+  hl-page:: 236
+  hl-color:: yellow
+  id:: 6794cf16-bf04-4852-8a13-5c1e75ce4a15
+- Global Data Includes External Resources
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: yellow
+  id:: 6794cf28-1bde-448c-88ce-b2ce2e44a869
