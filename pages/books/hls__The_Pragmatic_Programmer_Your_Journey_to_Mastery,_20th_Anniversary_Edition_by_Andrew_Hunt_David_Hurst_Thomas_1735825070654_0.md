@@ -2352,3 +2352,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 231
   hl-color:: yellow
   id:: 6794cd6a-9dc6-4552-9b56-a15f441a925d
+- We have the same kind of tell-don’t-ask (TDA) issue with the customer object and its orders: we shouldn’t fetch its list of orders and search them. We should instead get the order we want directly from the customer
+  ls-type:: annotation
+  hl-page:: 232
+  hl-color:: yellow
+  id:: 6794cda4-ad3a-4eec-8c6b-fb4f9202a9bc
+- The same thing applies to our order object and its totals. Why should the outside world have to know that the implementation of an order uses a separate object to store its totals
+  ls-type:: annotation
+  hl-page:: 232
+  hl-color:: yellow
+  id:: 6794cdb8-d27e-4cee-9746-c16665dc1a19
