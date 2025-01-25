@@ -2677,3 +2677,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 252
   hl-color:: yellow
   id:: 679525a8-1ae4-4ee4-a991-d9495b2675c3
+- This is a very powerful abstraction: we no longer need to think about time as being something we have to manage. Event streams unify synchronous and asynchronous processing behind a common, convenient API
+  ls-type:: annotation
+  hl-page:: 253
+  hl-color:: yellow
+  id:: 679525ca-ddae-4775-8279-dffb0411dfd2
+- EVENTS ARE UBIQUITOUS
+  ls-type:: annotation
+  hl-page:: 253
+  hl-color:: yellow
+  id:: 679525cf-9acf-497c-a939-5d2817955504
+- Events are everywhere. Some are obvious: a button click, a timer expiring. Other are less so: someone logging in, a line in a file matching a pattern. But whatever their source, code that’s crafted around events can be more responsive and better decoupled than its more linear counterpart.
+  ls-type:: annotation
+  hl-page:: 253
+  hl-color:: yellow
+  id:: 679525d9-ec25-4a1a-8f65-b423cc7c444b
