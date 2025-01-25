@@ -2052,3 +2052,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 208
   hl-color:: yellow
   id:: 67949e18-6816-4972-a2ac-df0a8ae1a7a1
+- And just because most assert implementations will terminate the process when an assertion fails, there’s no reason why versions you write should. If you need to free resources, catch the assertion’s exception or trap the exit, and run your own error handler. Just make sure the code you execute in those dying milliseconds doesn’t rely on the information that triggered the assertion failure in the first place.
+  ls-type:: annotation
+  hl-page:: 208
+  hl-color:: yellow
+  id:: 67949e3f-af80-4d2e-8e7a-d8a4380b094f
+- ASSERTIONS AND SIDE EFFECTS
+  ls-type:: annotation
+  hl-page:: 208
+  hl-color:: yellow
+  id:: 67949e48-dedc-4b17-a618-b37f075d6e70
+- It’s embarrassing when the code we add to detect errors actually ends up creating new errors. This can happen with assertions if evaluating the condition has side effects. 
+  ls-type:: annotation
+  hl-page:: 208
+  hl-color:: yellow
+  id:: 67949e52-3fd3-493a-8492-d3931f602cd4
