@@ -2182,3 +2182,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 218
   hl-color:: yellow
   id:: 6794a1d3-c615-4571-a2a7-78dff261dc86
+- WHEN YOU CAN’T BALANCE RESOURCES There are times when the basic resource allocation pattern just isn’t appropriate. Commonly this is found in programs that use dynamic data structures. One routine will allocate an area of memory and link it into some larger structure, where it may stay for some time.
+  ls-type:: annotation
+  hl-page:: 219
+  hl-color:: yellow
+  id:: 6794a204-5f17-48d2-82cd-040f5fa2ee87
+- The trick here is to establish a semantic invariant for memory allocation. You need to decide who is responsible for data in an aggregate data structure. What happens when you deallocate the top-level structure? You have three main options: The top-level structure is also responsible for freeing any substructures that it contains. These structures then recursively delete data they contain, and so on. The top-level structure is simply deallocated. Any structures that it pointed to (that are not referenced elsewhere) are orphaned. The top-level structure refuses to deallocate itself if it contains any substructures.
+  ls-type:: annotation
+  hl-page:: 219
+  hl-color:: yellow
+  id:: 6794a216-127a-43a2-b157-b10abe052fa9
