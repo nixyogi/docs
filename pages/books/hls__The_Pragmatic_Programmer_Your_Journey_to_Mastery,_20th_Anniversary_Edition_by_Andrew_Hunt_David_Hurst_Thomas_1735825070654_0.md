@@ -2137,3 +2137,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 214
   hl-color:: yellow
   id:: 6794a0e0-b239-4717-abd2-ff92a3b9f49c
+- When in doubt, it always pays to reduce scope.
+  ls-type:: annotation
+  hl-page:: 215
+  hl-color:: yellow
+  id:: 6794a118-fb99-4235-974c-eec5ff5d2d8b
+- Tip 41 Act Locally
+  ls-type:: annotation
+  hl-page:: 216
+  hl-color:: yellow
+  id:: 6794a11c-a661-40b5-a538-05d815acf5ba
