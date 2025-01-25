@@ -2737,3 +2737,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 261
   hl-color:: yellow
   id:: 67952710-a7b6-4ec6-9346-8e9640fb5f9c
+- It’s simply a chain of the transformations needed to meet our requirement, each taking input from the previous transformation and passing output to the next. That comes about as close to literate code as you can get.
+  ls-type:: annotation
+  hl-page:: 264
+  hl-color:: yellow
+  id:: 6795276e-769c-4eb6-b6bd-3a9857e07758
+- Tip 50 Don’t Hoard State; Pass It Around
+  ls-type:: annotation
+  hl-page:: 265
+  hl-color:: yellow
+  id:: 67952781-5492-4c55-884f-da6ee22981a7
