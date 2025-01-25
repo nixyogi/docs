@@ -14740,4 +14740,4 @@
                           :page 210},
                :content {:text "Even if you do have performance issues, turn off only those assertions that really hit you. The sort example above may be a critical part of your application, and may need to be fast. Adding the check means another pass through the data, which might be unacceptable."},
                :properties {:color "yellow"}}],
- :extra {:page 210}}
+ :extra {:page 211}}
