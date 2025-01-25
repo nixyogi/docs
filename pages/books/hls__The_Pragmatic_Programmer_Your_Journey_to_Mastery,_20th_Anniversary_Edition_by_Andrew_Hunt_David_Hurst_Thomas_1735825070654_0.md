@@ -2642,3 +2642,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 248
   hl-color:: yellow
   id:: 67952472-3f96-4e0e-85b8-20150d30add0
+- Every channel has a name. Subscribers register interest in one or more of these named channels, and publishers write events to them. Unlike the observer pattern, the communication between the publisher and subscriber is handled outside your code, and is potentially asynchronous.
+  ls-type:: annotation
+  hl-page:: 248
+  hl-color:: yellow
+  id:: 67952480-c254-4440-bf1f-ca9d216b6b7f
+- Compared to the observer pattern, pubsub is a great example of reducing coupling by abstracting up through a shared interface(the channel). However, it is still basically just a message passing system. Creating systems that respond to combinations of events will need more than this, so let’s look at ways we can add a time dimension to event processing.
+  ls-type:: annotation
+  hl-page:: 248
+  hl-color:: yellow
+  id:: 679524ae-0330-4b92-9737-548c38bf9d9a
+- REACTIVE PROGRAMMING, STREAMS, AND EVENTS
+  ls-type:: annotation
+  hl-page:: 249
+  hl-color:: yellow
+  id:: 679524b2-2103-4c3d-a94e-51c6b0f0ee2c
