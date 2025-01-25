@@ -21077,4 +21077,4 @@
                           :page 289},
                :content {:text "To have parallelism, you need hardware that can do two things at once. This might be multiple cores in a CPU, multiple CPUs in a computer, or multiple computers connected together."},
                :properties {:color "yellow"}}],
- :extra {:page 307}}
+ :extra {:page 327}}
