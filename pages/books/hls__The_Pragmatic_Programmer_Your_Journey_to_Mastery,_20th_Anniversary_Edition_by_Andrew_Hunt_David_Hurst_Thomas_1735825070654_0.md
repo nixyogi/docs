@@ -2047,3 +2047,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 207
   hl-color:: yellow
   id:: 679047b3-1b6b-4c8c-9fb7-47b931a3f3bf
+- Don’t use assertions in place of real error handling. Assertions check for things that should never happen:
+  ls-type:: annotation
+  hl-page:: 208
+  hl-color:: yellow
+  id:: 67949e18-6816-4972-a2ac-df0a8ae1a7a1
