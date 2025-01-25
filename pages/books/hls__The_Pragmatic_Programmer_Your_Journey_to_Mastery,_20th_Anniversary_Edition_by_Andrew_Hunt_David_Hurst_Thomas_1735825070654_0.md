@@ -2487,3 +2487,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 237
   hl-color:: yellow
   id:: 6794cf28-1bde-448c-88ce-b2ce2e44a869
+- Any mutable external resource is global data. If your application uses a database, datastore, file system, service API, and so on, it risks falling into the globalization trap. Again, the solution is to make sure you always wrap these resources behind code that you control.
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: yellow
+  id:: 6794cf34-439f-45c6-8f0f-6ee7a7ba480d
+- Tip 48 If It’s Important Enough to Be Global, Wrap It in an API
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: yellow
+  id:: 6794cf3f-3c0f-45b1-a63a-5f5cb31511fe
+- INHERITANCE ADDS COUPLING
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: yellow
+  id:: 6794cf4c-1b16-49b7-9b93-77a823eb43ef
