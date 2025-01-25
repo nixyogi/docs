@@ -2162,3 +2162,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 217
   hl-color:: yellow
   id:: 6794a164-6ef3-47f9-aaf4-4042b410ce2f
+- If you are programming in an object-oriented language, you may find it useful to encapsulate resources in classes. Each time you need a particular resource type, you instantiate an object of that class. When the object goes out of scope, or is reclaimed by the garbage collector, the object’s destructor then deallocates the wrapped resource.
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 6794a17b-8279-4540-a1d9-168dfb4202ef
+- BALANCING AND EXCEPTIONS
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 6794a185-e5a0-40ab-adb2-d08852c3c156
