@@ -2812,3 +2812,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 270
   hl-color:: yellow
   id:: 679528b2-6f40-4174-865c-0607fe59ca50
+- Thinking of code as a series of (nested) transformations can be a liberating approach to programming. It takes a while to get used to, but once you’ve developed the habit you’ll find your code becomes cleaner, your functions shorter, and your designs flatter.
+  ls-type:: annotation
+  hl-page:: 270
+  hl-color:: yellow
+  id:: 679528be-0583-415a-9e47-fffcde81b4c9
+- Topic 31 Inheritance Tax
+  ls-type:: annotation
+  hl-page:: 272
+  hl-color:: yellow
+  id:: 679528cc-7292-4ec5-9b31-595227119c7c
+- Do you program in an objectoriented language? Do you use inheritance? If so, stop! It probably isn’t what you want to do
+  ls-type:: annotation
+  hl-page:: 272
+  hl-color:: yellow
+  id:: 679528d5-e900-4649-ad4a-47401a833ac4
+- Inheritance first appeared in Simula 67 in 1969. It was an elegant solution to the problem of queuing multiple types of events on the same list
+  ls-type:: annotation
+  hl-page:: 272
+  hl-color:: yellow
+  id:: 679528e5-4027-4cb9-8dec-34c2633c461e
