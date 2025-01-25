@@ -2587,3 +2587,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 241
   hl-color:: yellow
   id:: 67952383-be50-4127-9ff2-62274c46fd09
+- Adding Actions
+  ls-type:: annotation
+  hl-page:: 243
+  hl-color:: yellow
+  id:: 6795239d-ec5a-4e20-85c9-3a8002d264e0
+- A pure FSM, such as the one we were just looking at, is an event stream parser. Its only output is the final state. We can beef it up by adding actions that are triggered on certain transitions.
+  ls-type:: annotation
+  hl-page:: 243
+  hl-color:: yellow
+  id:: 679523a8-5b31-45fb-a585-96b585bb98cd
