@@ -18431,4 +18431,4 @@
                           :page 249},
                :content {:text "Streams let us treat events as if they were a collection of data. It’s as if we had a list of events, which got longer when new events arrive. The beauty of that is that we can treat streams just like any other collection: we can manipulate, combine, filter, and do all the other data-ish things we know so well."},
                :properties {:color "yellow"}}],
- :extra {:page 249}}
+ :extra {:page 250}}
