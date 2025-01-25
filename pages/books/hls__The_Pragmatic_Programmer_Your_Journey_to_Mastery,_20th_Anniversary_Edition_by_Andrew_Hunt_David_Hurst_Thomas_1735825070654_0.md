@@ -2722,3 +2722,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 258
   hl-color:: yellow
   id:: 6795268d-0665-46c2-b4da-8a709c3a20a1
+- The trick behind the overall application is simple: we have a dictionary which groups words by a signature, chosen so that all
+  ls-type:: annotation
+  hl-page:: 258
+  hl-color:: yellow
+  id:: 679526b0-c30f-42cc-ab47-5e99e2a6b7ae
+- words containing the same letters will have the same signature.
+  ls-type:: annotation
+  hl-page:: 259
+  hl-color:: yellow
+  id:: 679526b6-5af9-4ba9-b54a-ae8f4f78abc8
