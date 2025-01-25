@@ -2707,3 +2707,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 255
   hl-color:: yellow
   id:: 67952606-2ede-4065-84bd-2ed7e92fb228
+- Let’s look at this in terms of the data that flows between the individual steps. Our original requirement, “top 5 files in terms of lines,” becomes a series of transformations (also show in the figure). directory name→ list of files→ list with line numbers→ sorted list→ highest five + total→ highest five It’s almost like an industrial assembly line:
+  ls-type:: annotation
+  hl-page:: 257
+  hl-color:: yellow
+  id:: 67952669-f152-4216-8401-1f240c6807e1
+- Tip 49 Programming Is About Code, But Programs Are About Data
+  ls-type:: annotation
+  hl-page:: 258
+  hl-color:: yellow
+  id:: 67952676-7ff1-4760-9238-b463482b8afd
+- FINDING TRANSFORMATIONS Sometimes the easiest way to find the transformations is to start with the requirement and determine its inputs and outputs. Now you’ve defined the function representing the overall program. You can then find steps that lead you from input to output. This is a top-down approach.
+  ls-type:: annotation
+  hl-page:: 258
+  hl-color:: yellow
+  id:: 6795268d-0665-46c2-b4da-8a709c3a20a1
