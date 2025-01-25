@@ -2622,3 +2622,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 246
   hl-color:: yellow
   id:: 6795242a-2adf-4503-9ec5-906bd970011c
+- But the observer pattern has a problem: because each of the observers has to register with the observable, it introduces coupling. In addition, because in the typical implementation the callbacks are handled inline by the observable, synchronously, it can introduce performance bottlenecks.
+  ls-type:: annotation
+  hl-page:: 247
+  hl-color:: yellow
+  id:: 6795245a-37e5-433d-9a44-5e012af4bccb
+- PUBLISH/SUBSCRIBE
+  ls-type:: annotation
+  hl-page:: 247
+  hl-color:: yellow
+  id:: 67952460-087c-4682-ab9b-c964decfa77e
+- Publish/Subscribe (pubsub) generalizes the observer pattern, at the same time solving the problems of coupling and performance.
+  ls-type:: annotation
+  hl-page:: 247
+  hl-color:: yellow
+  id:: 67952466-6472-4c2d-b165-6dd1a7443fed
+- In the pubsub model, we have publishers and subscribers. These are connected via channels. The channels are implemented in a separate body of code: sometimes a library, sometimes a process, and sometimes a distributed infrastructure.
+  ls-type:: annotation
+  hl-page:: 248
+  hl-color:: yellow
+  id:: 67952472-3f96-4e0e-85b8-20150d30add0
