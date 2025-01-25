@@ -2292,3 +2292,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 228
   hl-color:: yellow
   id:: 6794cc80-1c72-4116-a62f-aa82cbb41b3b
+- When you’re designing bridges, you want them to hold their shape; you need them to be rigid. But when you’re designing software that you’ll want to change, you want exactly the opposite: you want it to be flexible.
+  ls-type:: annotation
+  hl-page:: 229
+  hl-color:: yellow
+  id:: 6794cc9a-ad3f-417a-8217-286dec6f1d61
+- Tip 44 Decoupled Code Is Easier to Change
+  ls-type:: annotation
+  hl-page:: 229
+  hl-color:: yellow
+  id:: 6794ccb5-2507-45d6-a034-6e21990ed0f0
+- n this section we’ll talk about: Train wrecks—chains of method calls Globalization—the dangers of static things Inheritance—why subclassing is dangerous
+  ls-type:: annotation
+  hl-page:: 229
+  hl-color:: yellow
+  id:: 6794ccc0-99f2-40e4-8467-127c7d9979a6
