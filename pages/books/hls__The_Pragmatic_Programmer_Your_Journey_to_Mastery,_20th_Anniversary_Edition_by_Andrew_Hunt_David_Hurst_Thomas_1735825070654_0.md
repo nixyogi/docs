@@ -2362,3 +2362,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 232
   hl-color:: yellow
   id:: 6794cdb8-d27e-4cee-9746-c16665dc1a19
+- But TDA is not a law of nature; it’s just a pattern to help us recognize problems. In this case, we’re comfortable exposing the fact that a customer has orders, and that we can find one of those orders by asking the customer object for it. This is a pragmatic decision.
+  ls-type:: annotation
+  hl-page:: 233
+  hl-color:: yellow
+  id:: 6794cdcb-2dc0-4ba6-bfdc-23bda4be7672
+- The Law of Demeter
+  ls-type:: annotation
+  hl-page:: 233
+  hl-color:: yellow
+  id:: 6794cde5-bc0f-4e3b-ae67-a98ee1954c54
+- People often talk about something called the Law of Demeter, or LoD, in relation to coupling. The LoD is a set of guidelines written in the late ’80s by Ian Holland.
+  ls-type:: annotation
+  hl-page:: 233
+  hl-color:: yellow
+  id:: 6794cdf0-93ce-484c-8562-50344bbddbc7
+- The LoD says that a method defined in a class C should only call: Other instance methods in C Its parameters Methods in objects that it creates, both on the stack and in the heap Global variables
+  ls-type:: annotation
+  hl-page:: 233
+  hl-color:: yellow
+  id:: 6794cdfc-4164-470a-a8cb-38550882ca8d
