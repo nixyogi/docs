@@ -2747,3 +2747,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 265
   hl-color:: yellow
   id:: 67952781-5492-4c55-884f-da6ee22981a7
+- In the transformational model, we turn that on its head. Instead of little pools of data spread all over the system, think of data as a mighty river, a flow. Data becomes a peer to functionality: a pipeline is a sequence of code → data → code → data…. The data is no longer tied to a particular group of functions, as it is in a class definition. Instead it is free to represent the unfolding progress of our application as it transforms its inputs into its outputs. This means that we can greatly reduce coupling: a function can be used (and reused) anywhere its parameters match the output of some other function.
+  ls-type:: annotation
+  hl-page:: 265
+  hl-color:: yellow
+  id:: 6795279f-023f-4c58-ad48-4d6b3db80aff
+- WHAT ABOUT ERROR HANDLING?
+  ls-type:: annotation
+  hl-page:: 265
+  hl-color:: yellow
+  id:: 679527ad-093c-4b36-8bef-63dad3bd6b8f
+- So far our transforms have worked in a world where nothing goes wrong. How can we use them in the real world, though? If we can only build linear chains, how can we add all that conditional logic that we need for error checking?
+  ls-type:: annotation
+  hl-page:: 265
+  hl-color:: yellow
+  id:: 679527b4-0fba-40d2-96bb-74c726cfcd0c
+- There are many ways of doing this, but they all rely on a basic convention: we never pass raw values between transformations. Instead, we wrap them in a data structure (or type) which also tells us if the contained value is valid.
+  ls-type:: annotation
+  hl-page:: 265
+  hl-color:: yellow
+  id:: 679527c3-cae0-46fa-bfed-8fa5df98c063
