@@ -2912,3 +2912,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 278
   hl-color:: yellow
   id:: 67952a1e-ed79-40bf-abe9-2ae6b506187f
+- Interfaces and protocols give us polymorphism without inheritance.
+  ls-type:: annotation
+  hl-page:: 278
+  hl-color:: yellow
+  id:: 67952a23-1715-484d-acc2-445844c81c19
+- Delegation
+  ls-type:: annotation
+  hl-page:: 278
+  hl-color:: yellow
+  id:: 67952a29-6c65-47c4-bf47-2eee608ab40d
+- Inheritance encourages developers to create classes whose objects have large numbers of methods. If a parent class has 20 methods, and the subclass wants to make use of just two of them, its objects will still have the other 18 just lying around and callable.
+  ls-type:: annotation
+  hl-page:: 278
+  hl-color:: yellow
+  id:: 67952a34-8f56-4b21-9f00-326ca58ce749
