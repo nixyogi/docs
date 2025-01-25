@@ -2322,3 +2322,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 230
   hl-color:: yellow
   id:: 6794ccf5-ec3e-4df9-be00-486907965e5d
+- This chunk of code is traversing five levels of abstraction, from customer to total amounts. Ultimately our top-level code has to
+  ls-type:: annotation
+  hl-page:: 230
+  hl-color:: yellow
+  id:: 6794cd17-c40c-4531-8724-a1854e4035af
+- know that a customer object exposes orders, that the orders have a find method that takes an order id and returns an order, and that the order object has a totals object which has getters and setters for grand totals and discounts. 
+  ls-type:: annotation
+  hl-page:: 231
+  hl-color:: yellow
+  id:: 6794cd21-a1c1-435b-9a11-e3645a47c0f1
+- But worse, that’s a lot of things that cannot change in the future if this code is to continue to work. All the cars in a train are coupled together, as are all the methods and attributes in a train wreck.
+  ls-type:: annotation
+  hl-page:: 231
+  hl-color:: yellow
+  id:: 6794cd31-711a-4ebb-9b30-650fe8d32a18
