@@ -2147,3 +2147,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 216
   hl-color:: yellow
   id:: 6794a11c-a661-40b5-a538-05d815acf5ba
+- NEST ALLOCATIONS
+  ls-type:: annotation
+  hl-page:: 216
+  hl-color:: yellow
+  id:: 6794a14c-5a7b-4229-8e2f-e4c5febe8cde
+- The basic pattern for resource allocation can be extended for routines that need more than one resource at a time. There are just two more suggestions: Deallocate resources in the opposite order to that in which you allocate them. That way you won’t orphan resources if one resource contains references to another. When allocating the same set of resources in different places in your code, always allocate them in the same order. This will reduce the possibility of deadlock. (If process A claims resource1 and is about to claim resource2, while process B has claimed resource2 and is trying to get resource1, the two processes will wait forever.) It doesn’t matter what kind of resources we’re using— transactions, network connections, memory, files, threads, windows—the basic pattern applies: whoever allocates a resource should be responsible for deallocating it.
+  ls-type:: annotation
+  hl-page:: 216
+  hl-color:: yellow
+  id:: 6794a151-bcad-4d3d-a4df-2ca2917d7e10
+- OBJECTS AND EXCEPTIONS
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 6794a164-6ef3-47f9-aaf4-4042b410ce2f
