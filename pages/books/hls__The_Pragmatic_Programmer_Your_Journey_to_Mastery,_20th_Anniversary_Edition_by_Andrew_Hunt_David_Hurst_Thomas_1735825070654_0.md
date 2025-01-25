@@ -2597,3 +2597,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 243
   hl-color:: yellow
   id:: 679523a8-5b31-45fb-a585-96b585bb98cd
+- State Machines Are a Start State machines are underused by developers, and we’d like to encourage you to look for opportunities to apply them. But they don’t solve all the problems associated with events. 
+  ls-type:: annotation
+  hl-page:: 246
+  hl-color:: yellow
+  id:: 67952400-e380-4ded-9499-1ab7d6830d40
