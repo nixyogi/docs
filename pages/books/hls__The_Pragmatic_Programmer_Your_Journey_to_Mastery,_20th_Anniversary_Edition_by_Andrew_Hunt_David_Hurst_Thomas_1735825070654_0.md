@@ -2672,3 +2672,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 249
   hl-color:: yellow
   id:: 679524e6-0238-4034-8ff3-f3dc74058316
+- Streams of Events Are Asynchronous Collections
+  ls-type:: annotation
+  hl-page:: 252
+  hl-color:: yellow
+  id:: 679525a8-1ae4-4ee4-a991-d9495b2675c3
