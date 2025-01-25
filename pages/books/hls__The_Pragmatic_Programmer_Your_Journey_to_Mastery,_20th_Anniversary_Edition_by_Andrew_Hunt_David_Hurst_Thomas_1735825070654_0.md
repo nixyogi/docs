@@ -2527,3 +2527,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 239
   hl-color:: yellow
   id:: 679522d9-4715-4123-9948-704b86162077
+- EVENTS
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 679522dc-4363-4b7f-a194-212bbea17c84
+- An event represents the availability of information. It might come from the outside world: a user clicking a button, or a stock quote update. It might be internal: the result of a calculation is ready, a search finishes. It can even be something as trivial as fetching the next element in a list.
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 679522e9-75f7-43e0-9e71-00e4b601aac2
+- if we write applications that respond to events, and adjust what they do based on those events
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 679522fd-30ca-4c97-96ed-ec14e9e2c991
+- those
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 67952301-7e6e-43d6-8a04-583406622676
+- applications will work better in the real world. Their users will find them to be more interactive, and the applications themselves will make better use of resources.
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 67952307-38d6-4061-ba05-d49f4c2cd667
+- Let’s look at four strategies that help.1. Finite State Machines2. The Observer Pattern3. Publish/Subscribe4. Reactive Programming and Streams
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 67952315-4ce4-4f68-ba37-ffc9182fbea7
