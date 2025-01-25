@@ -2217,3 +2217,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 220
   hl-color:: yellow
   id:: 6794a25f-0da7-43d5-9275-e646f50d7011
+- Topic 27 Don’t Outrun Your Headlights
+  ls-type:: annotation
+  hl-page:: 222
+  hl-color:: yellow
+  id:: 6794a299-5409-4ca7-9df9-1a36ca78c8a1
