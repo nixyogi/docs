@@ -2222,3 +2222,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 222
   hl-color:: yellow
   id:: 6794a299-5409-4ca7-9df9-1a36ca78c8a1
+- In software development, our “headlights” are similarly limited. We can’t see too far ahead into the future, and the further offaxis you look, the darker it gets. So Pragmatic Programmers have a firm rule:
+  ls-type:: annotation
+  hl-page:: 223
+  hl-color:: yellow
+  id:: 6794a2ed-a63f-43f6-b246-10ba1f556b30
+- Tip 42 Take Small Steps—Always
+  ls-type:: annotation
+  hl-page:: 223
+  hl-color:: yellow
+  id:: 6794a2f0-5a75-465e-a5db-ba8b887b9e03
+- Always take small, deliberate steps, checking for feedback and adjusting before proceeding. Consider that the rate of feedback is your speed limit. You never take on a step or a task that’s “too big.”
+  ls-type:: annotation
+  hl-page:: 223
+  hl-color:: yellow
+  id:: 6794a2fc-4318-4d7a-b15f-f2984186b55a
