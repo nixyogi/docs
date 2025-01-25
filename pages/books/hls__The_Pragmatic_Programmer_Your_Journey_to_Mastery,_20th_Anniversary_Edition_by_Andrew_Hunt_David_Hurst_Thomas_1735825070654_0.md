@@ -2502,3 +2502,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 237
   hl-color:: yellow
   id:: 6794cf4c-1b16-49b7-9b93-77a823eb43ef
+- AGAIN, IT’S ALL ABOUT CHANGE Coupled code is hard to change: alterations in one place can have secondary effects elsewhere in the code, and often in hardto-find places that only come to light a month later in production.
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: yellow
+  id:: 6794cf60-88ad-4677-ab9a-f4527bc5baf8
+- Keeping your code shy: having it only deal with things it directly knows about, will help keep your applications decoupled, and that will make them more amenable to change
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: yellow
+  id:: 6794cf65-3cc3-4f11-85b9-b236c2c5c04e
