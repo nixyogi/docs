@@ -3032,3 +3032,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 287
   hl-color:: yellow
   id:: 67952beb-94ae-487e-b83c-21a58d88dded
+- Any advice can be taken to extremes or used inappropriately, so here are a few cautions: Don’t overdo it. One early client of ours decided that every single field in their application should be configurable. As a result, it took weeks to make even the smallest change, as you had to implement both the field and all the admin code to save and edit it. They had some 40,000 configuration variables and a coding nightmare on their hands. Don’t push decisions to configuration out of laziness.
+  ls-type:: annotation
+  hl-page:: 287
+  hl-color:: yellow
+  id:: 67952c0a-2c39-4539-a84e-1d5d64197fcd
+- Concurrency
+  ls-type:: annotation
+  hl-page:: 289
+  hl-color:: yellow
+  id:: 67952c1a-f590-40ef-a040-90bcba816117
+- Concurrency is when the execution of two or more pieces of code act as if they run at the same time.
+  ls-type:: annotation
+  hl-page:: 289
+  hl-color:: yellow
+  id:: 67952c22-51f4-4971-b401-e2d19df1423e
+- Parallelism is when they do run at the same time.
+  ls-type:: annotation
+  hl-page:: 289
+  hl-color:: yellow
+  id:: 67952c27-54e8-4061-8ca9-d33ca2997638
+- To have concurrency, you need to run code in an environment that can switch execution between different parts of your code when it is running. This is often implemented using things such as fibers, threads, and processes.
+  ls-type:: annotation
+  hl-page:: 289
+  hl-color:: yellow
+  id:: 67952c35-92ba-4afb-b718-c233c2b63bd0
+- To have parallelism, you need hardware that can do two things at once. This might be multiple cores in a CPU, multiple CPUs in a computer, or multiple computers connected together.
+  ls-type:: annotation
+  hl-page:: 289
+  hl-color:: yellow
+  id:: 67952c3d-29ac-4c04-add0-3599c700776d
