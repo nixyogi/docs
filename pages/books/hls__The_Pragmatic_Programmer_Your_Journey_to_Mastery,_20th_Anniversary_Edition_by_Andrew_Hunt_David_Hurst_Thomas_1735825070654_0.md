@@ -2087,3 +2087,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 209
   hl-color:: yellow
   id:: 67949f74-9f35-4e09-befe-c7650751a333
+- Second, the optimists are forgetting that your program runs in a dangerous world. During testing, rats probably won’t gnaw through a communications cable, someone playing a game won’t exhaust memory, and log files won’t fill the storage partition. These things might happen when your program runs in a production environment. 
+  ls-type:: annotation
+  hl-page:: 210
+  hl-color:: yellow
+  id:: 67949f8c-eed7-4efa-9d1d-f683b6dd1c4f
+- Your first line of defense is checking for any possible error, and your second is using assertions to try to detect those you’ve missed.
+  ls-type:: annotation
+  hl-page:: 210
+  hl-color:: yellow
+  id:: 67949f92-fe36-47f4-9037-7a11260b63d1
+- Turning off assertions when you deliver a program to production is like crossing a high wire without a net because you once made it across in practice. There’s dramatic value, but it’s hard to get life insurance.
+  ls-type:: annotation
+  hl-page:: 210
+  hl-color:: yellow
+  id:: 67949fa5-1191-48b5-a31f-0bb3aa17e1ae
+- Even if you do have performance issues, turn off only those assertions that really hit you. The sort example above may be a critical part of your application, and may need to be fast. Adding the check means another pass through the data, which might be unacceptable.
+  ls-type:: annotation
+  hl-page:: 210
+  hl-color:: yellow
+  id:: 67949fbb-2398-4809-b125-98e584c1330d
