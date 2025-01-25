@@ -2517,3 +2517,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 239
   hl-color:: yellow
   id:: 6794f4d0-a655-44e7-bd91-384c661fd252
+- Today, we expect more: computers have to integrate into our world, not the other way around. And our world is messy: things are constantly happening, stuff gets moved around, we change our minds, …. And the applications we write somehow have to work out what to do.
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 679522d2-9f92-4453-b346-c5b7608a1c00
+- This section is all about writing these responsive applications.
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 679522d9-4715-4123-9948-704b86162077
