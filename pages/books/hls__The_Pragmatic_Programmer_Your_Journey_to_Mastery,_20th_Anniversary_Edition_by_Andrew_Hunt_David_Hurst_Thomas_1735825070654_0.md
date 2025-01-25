@@ -2417,3 +2417,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 234
   hl-color:: yellow
   id:: 6794ce6c-b2b9-47b2-9824-e42f1d2a7e5a
+- Chains and Pipelines
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794ce7c-3ae5-4599-8b54-62f1d04eed8c
+- we talk about composing functions into pipelines. These pipelines transform data, passing it from one function to the next. This is not the same as a train wreck of method calls, as we are not relying on hidden implementation details.
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794ce8e-dfc3-42fc-a4b2-8ea24b90baae
+- That’s not to say that pipelines don’t introduce some coupling: they do. The format of the data returned by one function in a pipeline must be compatible with the format accepted by the next.
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794ce98-7559-4edc-8e1b-c83044d495e6
+- Our experience is that this form of coupling is far less a barrier to changing the code than the form introduced by train wrecks.
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794ce9f-9e30-43b8-b276-468590c08dbc
+- THE EVILS OF GLOBALIZATION
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794cea4-ea41-47b8-8932-060ba66f6de3
+- Globally accessible data is an insidious source of coupling between application components. Each piece of global data acts as if every method in your application suddenly gained an additional parameter: after all, that global data is available inside every method.
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794ceb2-d65b-42c3-abe6-b110ec6712d2
