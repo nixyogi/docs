@@ -2767,3 +2767,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 265
   hl-color:: yellow
   id:: 679527c3-cae0-46fa-bfed-8fa5df98c063
+- How you use this concept is language specific. In general, though, there are two basic ways of writing the code: you can
+  ls-type:: annotation
+  hl-page:: 265
+  hl-color:: yellow
+  id:: 679527d0-b228-410c-9865-ab510defa9e9
+- handle checking for errors inside your transformations or outside them
+  ls-type:: annotation
+  hl-page:: 266
+  hl-color:: yellow
+  id:: 679527d6-911d-4519-8e19-377bed12ad63
+- First, Choose a Representation We need a representation for our wrapper (the data structure that carries around a value or an error indication). 
+  ls-type:: annotation
+  hl-page:: 266
+  hl-color:: yellow
+  id:: 679527f0-2eca-4d32-bc44-f37c867f8ef7
