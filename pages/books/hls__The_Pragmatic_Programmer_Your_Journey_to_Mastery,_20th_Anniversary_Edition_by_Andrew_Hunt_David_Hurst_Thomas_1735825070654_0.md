@@ -2262,3 +2262,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 224
   hl-color:: yellow
   id:: 6794a33f-9b92-4a3e-a470-620dbfa0c3aa
+- BLACK SWANS
+  ls-type:: annotation
+  hl-page:: 224
+  hl-color:: yellow
+  id:: 6794a34b-d569-4db9-a89a-c38c174092a7
+- events in history have come from high-profile, hardto-predict, and rare events that are beyond the realm of normal expectations. These outliers, while statistically rare, have disproportionate effects. In addition, our own cognitive biases tend to blind us to changes creeping up on the edges of our work
+  ls-type:: annotation
+  hl-page:: 224
+  hl-color:: yellow
+  id:: 6794a36e-0367-4411-8795-5f0e4f771af3
+- Tip 43 Avoid Fortune-Telling
+  ls-type:: annotation
+  hl-page:: 225
+  hl-color:: yellow
+  id:: 6794a382-8837-42db-b55f-abdb3cc656bb
