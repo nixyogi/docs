@@ -2237,3 +2237,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 223
   hl-color:: yellow
   id:: 6794a2fc-4318-4d7a-b15f-f2984186b55a
+- What do we mean exactly by feedback? Anything that independently confirms or disproves your action. For example: Results in a REPL provide feedback on your understanding of APIs and algorithms Unit tests provide feedback on your last code change User demo and conversation provide feedback on features and usability
+  ls-type:: annotation
+  hl-page:: 223
+  hl-color:: yellow
+  id:: 6794a30b-ff1a-4bac-bc66-fc2d83630f4c
+- What’s a task that’s too big? Any task that requires “fortune telling.” Just as the car headlights have limited throw, we can only see into the future perhaps one or two steps, maybe a few hours or days at most. Beyond that, you can quickly get past educated guess and into wild speculation
+  ls-type:: annotation
+  hl-page:: 223
+  hl-color:: yellow
+  id:: 6794a31b-4bcf-4c1b-992a-2f456dedf280
+- You might find yourself slipping into fortune telling when you have to: Estimate completion dates months in the future Plan a design for future maintenance or extendability Guess user’s future needs
+  ls-type:: annotation
+  hl-page:: 223
+  hl-color:: yellow
+  id:: 6794a324-8273-4e35-ab70-c8d9a750232c
+- Guess future tech availability But, we hear you cry, aren’t we supposed to design for future maintenance? Yes, but only to a point: only as far ahead as you can see. 
+  ls-type:: annotation
+  hl-page:: 224
+  hl-color:: yellow
+  id:: 6794a32e-c67e-4607-8e54-30b2f014cfae
+- Instead of wasting effort designing for an uncertain future, you can always fall back on designing your code to be replaceable. Make it easy to throw out your code and replace it with something better suited. Making code replaceable will also help with cohesion, coupling, and DRY, leading to a better design overall.
+  ls-type:: annotation
+  hl-page:: 224
+  hl-color:: yellow
+  id:: 6794a33f-9b92-4a3e-a470-620dbfa0c3aa
