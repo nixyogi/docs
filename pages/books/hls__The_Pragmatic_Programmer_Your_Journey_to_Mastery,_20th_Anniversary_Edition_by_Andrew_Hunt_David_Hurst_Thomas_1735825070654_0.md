@@ -2307,3 +2307,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 229
   hl-color:: yellow
   id:: 6794ccc0-99f2-40e4-8467-127c7d9979a6
+- coupling can occur just about any time two pieces of code share something, so as you read what follows keep an eye out for the underlying patterns so you can apply them to your code.
+  ls-type:: annotation
+  hl-page:: 230
+  hl-color:: yellow
+  id:: 6794ccdc-5e8b-48f7-b8f1-77b71ae250f1
+- And keep a lookout for some of the symptoms of coupling: Wacky dependencies between unrelated modules or libraries.“Simple” changes to one module that propagate through unrelated modules in the system or break stuff elsewhere in the system. Developers who are afraid to change code because they aren’t sure what might be affected. Meetings where everyone has to attend because no one is sure who will be affected by a change.
+  ls-type:: annotation
+  hl-page:: 230
+  hl-color:: yellow
+  id:: 6794cce0-3ca8-4e84-80a2-53395fb2a22c
+- TRAIN WRECKS
+  ls-type:: annotation
+  hl-page:: 230
+  hl-color:: yellow
+  id:: 6794ccf5-ec3e-4df9-be00-486907965e5d
