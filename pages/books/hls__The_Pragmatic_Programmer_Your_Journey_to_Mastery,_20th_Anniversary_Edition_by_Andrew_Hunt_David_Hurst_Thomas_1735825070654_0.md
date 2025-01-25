@@ -2857,3 +2857,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 274
   hl-color:: yellow
   id:: 67952955-cce0-483a-8eee-ebf5454cd09e
+- Problems Using Inheritance to Build Types Some folks view inheritance as a way of defining new types. Their favorite design diagram shows class hierarchies. They view problems the way Victorian gentleman scientists viewed nature, as something to be broken down into categories.
+  ls-type:: annotation
+  hl-page:: 275
+  hl-color:: yellow
+  id:: 67952987-fe54-4000-a1da-bfc81d17726a
+- Even worse, though, is the multiple inheritance issue. A Car may be a kind of Vehicle, but it can also be a kind of Asset, InsuredItem, LoanCollateral and so on. Modeling this correctly would need
+  ls-type:: annotation
+  hl-page:: 275
+  hl-color:: yellow
+  id:: 679529a3-bccc-4b9c-8203-773a96c44d28
