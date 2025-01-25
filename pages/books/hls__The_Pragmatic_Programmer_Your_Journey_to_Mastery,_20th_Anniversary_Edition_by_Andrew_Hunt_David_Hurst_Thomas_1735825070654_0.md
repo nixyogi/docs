@@ -2832,3 +2832,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 272
   hl-color:: yellow
   id:: 679528e5-4027-4cb9-8dec-34c2633c461e
+- Simula approach, which suggested inheritance was a way of combining types, continued in languages such as C++ and Java
+  ls-type:: annotation
+  hl-page:: 273
+  hl-color:: yellow
+  id:: 6795291e-016c-447f-b52b-c25ff07378fb
+- So, now we’re faced with a generation of OO developers who use inheritance for one of two reasons: they don’t like typing, or they like types
+  ls-type:: annotation
+  hl-page:: 273
+  hl-color:: yellow
+  id:: 6795292d-793e-4c27-a32a-8761391535c4
