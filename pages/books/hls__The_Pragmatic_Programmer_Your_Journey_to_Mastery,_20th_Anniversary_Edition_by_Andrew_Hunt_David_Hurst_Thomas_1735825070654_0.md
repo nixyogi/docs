@@ -2557,3 +2557,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 240
   hl-color:: yellow
   id:: 67952315-4ce4-4f68-ba37-ffc9182fbea7
+- FINITE STATE MACHINES
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 6795232a-a624-420a-bd38-3b998e0390ec
+- the FSM implementation will be just a couple of lines of code, but those few lines help untangle a whole lot of potential mess.
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 67952335-3936-4dae-b149-e171d72f4a41
+- Using an FSM is trivially easy, and yet many developers shy away from them. There seems to be a belief that they are difficult, or that they only apply if you’re working with hardware, or that you need to use some hard-to-understand library. None of these are true.
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 67952346-0fcc-4fc5-9069-dfef1e5e9135
+- The Anatomy of a Pragmatic FSM
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 6795234d-b0ed-4824-9d51-e62dbebf0472
