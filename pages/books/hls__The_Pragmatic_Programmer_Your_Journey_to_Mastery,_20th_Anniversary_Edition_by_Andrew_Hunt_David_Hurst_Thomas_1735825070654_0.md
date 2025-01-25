@@ -2842,3 +2842,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 273
   hl-color:: yellow
   id:: 6795292d-793e-4c27-a32a-8761391535c4
+- Those who like types use inheritance to express the relationship between classes: a Car is-a-kind-of Vehicle. Unfortunately both kinds of inheritance have problems.
+  ls-type:: annotation
+  hl-page:: 274
+  hl-color:: yellow
+  id:: 67952940-3b6a-4d78-a9de-fb0c0256c487
+- PROBLEMS USING INHERITANCE TO SHARE CODE
+  ls-type:: annotation
+  hl-page:: 274
+  hl-color:: yellow
+  id:: 67952947-f9a8-46b7-90d1-8c04b25b02c8
+- Inheritance is coupling. Not only is the child class coupled to the parent, the parent’s parent, and so on, but the code that uses the child is also coupled to all the ancestors.
+  ls-type:: annotation
+  hl-page:: 274
+  hl-color:: yellow
+  id:: 67952955-cce0-483a-8eee-ebf5454cd09e
