@@ -2792,3 +2792,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 268
   hl-color:: yellow
   id:: 67952831-4f1e-4040-9219-ee36ca4c04e5
+- Or Handle It in the Pipeline
+  ls-type:: annotation
+  hl-page:: 268
+  hl-color:: yellow
+  id:: 6795285b-69e4-461e-a806-94b2d987949d
+- The problem we face is that when an error occurs we don’t want to run code further down the pipeline, and that we don’t want that code to know that this is happening. This means that we
+  ls-type:: annotation
+  hl-page:: 268
+  hl-color:: yellow
+  id:: 6795286f-4b36-46ed-9b8f-17dc8288d9a3
+- need to defer running pipeline functions until we know that previous steps in the pipeline were successful. To do this, we’ll need to change them from function calls into function values that can be called later.
+  ls-type:: annotation
+  hl-page:: 269
+  hl-color:: yellow
+  id:: 67952879-d46e-488c-8fb2-b0c033bc8084
