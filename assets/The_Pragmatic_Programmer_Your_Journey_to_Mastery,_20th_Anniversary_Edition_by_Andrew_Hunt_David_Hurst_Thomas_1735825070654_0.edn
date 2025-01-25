@@ -20284,4 +20284,4 @@
                           :page 280},
                :content {:text "Now the implementation and name of this feature varies between languages. We’ll tend to call them mixins here, but we really want you to think of this as a language-agnostic feature. The important thing is the capability that all these implementations have: merging functionality between existing things and new things."},
                :properties {:color "yellow"}}],
- :extra {:page 281}}
+ :extra {:page 282}}
