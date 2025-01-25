@@ -2782,3 +2782,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 266
   hl-color:: yellow
   id:: 679527f0-2eca-4d32-bc44-f37c867f8ef7
+- Then Handle It Inside Each Transformation Let’s write a function that returns all the lines in a file that contain a given string, truncated to the first 20 characters. We want to write it as a transformation, so the input will be a file name and a string to match, and the output will be either an :ok tuple with a list of lines or an :error tuple with some kind of reason. 
+  ls-type:: annotation
+  hl-page:: 266
+  hl-color:: yellow
+  id:: 67952807-8503-4888-abf1-1de928a49ae6
+- You can see that an error anywhere in the pipeline immediately becomes the value of the pipeline.
+  ls-type:: annotation
+  hl-page:: 268
+  hl-color:: yellow
+  id:: 67952831-4f1e-4040-9219-ee36ca4c04e5
