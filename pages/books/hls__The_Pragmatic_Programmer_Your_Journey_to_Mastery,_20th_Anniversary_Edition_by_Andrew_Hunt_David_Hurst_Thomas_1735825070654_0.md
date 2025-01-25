@@ -2382,3 +2382,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 233
   hl-color:: yellow
   id:: 6794cdfc-4164-470a-a8cb-38550882ca8d
+- We now don’t like the “global variable”
+  ls-type:: annotation
+  hl-page:: 233
+  hl-color:: yellow
+  id:: 6794ce09-0dfc-4a06-bf80-aef680be77ae
+- clause (for reasons we’ll go into in the next section). We also discovered that it’s difficult to use this in practice: it’s a little like having to parse a legal document whenever you call a method.
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: yellow
+  id:: 6794ce12-6346-4bb2-bb0a-b4eb65c8a94d
+- Tip 46 Don’t Chain Method Calls
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: yellow
+  id:: 6794ce27-1ed0-4e55-ae91-796720b74c00
