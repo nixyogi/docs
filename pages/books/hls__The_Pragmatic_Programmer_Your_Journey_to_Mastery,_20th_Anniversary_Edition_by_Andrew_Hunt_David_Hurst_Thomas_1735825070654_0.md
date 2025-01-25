@@ -2947,3 +2947,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 280
   hl-color:: yellow
   id:: 67952aba-a4c3-4fcd-a967-f3ec26739d1f
+- Tip 54 Use Mixins to Share Functionality
+  ls-type:: annotation
+  hl-page:: 282
+  hl-color:: yellow
+  id:: 67952b12-8105-4c07-8808-a98c1e3f376d
+- Each of these methods may be better for you in different circumstances, depending on whether your goal is sharing type information, adding functionality, or sharing methods. As with anything in programming, aim to use the technique that best expresses your intent. And try not to drag the whole jungle along for the ride
+  ls-type:: annotation
+  hl-page:: 283
+  hl-color:: yellow
+  id:: 67952b22-6fc8-4436-84df-dfb60b057e1c
+- Topic 32 Configuration
+  ls-type:: annotation
+  hl-page:: 284
+  hl-color:: yellow
+  id:: 67952b30-28fa-4dd6-abfe-8d9189ca02e7
+- When code relies on values that may change after the application has gone live, keep those values external to the app. When your application will run in different environments, and potentially for different customers, keep the environment- and customerspecific values outside the app.
+  ls-type:: annotation
+  hl-page:: 284
+  hl-color:: yellow
+  id:: 67952b43-5395-4eae-ad04-df1200a2b595
