@@ -2512,3 +2512,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 237
   hl-color:: yellow
   id:: 6794cf65-3cc3-4f11-85b9-b236c2c5c04e
+- Topic 29 Juggling the Real World
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 6794f4d0-a655-44e7-bd91-384c661fd252
