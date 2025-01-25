@@ -2657,3 +2657,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 249
   hl-color:: yellow
   id:: 679524b2-2103-4c3d-a94e-51c6b0f0ee2c
+- If you’ve ever used a spreadsheet, then you’ll be familiar with reactive programming. If a cell contains a formula which refers to a second cell, then updating that second cell causes the first to update as well. The values react as the values they use change.
+  ls-type:: annotation
+  hl-page:: 249
+  hl-color:: yellow
+  id:: 679524c0-6583-4b51-8d21-ca53a612d37e
+- There are many frameworks that can help with this kind of data-level reactivity: in the realm of the browser React and Vue.js are current favorites
+  ls-type:: annotation
+  hl-page:: 249
+  hl-color:: yellow
+  id:: 679524d0-ed58-4177-8fc0-b5f762c5062e
+- Streams let us treat events as if they were a collection of data. It’s as if we had a list of events, which got longer when new events arrive. The beauty of that is that we can treat streams just like any other collection: we can manipulate, combine, filter, and do all the other data-ish things we know so well.
+  ls-type:: annotation
+  hl-page:: 249
+  hl-color:: yellow
+  id:: 679524e6-0238-4034-8ff3-f3dc74058316
