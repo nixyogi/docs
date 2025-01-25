@@ -14903,4 +14903,4 @@
                           :page 212},
                :content {:text "This tip is easy to apply in most circumstances. It simply means that the function or object that allocates a resource should be responsible for deallocating it."},
                :properties {:color "yellow"}}],
- :extra {:page 212}}
+ :extra {:page 213}}
