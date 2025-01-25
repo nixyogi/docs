@@ -2732,3 +2732,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 259
   hl-color:: yellow
   id:: 679526b6-5af9-4ba9-b54a-ae8f4f78abc8
+- Using a pipeline means that you’re automatically thinking in terms of transforming data; each time you see |> you’re actually seeing a place where data is flowing between one transformation and the next
+  ls-type:: annotation
+  hl-page:: 261
+  hl-color:: yellow
+  id:: 67952710-a7b6-4ec6-9346-8e9640fb5f9c
