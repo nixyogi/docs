@@ -2337,3 +2337,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 231
   hl-color:: yellow
   id:: 6794cd31-711a-4ebb-9b30-650fe8d32a18
+- One way to look at this is to think about responsibilities. Surely the totals object should be responsible for managing the totals. And yet it isn’t: it’s really just a container for a bunch of fields that anyone can query and update.
+  ls-type:: annotation
+  hl-page:: 231
+  hl-color:: yellow
+  id:: 6794cd54-8cb8-4e16-b2de-13d6b5fd49a8
+- Tip 45 Tell, Don’t Ask
+  ls-type:: annotation
+  hl-page:: 231
+  hl-color:: yellow
+  id:: 6794cd5b-c6c7-4458-90c1-8197c95c0626
+- This principle says that you shouldn’t make decisions based on the internal state of an object and then update that object.
+  ls-type:: annotation
+  hl-page:: 231
+  hl-color:: yellow
+  id:: 6794cd6a-9dc6-4552-9b56-a15f441a925d
