@@ -2807,3 +2807,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 269
   hl-color:: yellow
   id:: 67952879-d46e-488c-8fb2-b0c033bc8084
+- TRANSFORMATIONS TRANSFORM PROGRAMMING
+  ls-type:: annotation
+  hl-page:: 270
+  hl-color:: yellow
+  id:: 679528b2-6f40-4174-865c-0607fe59ca50
