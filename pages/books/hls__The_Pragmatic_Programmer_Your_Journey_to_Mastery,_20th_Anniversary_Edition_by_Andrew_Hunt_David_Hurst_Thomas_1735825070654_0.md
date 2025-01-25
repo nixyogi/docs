@@ -2692,3 +2692,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 253
   hl-color:: yellow
   id:: 679525d9-ec25-4a1a-8f65-b423cc7c444b
+- Topic 30 Transforming Programming
+  ls-type:: annotation
+  hl-page:: 255
+  hl-color:: yellow
+  id:: 679525ea-ccf5-4198-9444-999c66484642
+- All programs transform data, converting an input into an output. And yet when we think about design, we rarely think about creating transformations. 
+  ls-type:: annotation
+  hl-page:: 255
+  hl-color:: yellow
+  id:: 679525f5-96ff-4802-a6d9-c38781f1191d
+- We think that this focus on code often misses the point: we need to get back to thinking of programs as being something that transforms inputs into outputs. When we do, many of the details we previously worried about just evaporate. The structure becomes clearer, the error handling more consistent, and the coupling drops way down.
+  ls-type:: annotation
+  hl-page:: 255
+  hl-color:: yellow
+  id:: 67952606-2ede-4065-84bd-2ed7e92fb228
