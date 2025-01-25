@@ -2107,3 +2107,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 210
   hl-color:: yellow
   id:: 67949fbb-2398-4809-b125-98e584c1330d
+- Topic 26 How to Balance Resources
+  ls-type:: annotation
+  hl-page:: 212
+  hl-color:: yellow
+  id:: 6794a03e-59b7-4905-b4af-f86382604610
+- We all manage resources whenever we code: memory, transactions, threads, network connections, files, timers—all kinds of things with limited availability. Most of the time, resource usage follows a predictable pattern: you allocate the resource, use it, and then deallocate it.
+  ls-type:: annotation
+  hl-page:: 212
+  hl-color:: yellow
+  id:: 6794a059-4be8-44f2-97ea-9eb18f2b03b0
+- However, many developers have no consistent plan for dealing with resource allocation and deallocation.
+  ls-type:: annotation
+  hl-page:: 212
+  hl-color:: yellow
+  id:: 6794a062-9a46-4f46-a0a7-769052cd65ea
+- Tip 40 Finish What You Start
+  ls-type:: annotation
+  hl-page:: 212
+  hl-color:: yellow
+  id:: 6794a067-aaec-456d-80e9-31e85f5af6a2
+- This tip is easy to apply in most circumstances. It simply means that the function or object that allocates a resource should be responsible for deallocating it.
+  ls-type:: annotation
+  hl-page:: 212
+  hl-color:: yellow
+  id:: 6794a06f-831b-4626-8561-e2676848c5b9
