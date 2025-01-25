@@ -3012,3 +3012,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 286
   hl-color:: yellow
   id:: 67952bbb-f297-430f-adff-e616e3baac0b
+- DON’T WRITE DODO-CODE
+  ls-type:: annotation
+  hl-page:: 286
+  hl-color:: yellow
+  id:: 67952bc5-d0eb-42c6-886b-5de6ef3b4e10
+- Without external configuration, your code is not as adaptable or flexible as it could be. Is this a bad thing? Well, out here in the real world, species that don’t adapt die.
+  ls-type:: annotation
+  hl-page:: 286
+  hl-color:: yellow
+  id:: 67952bd0-e581-4bf7-8419-90cad49dbe39
+- The dodo didn’t adapt to the presence of humans and their livestock on the island of Mauritius, and quickly became extinct.
+  ls-type:: annotation
+  hl-page:: 286
+  hl-color:: yellow
+  id:: 67952be5-7564-44a8-89fc-7793592426a7
+- Don’t let your project (or your career) go the way of the dodo.
+  ls-type:: annotation
+  hl-page:: 287
+  hl-color:: yellow
+  id:: 67952beb-94ae-487e-b83c-21a58d88dded
