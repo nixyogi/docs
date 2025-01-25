@@ -2447,3 +2447,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 235
   hl-color:: yellow
   id:: 6794ceb2-d65b-42c3-abe6-b110ec6712d2
+- Globals couple code for many reasons. The most obvious is that a change to the implementation of the global potentially affects all the code in the system.
+  ls-type:: annotation
+  hl-page:: 235
+  hl-color:: yellow
+  id:: 6794cec1-147f-4c95-b47b-ab667dd1c719
+- When you make code reusable, you give it clean interfaces, decoupling it from the rest of your code. This allows you to extract a method or module without dragging everything else along with it. And if your code uses global data, then it becomes difficult to split it out from the rest.
+  ls-type:: annotation
+  hl-page:: 236
+  hl-color:: yellow
+  id:: 6794cedc-5603-4d42-acda-191b2436284c
