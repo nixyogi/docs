@@ -2992,3 +2992,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 285
   hl-color:: yellow
   id:: 67952b89-3d89-4848-9390-836c523aabd3
+- CONFIGURATION-AS-A-SERVICE
+  ls-type:: annotation
+  hl-page:: 285
+  hl-color:: yellow
+  id:: 67952b8f-40ec-4400-bce6-7028e7ebc975
+- We still want configuration data kept external to the application, but rather than in a flat file or database, we’d like to see it stored behind a service API.
+  ls-type:: annotation
+  hl-page:: 286
+  hl-color:: yellow
+  id:: 67952b9a-ed28-4723-9e8e-a96136c63be7
+- his has a number of benefits: Multiple applications can share configuration information, with authentication and access control limiting what each can see Configuration changes can be made globally The configuration data can be maintained via a specialized UI The configuration data becomes dynamic
+  ls-type:: annotation
+  hl-page:: 286
+  hl-color:: yellow
+  id:: 67952ba8-88fd-4ac1-aa89-0473df89c085
+- That last point, that configuration should be dynamic, is critical as we move toward highly available applications. The idea that we should have to stop and restart an application to change a single parameter is hopelessly out of touch with modern realities. Using a configuration service, components of the application could register for notifications of updates to parameters they use, and the service could send them messages containing new values if and when they are changed.
+  ls-type:: annotation
+  hl-page:: 286
+  hl-color:: yellow
+  id:: 67952bbb-f297-430f-adff-e616e3baac0b
