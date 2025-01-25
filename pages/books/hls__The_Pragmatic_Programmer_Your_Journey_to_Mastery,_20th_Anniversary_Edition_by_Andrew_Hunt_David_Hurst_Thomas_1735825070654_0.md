@@ -2277,3 +2277,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 225
   hl-color:: yellow
   id:: 6794a382-8837-42db-b55f-abdb3cc656bb
+- Much of the time, tomorrow looks a lot like today. But don’t count on it.
+  ls-type:: annotation
+  hl-page:: 225
+  hl-color:: yellow
+  id:: 6794a385-2157-4dba-b5d7-ee86134e2bdd
