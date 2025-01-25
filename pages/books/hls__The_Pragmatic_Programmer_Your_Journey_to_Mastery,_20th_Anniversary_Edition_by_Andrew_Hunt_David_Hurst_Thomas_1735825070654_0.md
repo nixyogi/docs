@@ -2892,3 +2892,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 277
   hl-color:: yellow
   id:: 679529de-382b-45f9-8405-a3d921e773a6
+- Drivable and Locatable are what Java calls interfaces; other languages call them protocols, and some call them traits(although this is not what we’ll be calling a trait later).
+  ls-type:: annotation
+  hl-page:: 277
+  hl-color:: yellow
+  id:: 679529f4-a7a6-4830-b021-08da32160ac4
+- These declarations create no code: they simply say that any class that implements Drivable must implement the two methods getSpeed and stop, and a class that’s Locatable must implement getLocation and locationIsValid. This means that our previous class definition of Car will only be valid if it includes all four of these methods.
+  ls-type:: annotation
+  hl-page:: 277
+  hl-color:: yellow
+  id:: 67952a05-73d0-419f-8805-af0dd94e87cd
+- What makes interfaces and protocols so powerful is that we can use them as types, and any class that implements the appropriate interface will be compatible with that type.
+  ls-type:: annotation
+  hl-page:: 278
+  hl-color:: yellow
+  id:: 67952a14-4c98-4778-ab3b-d0c96373a8eb
+- Tip 52 Prefer Interfaces to Express Polymorphism
+  ls-type:: annotation
+  hl-page:: 278
+  hl-color:: yellow
+  id:: 67952a1e-ed79-40bf-abe9-2ae6b506187f
