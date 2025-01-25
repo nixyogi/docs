@@ -2172,3 +2172,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 217
   hl-color:: yellow
   id:: 6794a185-e5a0-40ab-adb2-d08852c3c156
+- Languages that support exceptions can make resource deallocation tricky. If an exception is thrown, how do you guarantee that everything allocated prior to the exception is tidied up? The answer depends to some extent on the language support. You generally have two choices:1. Use variable scope (for example, stack variables in C++ or Rust)2. Use a finally clause in a try…catch block With usual scoping rules in languages such as C++ or Rust, the variable’s memory will be reclaimed when the variable goes out of scope via a return, block exit, or exception. 
+  ls-type:: annotation
+  hl-page:: 217
+  hl-color:: yellow
+  id:: 6794a1b8-6ba3-49d6-827c-d040353ef83e
+- The other option, if the language supports it, is the finally clause. A finally clause will ensure that the specified code will run whether or not an exception was raised in the try…catch block
+  ls-type:: annotation
+  hl-page:: 218
+  hl-color:: yellow
+  id:: 6794a1d3-c615-4571-a2a7-78dff261dc86
