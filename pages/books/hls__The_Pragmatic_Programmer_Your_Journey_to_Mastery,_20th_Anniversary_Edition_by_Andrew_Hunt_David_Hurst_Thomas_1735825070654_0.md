@@ -2867,3 +2867,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 275
   hl-color:: yellow
   id:: 679529a3-bccc-4b9c-8203-773a96c44d28
+- multiple inheritance.
+  ls-type:: annotation
+  hl-page:: 276
+  hl-color:: yellow
+  id:: 679529af-3043-4f5c-96e5-5681810e6bd8
+- Tip 51 Don’t Pay Inheritance Tax
+  ls-type:: annotation
+  hl-page:: 276
+  hl-color:: yellow
+  id:: 679529bd-ed5e-4316-9458-4093badbd980
+- THE ALTERNATIVES ARE BETTER Let us suggest three techniques that mean you should never need to use inheritance again: Interfaces and protocols Delegation Mixins and traits
+  ls-type:: annotation
+  hl-page:: 276
+  hl-color:: yellow
+  id:: 679529c6-44eb-41bf-bd68-b9e829310bc4
+- Interfaces and Protocols
+  ls-type:: annotation
+  hl-page:: 276
+  hl-color:: yellow
+  id:: 679529cd-ea49-414f-a718-cb367925eb52
+- Most OO languages allow you to specify that a class implements one or more sets of behaviors. You could say, for example, that a Car class implements the Drivable behavior and the Locatable behavior. 
+  ls-type:: annotation
+  hl-page:: 277
+  hl-color:: yellow
+  id:: 679529de-382b-45f9-8405-a3d921e773a6
