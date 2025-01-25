@@ -2397,3 +2397,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 234
   hl-color:: yellow
   id:: 6794ce27-1ed0-4e55-ae91-796720b74c00
+- Try not to have more than one “.” when you access something.
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: yellow
+  id:: 6794ce47-b9be-4263-9d70-3ab0b9285bec
+- There’s a big exception to the one-dot rule: the rule doesn’t apply if the things you’re chaining are really, really unlikely to change.
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: yellow
+  id:: 6794ce4f-f6f9-44b0-a464-7736ba297f07
+- In practice, anything in your application should be considered likely to change. Anything in a third-party library should be considered volatile, particularly if the maintainers of that library are known to change APIs between releases.
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: yellow
+  id:: 6794ce5e-66c2-4e66-a296-25be952debe7
+- Libraries that come with the language, however, are probably pretty stable, 
+  ls-type:: annotation
+  hl-page:: 234
+  hl-color:: yellow
+  id:: 6794ce6c-b2b9-47b2-9824-e42f1d2a7e5a
