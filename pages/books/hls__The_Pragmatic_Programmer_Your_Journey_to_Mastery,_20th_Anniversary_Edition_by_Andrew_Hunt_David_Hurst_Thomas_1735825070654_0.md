@@ -2067,3 +2067,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 208
   hl-color:: yellow
   id:: 67949e52-3fd3-493a-8492-d3931f602cd4
+- LEAVE ASSERTIONS TURNED ON
+  ls-type:: annotation
+  hl-page:: 209
+  hl-color:: yellow
+  id:: 67949f55-33ca-4619-b7fd-ed9fffccd0ed
+- There is a common misunderstanding about assertions. 
+  ls-type:: annotation
+  hl-page:: 209
+  hl-color:: yellow
+  id:: 67949f6a-c003-40c8-add5-f6da90f0cb0e
+- Assertions add some overhead to code. Because they check for things that should never happen, they’ll get triggered only by a bug in the code. Once the code has been tested and shipped, they are no longer needed, and should be turned off to make the code run faster. Assertions are a debugging facility.
+  ls-type:: annotation
+  hl-page:: 209
+  hl-color:: yellow
+  id:: 67949f6c-63ab-464e-a80a-c04997d4901a
+- There are two patently wrong assumptions here. First, they assume that testing finds all the bugs.
+  ls-type:: annotation
+  hl-page:: 209
+  hl-color:: yellow
+  id:: 67949f74-9f35-4e09-befe-c7650751a333
