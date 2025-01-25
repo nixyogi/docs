@@ -2132,3 +2132,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 212
   hl-color:: yellow
   id:: 6794a06f-831b-4626-8561-e2676848c5b9
+- The finish what you start tip tells us that, ideally, the routine that allocates a resource should also free it.
+  ls-type:: annotation
+  hl-page:: 214
+  hl-color:: yellow
+  id:: 6794a0e0-b239-4717-abd2-ff92a3b9f49c
