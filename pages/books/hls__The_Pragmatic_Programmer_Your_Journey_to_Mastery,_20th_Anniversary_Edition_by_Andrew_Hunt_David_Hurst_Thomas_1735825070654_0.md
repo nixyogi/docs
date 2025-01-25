@@ -2602,3 +2602,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 246
   hl-color:: yellow
   id:: 67952400-e380-4ded-9499-1ab7d6830d40
+- THE OBSERVER PATTERN
+  ls-type:: annotation
+  hl-page:: 246
+  hl-color:: yellow
+  id:: 67952407-5cdd-47be-bb12-6205e9b853c5
+- In the observer pattern we have a source of events, called the observable and a list of clients, the observers, who are interested in those events.
+  ls-type:: annotation
+  hl-page:: 246
+  hl-color:: yellow
+  id:: 67952412-9444-41f8-9fd0-91425f00997e
+- An observer registers its interest with the observable, typically by passing a reference to a function to be called.
+  ls-type:: annotation
+  hl-page:: 246
+  hl-color:: yellow
+  id:: 6795241d-90f0-49cd-bb71-ffdc4764da7c
+- Subsequently, when the event occurs, the observable iterates down its list of observers and calls the function that each passed it. The event is given as a parameter to that call
+  ls-type:: annotation
+  hl-page:: 246
+  hl-color:: yellow
+  id:: 6795242a-2adf-4503-9ec5-906bd970011c
