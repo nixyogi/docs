@@ -18652,4 +18652,4 @@
                           :page 255},
                :content {:text "We think that this focus on code often misses the point: we need to get back to thinking of programs as being something that transforms inputs into outputs. When we do, many of the details we previously worried about just evaporate. The structure becomes clearer, the error handling more consistent, and the coupling drops way down."},
                :properties {:color "yellow"}}],
- :extra {:page 256}}
+ :extra {:page 257}}
