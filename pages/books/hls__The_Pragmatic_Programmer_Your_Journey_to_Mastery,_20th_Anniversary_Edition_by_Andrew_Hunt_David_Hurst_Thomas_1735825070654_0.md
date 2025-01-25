@@ -2577,3 +2577,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 240
   hl-color:: yellow
   id:: 6795234d-b0ed-4824-9d51-e62dbebf0472
+- A state machine is basically just a specification of how to handle events. It consists of a set of states, one of which is the current state. For each state, we list the events that are significant to that state. For each of those events, we define the new current state of the system.
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: yellow
+  id:: 67952358-67d6-47d4-a8a3-509d8bd988f7
+- The neat thing about FSMs is that we can express them purely as data.
+  ls-type:: annotation
+  hl-page:: 241
+  hl-color:: yellow
+  id:: 67952383-be50-4127-9ff2-62274c46fd09
