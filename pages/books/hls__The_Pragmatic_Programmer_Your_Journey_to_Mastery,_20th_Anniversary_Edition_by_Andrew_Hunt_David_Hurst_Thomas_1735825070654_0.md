@@ -2192,3 +2192,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 219
   hl-color:: yellow
   id:: 6794a216-127a-43a2-b157-b10abe052fa9
+- Implementing any of these options in a procedural language such as C can be a problem: data structures themselves are not active. Our preference in these circumstances is to write a module for each major structure that provides standard allocation and deallocation facilities for that structure. (This module can also provide facilities such as debug printing, serialization, deserialization, and traversal hooks.)
+  ls-type:: annotation
+  hl-page:: 220
+  hl-color:: yellow
+  id:: 6794a22e-14da-4d94-9fe1-25eef50490c7
+- CHECKING THE BALANCE
+  ls-type:: annotation
+  hl-page:: 220
+  hl-color:: yellow
+  id:: 6794a232-b780-44cf-bb9b-39374b7e1708
+- Because Pragmatic Programmers trust no one, including ourselves, we feel that it is always a good idea to build code that actually checks that resources are indeed freed appropriately
+  ls-type:: annotation
+  hl-page:: 220
+  hl-color:: yellow
+  id:: 6794a23a-02ca-4e79-9f0c-ca35236d74e2
+- For most applications, this normally means producing wrappers for each type of resource, and using these wrappers to keep track of all allocations and deallocations. At certain points in your code, the program logic will dictate that the resources will be in a certain state: use the wrappers to check this. For example, a long-running program that services requests will probably have a single point at the top of its main processing loop where it waits for the next request to arrive. 
+  ls-type:: annotation
+  hl-page:: 220
+  hl-color:: yellow
+  id:: 6794a253-079c-4216-a01e-d5fb42aa1b9e
