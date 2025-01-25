@@ -2937,3 +2937,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 280
   hl-color:: yellow
   id:: 67952a91-72e4-451f-ab29-876b058c7e2b
+- That’s what we’re dealing with when we look at mixins. The basic idea is simple: we want to be able to extend classes and objects with new functionality without using inheritance. So we create a set of these functions, give that set a name, and then somehow extend a class or object with them. At that point, you’ve created a new class or object that combines the capabilities of the original and all its mixins.
+  ls-type:: annotation
+  hl-page:: 280
+  hl-color:: yellow
+  id:: 67952aac-1903-46d7-84c4-f4e6f251cb3e
+- Now the implementation and name of this feature varies between languages. We’ll tend to call them mixins here, but we really want you to think of this as a language-agnostic feature. The important thing is the capability that all these implementations have: merging functionality between existing things and new things.
+  ls-type:: annotation
+  hl-page:: 280
+  hl-color:: yellow
+  id:: 67952aba-a4c3-4fcd-a967-f3ec26739d1f
