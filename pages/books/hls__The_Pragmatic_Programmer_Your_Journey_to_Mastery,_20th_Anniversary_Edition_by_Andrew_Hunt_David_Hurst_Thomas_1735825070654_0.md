@@ -2927,3 +2927,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 278
   hl-color:: yellow
   id:: 67952a34-8f56-4b21-9f00-326ca58ce749
+- Tip 53 Delegate to Services: Has-A Trumps Is-A
+  ls-type:: annotation
+  hl-page:: 279
+  hl-color:: yellow
+  id:: 67952a67-bbf4-44e8-a0c9-9d8c4b957a14
+- Mixins, Traits, Categories, Protocol Extensions, …
+  ls-type:: annotation
+  hl-page:: 280
+  hl-color:: yellow
+  id:: 67952a91-72e4-451f-ab29-876b058c7e2b
