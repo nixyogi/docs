@@ -2282,3 +2282,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 225
   hl-color:: yellow
   id:: 6794a385-2157-4dba-b5d7-ee86134e2bdd
+- Topic 28 Decoupling
+  ls-type:: annotation
+  hl-page:: 228
+  hl-color:: yellow
+  id:: 6794a3dc-dc83-4ec1-864c-27e45f845da3
