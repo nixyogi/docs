@@ -2967,3 +2967,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 284
   hl-color:: yellow
   id:: 67952b43-5395-4eae-ad04-df1200a2b595
+- Tip 55 Parameterize Your App Using External Configuration
+  ls-type:: annotation
+  hl-page:: 284
+  hl-color:: yellow
+  id:: 67952b4e-4f2b-45bc-88b6-f0c90b64f176
+- Common things you will probably want to put in configuration data include: Credentials for external services (database, third party APIs, and so on) Logging levels and destinations Port, IP address, machine, and cluster names the app uses Environment-specific validation parameters Externally set parameters, such as tax rates Site-specific formatting details
+  ls-type:: annotation
+  hl-page:: 284
+  hl-color:: yellow
+  id:: 67952b59-a62b-4da5-9505-53261c0d56dd
+- STATIC CONFIGURATION
+  ls-type:: annotation
+  hl-page:: 285
+  hl-color:: yellow
+  id:: 67952b64-1ed7-4724-94ca-33486a00cbad
+- Many frameworks, and quite a few custom applications, keep configuration in either flat files or database tables. If the information is in flat files, the trend is to use some off-the-shelf plain-text format. Currently YAML and JSON are popular for this.
+  ls-type:: annotation
+  hl-page:: 285
+  hl-color:: yellow
+  id:: 67952b70-16bf-40e1-be8d-8b311f10006f
+- Commonly, this data structure is made global, the thinking being that this makes it easier for any part of the code to get to the values it holds. We prefer that you don’t do that. Instead, wrap the configuration information behind a (thin) API. 
+  ls-type:: annotation
+  hl-page:: 285
+  hl-color:: yellow
+  id:: 67952b89-3d89-4848-9390-836c523aabd3
