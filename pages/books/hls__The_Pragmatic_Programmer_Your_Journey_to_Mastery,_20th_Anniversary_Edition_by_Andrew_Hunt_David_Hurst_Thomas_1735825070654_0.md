@@ -2212,3 +2212,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 220
   hl-color:: yellow
   id:: 6794a253-079c-4216-a01e-d5fb42aa1b9e
+- At a lower, but no less useful level, you can invest in tools that(among other things) check your running programs for memory leaks.
+  ls-type:: annotation
+  hl-page:: 220
+  hl-color:: yellow
+  id:: 6794a25f-0da7-43d5-9275-e646f50d7011
