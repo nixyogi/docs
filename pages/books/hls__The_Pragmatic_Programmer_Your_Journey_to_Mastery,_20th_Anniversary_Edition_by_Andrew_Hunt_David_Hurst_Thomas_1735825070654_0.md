@@ -3477,3 +3477,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 332
   hl-color:: yellow
   id:: 67964bd0-5ad8-4154-8fea-4c5cb7203df1
+- A large part of our job is dealing with existing code, often written by other people. Those people will have different instincts to you, and so the decisions they made will be different.
+  ls-type:: annotation
+  hl-page:: 332
+  hl-color:: yellow
+  id:: 67964bd8-ce57-4038-80e4-bcff52d892a8
+- When you spot things done in a way that seems strange, jot it down. Continue doing this, and look for patterns. If you can see what drove them to write code that way, you may find that the job of understanding it becomes a lot easier.
+  ls-type:: annotation
+  hl-page:: 332
+  hl-color:: yellow
+  id:: 67964beb-a5cd-4a87-85d0-58cc4ac3ac84
+- NOT JUST CODE
+  ls-type:: annotation
+  hl-page:: 332
+  hl-color:: yellow
+  id:: 67964bef-b51e-4c04-a37b-ad38ca4600b0
