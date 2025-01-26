@@ -3687,3 +3687,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 350
   hl-color:: yellow
   id:: 67964ef8-76e1-463d-9b74-27e34c28b158
+- f you have an algorithm that is , try to find a divide-and-conquer approach that will take you down to .
+  ls-type:: annotation
+  hl-page:: 350
+  hl-color:: yellow
+  id:: 6796552c-455b-4049-af3f-5c5b57d36030
+- If you’re not sure how long your code will take, or how much memory it will use, try running it, varying the input record count or whatever is likely to impact the runtime. Then plot the results. You should soon get a good idea of the shape of the curve. Is it curving upward, a straight line, or flattening off as the input size increases? Three or four points should give you an idea.
+  ls-type:: annotation
+  hl-page:: 350
+  hl-color:: yellow
+  id:: 6796553b-ec5e-4b0a-8d9f-340d2c33c936
+- Tip 64 Test Your Estimates
+  ls-type:: annotation
+  hl-page:: 350
+  hl-color:: yellow
+  id:: 67965549-8e54-4fb6-a403-62e82580d0bb
