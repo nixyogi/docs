@@ -3382,3 +3382,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 324
   hl-color:: yellow
   id:: 679646c3-a018-4b3b-b068-393d291f2eb9
+- Topic 37 Listen to Your Lizard Brain
+  ls-type:: annotation
+  hl-page:: 327
+  hl-color:: yellow
+  id:: 679647f8-0ddb-491b-91e1-205f31b7a5f3
