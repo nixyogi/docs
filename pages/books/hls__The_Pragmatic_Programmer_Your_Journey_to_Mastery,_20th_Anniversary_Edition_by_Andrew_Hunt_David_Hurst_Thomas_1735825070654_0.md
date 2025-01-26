@@ -3537,3 +3537,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 337
   hl-color:: yellow
   id:: 67964cec-5ac5-4b28-aefa-c5bfa3fd59ca
+- We once worked on a large project that reported on data fed from a very large number of hardware data collection units out in the field
+  ls-type:: annotation
+  hl-page:: 337
+  hl-color:: yellow
+  id:: 67964d28-efc4-4a4d-a31d-c4c8f936f03c
+- As a result of conflicting time zone interpretations and inconsistencies in Daylight Savings Time policies, results were almost always wrong, but only off by one
+  ls-type:: annotation
+  hl-page:: 337
+  hl-color:: yellow
+  id:: 67964d2d-19d3-4233-af9c-a3453aa3425a
