@@ -3427,3 +3427,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 329
   hl-color:: yellow
   id:: 67964b42-5c31-4f71-8028-e5c0bda7e2da
+- Your code is trying to tell you something. It’s saying that this is harder than it should be. Maybe the structure or design is wrong, maybe you’re solving the wrong problem, or maybe you’re just creating an ant farm’s worth of bugs. Whatever the reason, your lizard brain is sensing feedback from the code, and it’s desperately trying to get you to listen.
+  ls-type:: annotation
+  hl-page:: 329
+  hl-color:: yellow
+  id:: 67964b54-8ada-49eb-8ba2-98bb29b0af82
+- HOW TO TALK LIZARD
+  ls-type:: annotation
+  hl-page:: 330
+  hl-color:: yellow
+  id:: 67964b5a-c181-4317-b1d4-bc17fbdd3db8
+- First, stop what y
+  ls-type:: annotation
+  hl-page:: 330
+  hl-color:: yellow
+  id:: 67964b60-e60a-4439-940a-137ec1360a82
+- First, stop what you’re doing. Give yourself a little time and space to let your brain organize itself. Stop thinking about the code, and do something that is fairly mindless for a while, away from a keyboard. Take a walk, have lunch, chat with someone. Maybe sleep on it.
+  ls-type:: annotation
+  hl-page:: 330
+  hl-color:: yellow
+  id:: 67964b6d-e246-44ce-8851-391a5461a97f
+- If that’s not working, try externalizing the issue. Make doodles about the code you’re writing, or explain it to a coworker(preferably one who isn’t a programmer), or to your rubber duck.
+  ls-type:: annotation
+  hl-page:: 330
+  hl-color:: yellow
+  id:: 67964b7c-ae0a-448d-84d8-99be05ff8ce4
+- IT’S PLAYTIME
+  ls-type:: annotation
+  hl-page:: 330
+  hl-color:: yellow
+  id:: 67964b86-3dc7-406b-9054-cd278095cf07
