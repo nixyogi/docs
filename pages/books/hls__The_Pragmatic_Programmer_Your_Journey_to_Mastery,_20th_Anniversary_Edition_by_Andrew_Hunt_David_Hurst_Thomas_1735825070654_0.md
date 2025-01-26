@@ -3522,3 +3522,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 335
   hl-color:: yellow
   id:: 67964ca3-3f09-49b2-8f3b-d0e79c926076
+- It’s easy to be fooled by this line of thought. Why should you take the risk of messing with something that’s working? Well, we can think of several reasons: It may not really be working—it might just look like it is. The boundary condition you rely on may be just an accident. In different circumstances (a different screen resolution, more CPU cores), it might behave differently. Undocumented behavior may change with the next release of the library. Additional and unnecessary calls make your code slower. Additional calls increase the risk of introducing new bugs of their own
+  ls-type:: annotation
+  hl-page:: 336
+  hl-color:: yellow
+  id:: 67964cd6-31f9-4a50-bdd2-6197855b00ba
+- A well-specified contract (see Topic 23, Design by Contract) can help eliminate misunderstandings
+  ls-type:: annotation
+  hl-page:: 336
+  hl-color:: yellow
+  id:: 67964ce3-d317-4626-b72a-0e4e34b2531c
+- Close Enough Isn’t
+  ls-type:: annotation
+  hl-page:: 337
+  hl-color:: yellow
+  id:: 67964cec-5ac5-4b28-aefa-c5bfa3fd59ca
