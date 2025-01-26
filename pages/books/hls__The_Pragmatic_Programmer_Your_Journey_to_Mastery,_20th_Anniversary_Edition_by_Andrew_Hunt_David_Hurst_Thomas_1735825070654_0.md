@@ -3677,3 +3677,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 349
   hl-color:: yellow
   id:: 67964ed2-53be-4f6f-a302-8ef71cd1d85c
+- However, the basic kinds of algorithms we’ve described earlier pop up time and time again. Whenever you find yourself writing a simple loop, you know that you have an algorithm. If that loop contains an inner loop, then you’re looking at . You should be asking yourself how large these values can get. If the numbers are bounded, then you’ll know how long the code will take to run. If the numbers depend on external factors (such as the number of records in an overnight batch run, or the number of names in a list of people), then you might want to stop and consider the effect that large values may have on your running time or memory consumption.
+  ls-type:: annotation
+  hl-page:: 349
+  hl-color:: yellow
+  id:: 67964ef0-2535-4948-8cd7-0dd8579699b4
+- Tip 63 Estimate the Order of Your Algorithms
+  ls-type:: annotation
+  hl-page:: 350
+  hl-color:: yellow
+  id:: 67964ef8-76e1-463d-9b74-27e34c28b158
