@@ -3502,3 +3502,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 334
   hl-color:: yellow
   id:: 67964c15-e9a6-4eed-ae83-a541945d85af
+- As developers, we also work in minefields. There are hundreds of traps waiting to catch us each day. Remembering the soldier’s tale, we should be wary of drawing false conclusions. We should avoid programming by coincidence—relying on luck and accidental successes—in favor of programming deliberately.
+  ls-type:: annotation
+  hl-page:: 334
+  hl-color:: yellow
+  id:: 67964c7a-3f95-408d-b7ac-d1b5291cc239
