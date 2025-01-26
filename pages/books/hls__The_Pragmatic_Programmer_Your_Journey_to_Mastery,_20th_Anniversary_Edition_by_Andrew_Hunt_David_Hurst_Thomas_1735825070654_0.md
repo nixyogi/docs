@@ -3372,3 +3372,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 309
   hl-color:: yellow
   id:: 679645e2-0ffd-46e6-b96b-778ab31fb5d3
+- There are a few things that you won’t find in the definition of actors: There’s no single thing that’s in control. Nothing schedules what happens next, or orchestrates the transfer of information from the raw data to the final output. The only state in the system is held in messages and in the local state of each actor. Messages cannot be examined except by being read by their recipient, and local state is inaccessible outside the actor. All messages are one way—there’s no concept of replying. If you want an actor to return a response, you include your own mailbox address in the message you send it, and it will (eventually) send the response as just another message to that mailbox. An actor processes each message to completion, and only processes one message at a time.
+  ls-type:: annotation
+  hl-page:: 310
+  hl-color:: yellow
+  id:: 67964601-062e-41af-ac0b-51e00c6a3c6d
