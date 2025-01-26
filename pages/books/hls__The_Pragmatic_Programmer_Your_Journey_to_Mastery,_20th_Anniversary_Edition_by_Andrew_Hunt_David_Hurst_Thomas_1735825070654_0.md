@@ -3567,3 +3567,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 338
   hl-color:: yellow
   id:: 67964d64-fb12-4585-bc90-69304ff5648e
+- A log file that shows an intermittent error every 1,000 requests may be a difficult-to-diagnose race condition, or may be a plain old bug. Tests that seem to pass on your machine but not on the server might indicate a difference between the two environments, or maybe it’s just a coincidence.
+  ls-type:: annotation
+  hl-page:: 338
+  hl-color:: yellow
+  id:: 67964d73-cee9-478a-b82b-ae1e08c63187
+- Don’t assume it, prove it.
+  ls-type:: annotation
+  hl-page:: 338
+  hl-color:: yellow
+  id:: 67964d79-84a4-4ff0-b7c3-07e70264e762
+- Accidents of Context
+  ls-type:: annotation
+  hl-page:: 338
+  hl-color:: yellow
+  id:: 67964d7f-3768-4a8f-912f-733daa1fa182
+- You can have “accidents of context” as well. Suppose you are writing a utility module. Just because you are currently coding for a GUI environment, does the module have to rely on a GUI being present? Are you relying on English-speaking users? Literate users? What else are you relying on that isn’t guaranteed?
+  ls-type:: annotation
+  hl-page:: 338
+  hl-color:: yellow
+  id:: 67964d8c-f305-4e08-9205-fd1c389aa8c0
+- Tip 62 Don’t Program by Coincidence
+  ls-type:: annotation
+  hl-page:: 339
+  hl-color:: yellow
+  id:: 67964da6-0c70-4350-bc11-dc0bdd21d005
