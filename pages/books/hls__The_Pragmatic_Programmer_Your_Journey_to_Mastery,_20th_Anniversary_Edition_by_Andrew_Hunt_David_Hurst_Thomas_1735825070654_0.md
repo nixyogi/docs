@@ -3352,3 +3352,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 309
   hl-color:: yellow
   id:: 679645ae-e7cb-490c-ba97-2a095da16ce3
+- Actors and processes offer interesting ways of implementing concurrency without the burden of synchronizing access to shared memory.
+  ls-type:: annotation
+  hl-page:: 309
+  hl-color:: yellow
+  id:: 679645b4-47f3-41c1-a44e-1a6125e4a782
+- An actor is an independent virtual processor with its own local (and private) state. Each actor has a mailbox. When a message appears in the mailbox and the actor is idle, it kicks into life and processes the message. When it finishes processing, it processes another message in the mailbox, or, if the mailbox is empty, it goes back to sleep. When processing a message, an actor can create other actors, send messages to other actors that it knows about, and create a new state that will become the current state when the next message is processed.
+  ls-type:: annotation
+  hl-page:: 309
+  hl-color:: yellow
+  id:: 679645d1-a05f-45b9-8c54-8464367c4315
+- A process is typically a more general-purpose virtual processor, often implemented by the operating system to facilitate concurrency. Processes can be constrained (by convention) to behave like actors, and that’s the type of process we mean here.
+  ls-type:: annotation
+  hl-page:: 309
+  hl-color:: yellow
+  id:: 679645dc-8095-4609-ab1d-5323afd927b4
+- ACTORS CAN ONLY BE CONCURRENT
+  ls-type:: annotation
+  hl-page:: 309
+  hl-color:: yellow
+  id:: 679645e2-0ffd-46e6-b96b-778ab31fb5d3
