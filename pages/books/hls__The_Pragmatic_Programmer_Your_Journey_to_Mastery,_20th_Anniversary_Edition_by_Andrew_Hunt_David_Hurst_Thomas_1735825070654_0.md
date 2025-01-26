@@ -3637,3 +3637,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 343
   hl-color:: yellow
   id:: 67964e5a-87f4-4964-9410-cccb18126ab5
+- COMMON SENSE ESTIMATION
+  ls-type:: annotation
+  hl-page:: 347
+  hl-color:: yellow
+  id:: 67964e82-0c5b-46a8-a4ec-4b7fc0e45187
+- You can estimate the order of many basic algorithms using common sense
+  ls-type:: annotation
+  hl-page:: 348
+  hl-color:: yellow
+  id:: 67964e89-4803-48f6-ab17-04065f5fe0e8
+- Simple loops If a simple loop runs from to , then the algorithm is likely to be —time increases linearly with . Examples include exhaustive searches, finding the maximum value in an array, and generating checksums.
+  ls-type:: annotation
+  hl-page:: 348
+  hl-color:: yellow
+  id:: 67964e93-f8f8-47b6-ab13-03ff27a6aedb
