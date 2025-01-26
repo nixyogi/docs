@@ -3122,3 +3122,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 293
   hl-color:: yellow
   id:: 67960f3e-1fc9-4e38-9f44-0ec8a649a36d
+- You can use activity diagrams to maximize parallelism by identifying activities that could be performed in parallel, but aren’t.
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f49-5fb3-4f10-9b4f-a23fd558ec10
+- OPPORTUNITIES FOR CONCURRENCY
+  ls-type:: annotation
+  hl-page:: 296
+  hl-color:: yellow
+  id:: 67960f75-0017-465a-948f-d7cb856828fb
+- Activity diagrams show the potential areas of concurrency, but have nothing to say about whether these areas are worth exploiting.
+  ls-type:: annotation
+  hl-page:: 296
+  hl-color:: yellow
+  id:: 67960f78-2875-448c-96f0-b1674b067dbe
