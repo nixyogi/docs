@@ -3207,3 +3207,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 299
   hl-color:: yellow
   id:: 6796101a-eb62-4331-a0bb-398c2924986a
+- Waiter 1 gets the current pie count, and finds that it is one. He promises the pie to the customer. But at that point, waiter 2 runs. She also sees the pie count is one and makes the same promise to her customer. One of the two then grabs the last piece of pie, and the other waiter enters some kind of error state(which probably involves much grovelling)
+  ls-type:: annotation
+  hl-page:: 300
+  hl-color:: yellow
+  id:: 6796103a-a41a-4a93-80ed-75fed26bb1a0
+- The problem here is not that two processes can write to the same memory. The problem is that neither process can guarantee that its view of that memory is consistent. 
+  ls-type:: annotation
+  hl-page:: 300
+  hl-color:: yellow
+  id:: 67961044-3395-4b7c-b172-d6b107ebf9b3
+- This is all because the fetching and then updating the pie count is not an atomic operation: the underlying value can change in the middle. So how can we make it atomic?
+  ls-type:: annotation
+  hl-page:: 301
+  hl-color:: yellow
+  id:: 67961057-afa1-49aa-85f0-3cf521b93983
+- Semaphores and Other Forms of Mutual Exclusion
+  ls-type:: annotation
+  hl-page:: 301
+  hl-color:: yellow
+  id:: 6796105f-7c07-48ae-bf6c-27a2b17944b5
+- A semaphore is simply a thing that only one person can own at a time. You can create a semaphore and then use it to control access to some other resource.
+  ls-type:: annotation
+  hl-page:: 301
+  hl-color:: yellow
+  id:: 67961065-ab58-460a-9f02-4b0a481d62e6
