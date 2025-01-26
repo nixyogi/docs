@@ -3652,3 +3652,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 348
   hl-color:: yellow
   id:: 67964e93-f8f8-47b6-ab13-03ff27a6aedb
+- Nested loops If you nest a loop inside another, then your algorithm becomes , where and are the two loops’ limits. This commonly occurs in simple sorting algorithms, such as bubble sort, where the outer loop scans each element in the array in turn, and the inner loop works out where to place that element in the sorted result. Such sorting algorithms tend to be 
+  ls-type:: annotation
+  hl-page:: 348
+  hl-color:: yellow
+  id:: 67964ea5-4b21-4183-b95c-1ac30f61711c
+- Binary chop If your algorithm halves the set of things it considers each time around the loop, then it is likely to be logarithmic,.
+  ls-type:: annotation
+  hl-page:: 348
+  hl-color:: yellow
+  id:: 67964eac-4ebf-435c-bdb4-d21359d3fa93
+- Divide and conquer Algorithms that partition their input work on the two halves independently, and then combine the result can be. The classic example is quicksort, which works by partitioning the data into two halves and recursively sorting each. 
+  ls-type:: annotation
+  hl-page:: 348
+  hl-color:: yellow
+  id:: 67964eba-e0ec-401b-b28a-f4a67e8963c2
+- Combinatoric Whenever algorithms start looking at the permutations of things, their running times may get out of hand. This is because permutations involve factorials
+  ls-type:: annotation
+  hl-page:: 349
+  hl-color:: yellow
+  id:: 67964ec9-a267-4314-8617-7828f6b235ae
+- ALGORITHM SPEED IN PRACTICE
+  ls-type:: annotation
+  hl-page:: 349
+  hl-color:: yellow
+  id:: 67964ed2-53be-4f6f-a302-8ef71cd1d85c
