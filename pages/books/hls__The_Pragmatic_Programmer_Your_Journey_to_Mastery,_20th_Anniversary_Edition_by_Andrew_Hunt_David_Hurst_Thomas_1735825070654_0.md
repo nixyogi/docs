@@ -3232,3 +3232,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 301
   hl-color:: yellow
   id:: 67961065-ab58-460a-9f02-4b0a481d62e6
+- Let’s assume both waiters execute the code at the same time. They both try to lock the semaphore, but only one succeeds. The one that gets the semaphore continues to run as normal. The one that doesn’t get the semaphore is suspended until the semaphore becomes available (the waiter waits…). When the first waiter completes the order they unlock the semaphore and the second waiter continues running. They now see there’s no pie in the case, and apologize to the customer.
+  ls-type:: annotation
+  hl-page:: 302
+  hl-color:: yellow
+  id:: 679610a5-0338-4736-8813-4466dbec750d
