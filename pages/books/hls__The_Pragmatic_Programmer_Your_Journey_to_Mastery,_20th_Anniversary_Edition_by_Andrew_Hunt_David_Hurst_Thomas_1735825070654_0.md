@@ -3137,3 +3137,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 296
   hl-color:: yellow
   id:: 67960f78-2875-448c-96f0-b1674b067dbe
+- We’re hoping to find activities that take time, but not time in our code.
+  ls-type:: annotation
+  hl-page:: 296
+  hl-color:: yellow
+  id:: 67960f93-6def-4c0c-90a1-09afc2cab57d
+- Querying a database, accessing an external
+  ls-type:: annotation
+  hl-page:: 296
+  hl-color:: yellow
+  id:: 67960f95-ef68-48af-b00d-d7d50f626a8b
+- service, waiting for user input: all these things would normally stall our program until they complete. And these are all opportunities to do something more productive than the CPU equivalent of twiddling one’s thumbs.
+  ls-type:: annotation
+  hl-page:: 297
+  hl-color:: yellow
+  id:: 67960f9e-6a61-43b5-a7fc-e7d626076d92
+- OPPORTUNITIES FOR PARALLELISM
+  ls-type:: annotation
+  hl-page:: 297
+  hl-color:: yellow
+  id:: 67960fa3-222e-4732-bc25-1f55c5899b46
+- Remember the distinction: concurrency is a software mechanism, and parallelism is a hardware concern.
+  ls-type:: annotation
+  hl-page:: 297
+  hl-color:: yellow
+  id:: 67960fa8-1513-4da2-aed6-e2cb2d450d5c
+- The ideal things to split this way are pieces of work that are relatively independent—where each can proceed without waiting for anything from the others. A common pattern is to take a large piece of work, split it into independent chunks, process each in parallel, then combine the results.
+  ls-type:: annotation
+  hl-page:: 297
+  hl-color:: yellow
+  id:: 67960fb8-7fe1-40de-a46b-8e87a74845e1
