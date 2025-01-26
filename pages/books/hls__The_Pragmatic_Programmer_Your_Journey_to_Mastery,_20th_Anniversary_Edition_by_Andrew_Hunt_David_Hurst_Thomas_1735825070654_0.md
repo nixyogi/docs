@@ -3322,3 +3322,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 307
   hl-color:: yellow
   id:: 67964570-ade1-410a-a81c-45d652df4b02
+- Most languages have library support for some kind of exclusive access to shared resources. They may call it mutexes (for mutual exclusion), monitors, or semaphores. These are all implemented as libraries.
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: yellow
+  id:: 67964577-a9ca-4a83-8bfb-78e77e366e96
+- You could also argue that functional languages, with their tendency to make all data immutable, make concurrency simpler. However, they still face the same challenges, because at some point they are forced to step into the real, mutable world.
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: yellow
+  id:: 6796458b-5efc-443d-acdd-d04d7142701b
+- DOCTOR, IT HURTS… If you take nothing else away from this section, take this: concurrency in a shared resource environment is difficult, and managing it yourself is fraught with challenges.
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: yellow
+  id:: 67964593-0cef-483e-9d03-f482bdf5dfb0
+- Which is why we’re recommending the punchline to the old joke: Doctor, it hurts when I do this.
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: yellow
+  id:: 6796459d-cc9a-47d0-a73d-c4d389ec9e6e
+- Then don’t do that. The next couple of sections suggest alternative ways of getting the benefits of concurrency without the pain.
+  ls-type:: annotation
+  hl-page:: 308
+  hl-color:: yellow
+  id:: 679645a5-fc1e-4966-9a40-29ea404d47f9
+- Topic 35 Actors and Processes
+  ls-type:: annotation
+  hl-page:: 309
+  hl-color:: yellow
+  id:: 679645ae-e7cb-490c-ba97-2a095da16ce3
