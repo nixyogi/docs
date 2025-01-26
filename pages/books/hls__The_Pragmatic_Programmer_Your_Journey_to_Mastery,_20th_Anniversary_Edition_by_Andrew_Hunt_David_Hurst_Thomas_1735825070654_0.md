@@ -3547,3 +3547,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 337
   hl-color:: yellow
   id:: 67964d2d-19d3-4233-af9c-a3453aa3425a
+- But the fact that it was “only” off by one some of the time was a coincidence, masking a deeper and more fundamental flaw. Without a proper model of time handling, the entire large code base had devolved over time to an untenable mass of +1 and -1 statements. Ultimately, none of it was correct and the project was scrapped.
+  ls-type:: annotation
+  hl-page:: 337
+  hl-color:: yellow
+  id:: 67964d3b-d7f3-41de-a463-e44e9a5fb75b
+- Phantom Patterns
+  ls-type:: annotation
+  hl-page:: 337
+  hl-color:: yellow
+  id:: 67964d40-73d9-42bc-abce-1dfedba32aa1
+- Human beings are designed to see patterns and causes, even when it’s just a coincidence
+  ls-type:: annotation
+  hl-page:: 337
+  hl-color:: yellow
+  id:: 67964d52-aed2-437b-b973-9d41f65a83a4
+- Gamblers imagine patterns in lottery numbers, dice games, or roulette, when in fact these are statistically independent events. In finance, stock and bond trading are similarly rife with coincidence instead of actual, discernible patterns.
+  ls-type:: annotation
+  hl-page:: 338
+  hl-color:: yellow
+  id:: 67964d64-fb12-4585-bc90-69304ff5648e
