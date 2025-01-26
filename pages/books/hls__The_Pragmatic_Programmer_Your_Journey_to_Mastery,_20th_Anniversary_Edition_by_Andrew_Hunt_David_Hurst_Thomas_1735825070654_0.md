@@ -3387,3 +3387,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 327
   hl-color:: yellow
   id:: 679647f8-0ddb-491b-91e1-205f31b7a5f3
+- Instincts are simply a response to patterns packed into our nonconscious brain. Some are innate, others are learned through repetition. As you gain experience as a programmer, your brain is laying down layers of tacit knowledge: things that work, things that don’t work, the probable causes of a type of error, all the things you notice throughout your days.
+  ls-type:: annotation
+  hl-page:: 327
+  hl-color:: yellow
+  id:: 67964af4-b023-4cb5-a074-dbda9ecd2eaf
+- Whatever their source, instincts share one thing: they have no words. Instincts make you feel, not think. And so when an instinct is triggered, you don’t see a flashing lightbulb with a banner wrapped around it.
+  ls-type:: annotation
+  hl-page:: 328
+  hl-color:: yellow
+  id:: 67964b07-ac6e-4c78-be7e-090a8ea34b18
+- FEAR OF THE BLANK PAGE
+  ls-type:: annotation
+  hl-page:: 328
+  hl-color:: yellow
+  id:: 67964b12-2dd9-4f0b-ae55-d85db66e6478
