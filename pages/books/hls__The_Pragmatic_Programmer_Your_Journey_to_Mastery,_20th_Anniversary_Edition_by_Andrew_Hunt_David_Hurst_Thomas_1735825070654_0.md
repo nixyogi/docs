@@ -3457,3 +3457,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 330
   hl-color:: yellow
   id:: 67964b86-3dc7-406b-9054-cd278095cf07
+- If you’re working on existing code and it’s pushing back, then stash it away somewhere and prototype up something similar instead.
+  ls-type:: annotation
+  hl-page:: 331
+  hl-color:: yellow
+  id:: 67964baf-ee3b-4cc1-ab30-bd14e7f30342
+- Do the following.1. Write “I’m prototyping” on a sticky note, and stick it on the side of your screen.2. Remind yourself that prototypes are meant to fail. And remind yourself that prototypes get thrown away, even if they don’t fail. There is no downside to doing this.3. In your empty editor buffer, create a comment describing in one sentence what you want to learn or do.4. Start coding
+  ls-type:: annotation
+  hl-page:: 331
+  hl-color:: yellow
+  id:: 67964bb5-2fd7-4538-ae59-add4e68a035b
+- But, in our experience, at some point during the first prototype you will be surprised to find yourself humming along with your music, enjoying the feeling of creating code. The nervousness will have evaporated, replaced by a feeling of urgency: let’s get this done!
+  ls-type:: annotation
+  hl-page:: 332
+  hl-color:: yellow
+  id:: 67964bc9-7a0e-4f81-b096-015d4d991ad3
+- NOT JUST YOUR CODE
+  ls-type:: annotation
+  hl-page:: 332
+  hl-color:: yellow
+  id:: 67964bd0-5ad8-4154-8fea-4c5cb7203df1
