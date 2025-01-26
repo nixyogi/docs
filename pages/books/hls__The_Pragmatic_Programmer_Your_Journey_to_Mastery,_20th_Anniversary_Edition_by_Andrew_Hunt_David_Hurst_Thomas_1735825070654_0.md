@@ -3062,3 +3062,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 289
   hl-color:: yellow
   id:: 67952c3d-29ac-4c04-add0-3599c700776d
+- Topic 33 Breaking Temporal Coupling
+  ls-type:: annotation
+  hl-page:: 292
+  hl-color:: yellow
+  id:: 6795afe4-6eb7-4d6a-994d-0234d6793ce6
