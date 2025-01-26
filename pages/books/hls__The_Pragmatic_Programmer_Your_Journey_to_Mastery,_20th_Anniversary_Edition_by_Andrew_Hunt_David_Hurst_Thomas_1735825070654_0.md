@@ -3092,3 +3092,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 292
   hl-color:: yellow
   id:: 67960f08-7297-42da-8579-b327f6c4aa7a
+- and deployment. The result will be systems that are easier to reason about, that potentially respond faster and more reliably
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f0f-71d0-4e91-be7a-9354edf275e3
+- Tip 56 Analyze Workflow to Improve Concurrency
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f1a-1060-4457-af83-e366750acb9e
+- LOOKING FOR CONCURRENCY
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f25-5e79-4baf-8ca0-36ba19a69e82
+- One way to do this is to capture the workflow using a notation such as the activity diagram.
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f2b-84ab-4b16-b490-d0951a7ada76
+- An activity diagram consists of a set of actions drawn as rounded boxes. The arrow leaving an action leads to either another action (which can start once the first action completes) or to a thick line called a synchronization bar.
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f37-7594-46c8-824f-8be415dcd520
+- Once all the actions leading into a synchronization bar are complete, you can then proceed along any arrows leaving the bar. An action with no arrows leading into it can be started at any time.
+  ls-type:: annotation
+  hl-page:: 293
+  hl-color:: yellow
+  id:: 67960f3e-1fc9-4e38-9f44-0ec8a649a36d
