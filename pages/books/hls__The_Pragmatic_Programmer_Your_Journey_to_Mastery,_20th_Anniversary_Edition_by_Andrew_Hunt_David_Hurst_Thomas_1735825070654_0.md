@@ -3492,3 +3492,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 332
   hl-color:: yellow
   id:: 67964bef-b51e-4c04-a37b-ad38ca4600b0
+- Learning to listen to your gut when coding is an important skill to foster. But it applies to the bigger picture are well. Sometimes a design just feels wrong, or some requirement makes you feel uneasy. Stop and analyze these feelings. If you’re in a supportive environment, express them out loud. Explore them. The chances are that there’s something lurking in that dark doorway. Listen to your instincts and avoid the problem before it jumps out at you.
+  ls-type:: annotation
+  hl-page:: 333
+  hl-color:: yellow
+  id:: 67964c0c-062b-4fd5-a495-dcfe9946751e
+- Topic 38 Programming by Coincidence
+  ls-type:: annotation
+  hl-page:: 334
+  hl-color:: yellow
+  id:: 67964c15-e9a6-4eed-ae83-a541945d85af
