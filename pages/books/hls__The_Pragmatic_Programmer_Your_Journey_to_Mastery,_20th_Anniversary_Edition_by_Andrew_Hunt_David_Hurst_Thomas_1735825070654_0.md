@@ -3257,3 +3257,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 302
   hl-color:: yellow
   id:: 679610cb-31ba-4a50-bfca-fb038b54c708
+- MULTIPLE RESOURCE TRANSACTIONS
+  ls-type:: annotation
+  hl-page:: 304
+  hl-color:: yellow
+  id:: 679610f6-5616-422b-ba58-fe000ec9c3e0
+- Our diner just installed an ice cream freezer. If a customer orders pie à la mode, the waiter will need to check that both pie and ice cream are available.
+  ls-type:: annotation
+  hl-page:: 304
+  hl-color:: yellow
+  id:: 679610fd-fff9-4a91-aa64-198d942942e7
+- This won’t work, though. What happens if we claim a slice of pie, but when we try to get a scoop of ice cream we find out there isn’t any? We’re now left holding some pie that we can’t do anything with (because our customer must have ice cream).
+  ls-type:: annotation
+  hl-page:: 304
+  hl-color:: yellow
+  id:: 67961114-99d0-48d4-a367-be96fb1d7112
+- the fact we’re holding the pie means it isn’t in the case, so it isn’t available to some other customer who (being a purist) doesn’t want ice cream with it
+  ls-type:: annotation
+  hl-page:: 305
+  hl-color:: yellow
+  id:: 6796111c-f7f9-49cf-8630-011c36d3cc04
