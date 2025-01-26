@@ -3507,3 +3507,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 334
   hl-color:: yellow
   id:: 67964c7a-3f95-408d-b7ac-d1b5291cc239
+- HOW TO PROGRAM BY COINCIDENCE
+  ls-type:: annotation
+  hl-page:: 334
+  hl-color:: yellow
+  id:: 67964c80-db1e-4d85-894e-29f6ab9c3c6d
+- Fred doesn’t know why the code is failing because he didn’t know why it worked in the first place. It seemed to work, given the limited “testing’’ that Fred did, but that was just a coincidence.
+  ls-type:: annotation
+  hl-page:: 335
+  hl-color:: yellow
+  id:: 67964c96-d7ed-4470-8db9-442a0f88ee00
+- Accidents of Implementation Accidents of implementation are things that happen simply because that’s the way the code is currently written. You end up relying on undocumented error or boundary conditions.
+  ls-type:: annotation
+  hl-page:: 335
+  hl-color:: yellow
+  id:: 67964ca3-3f09-49b2-8f3b-d0e79c926076
