@@ -3607,3 +3607,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 339
   hl-color:: yellow
   id:: 67964dc8-4325-4afe-8a29-0005243c736e
+- Rely only on reliable things. Don’t depend on assumptions. If you can’t tell if something is reliable, assume the worst. Document your assumptions. Topic 23, Design by Contract, can help clarify your assumptions in your own mind, as well as help communicate them to others. Don’t just test your code, but test your assumptions as well. Don’t guess; actually try it. Write an assertion to test your assumptions(see Topic 25, Assertive Programming). If your assertion is right, you have improved the documentation in your code. If you discover your assumption is wrong, then count yourself lucky. Prioritize your effort. Spend time on the important aspects; more than likely, these are the hard parts. If you don’t have fundamentals or infrastructure correct, brilliant bells and whistles will be irrelevant. Don’t be a slave to history. Don’t let existing code dictate future code. All code can be replaced if it is no longer appropriate. Even within one program, don’t let what you’ve already done constrain what you do next—be ready to refactor (see Topic 40, Refactoring). This decision may impact the project schedule. The assumption is that the impact will be less than the cost of not making the change.
+  ls-type:: annotation
+  hl-page:: 340
+  hl-color:: yellow
+  id:: 67964df0-e2cd-4a8a-b8ed-f02cea0fd381
+- Topic 39 Algorithm Speed
+  ls-type:: annotation
+  hl-page:: 343
+  hl-color:: yellow
+  id:: 67964e25-de85-48f8-b8df-c1348aeff58f
