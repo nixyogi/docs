@@ -3067,3 +3067,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 292
   hl-color:: yellow
   id:: 6795afe4-6eb7-4d6a-994d-0234d6793ce6
+- Time is an often ignored aspect of software architectures
+  ls-type:: annotation
+  hl-page:: 292
+  hl-color:: yellow
+  id:: 67960eda-873a-4fbe-9e64-20d38899061c
+- There are two aspects of time that are important to us: concurrency (things happening at the same time) and ordering (the relative positions of things in time)
+  ls-type:: annotation
+  hl-page:: 292
+  hl-color:: yellow
+  id:: 67960ee1-3ddf-44ab-bfe9-53f79680508f
+- When people first sit down to design an architecture or write a program, things tend to be linear. That’s the way most people think—do this and then always do that. But thinking this way leads to temporal coupling: coupling in time.
+  ls-type:: annotation
+  hl-page:: 292
+  hl-color:: yellow
+  id:: 67960ef1-5016-4489-a34f-e3208fa30906
+- This approach is not very flexible, and not very realistic.
+  ls-type:: annotation
+  hl-page:: 292
+  hl-color:: yellow
+  id:: 67960efa-8071-4553-9649-2a85d25c16ba
+- We need to allow for concurrency and to think about decoupling any time or order dependencies. In doing so, we can gain flexibility and reduce any time-based dependencies in many areas of development: workflow analysis, architecture, design,
+  ls-type:: annotation
+  hl-page:: 292
+  hl-color:: yellow
+  id:: 67960f08-7297-42da-8579-b327f6c4aa7a
