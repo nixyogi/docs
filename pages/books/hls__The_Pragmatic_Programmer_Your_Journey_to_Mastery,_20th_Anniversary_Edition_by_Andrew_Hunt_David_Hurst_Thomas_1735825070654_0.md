@@ -3402,3 +3402,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 328
   hl-color:: yellow
   id:: 67964b12-2dd9-4f0b-ae55-d85db66e6478
+- Everyone fears the empty screen, the lonely blinking cursor surrounded by a whole bunch of nothing. Starting a new project(or even a new module in an existing project) can be an unnerving experience. Many of us would prefer to put off making the initial commitment of starting.
+  ls-type:: annotation
+  hl-page:: 328
+  hl-color:: yellow
+  id:: 67964b19-d285-46fb-bb1b-b2934dd44d10
+- Perhaps there’s an element of imposter syndrome, too; we may think that this project is beyond us. We can’t see our way through to the end; we’ll get so far and then be forced to admit that we’re lost.
+  ls-type:: annotation
+  hl-page:: 329
+  hl-color:: yellow
+  id:: 67964b36-1a49-4edb-8882-e21f09632c01
+- FIGHTING YOURSELF
+  ls-type:: annotation
+  hl-page:: 329
+  hl-color:: yellow
+  id:: 67964b3c-8f13-441b-a372-adda060ada02
+- Sometimes code just flies from your brain into the editor: ideas become bits with seemingly no effort
+  ls-type:: annotation
+  hl-page:: 329
+  hl-color:: yellow
+  id:: 67964b3e-930f-4251-9289-143a1e7541ea
+- Other days, coding feels like walking uphill in mud. Taking each step requires tremendous effort, and every three steps you slide back two.
+  ls-type:: annotation
+  hl-page:: 329
+  hl-color:: yellow
+  id:: 67964b42-5c31-4f71-8028-e5c0bda7e2da
