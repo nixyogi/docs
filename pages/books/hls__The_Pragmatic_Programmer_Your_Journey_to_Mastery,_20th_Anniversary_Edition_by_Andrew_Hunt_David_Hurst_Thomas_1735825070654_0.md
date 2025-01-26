@@ -3167,3 +3167,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 297
   hl-color:: yellow
   id:: 67960fb8-7fe1-40de-a46b-8e87a74845e1
+- IDENTIFYING OPPORTUNITIES IS THE EASY PART
+  ls-type:: annotation
+  hl-page:: 297
+  hl-color:: yellow
+  id:: 67960fc6-23f5-4c21-a67d-b1e7e6b7b5e5
+- We’ve identified places where it will benefit from concurrency and parallelism. Now for the tricky part: how can we implement it safely.
+  ls-type:: annotation
+  hl-page:: 297
+  hl-color:: yellow
+  id:: 67960fce-b945-45cd-8f62-74d331c39968
+- Topic 34 Shared State Is Incorrect State
+  ls-type:: annotation
+  hl-page:: 299
+  hl-color:: yellow
+  id:: 67960fd6-802d-44f4-a570-7c7f04f17d20
