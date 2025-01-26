@@ -3277,3 +3277,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 305
   hl-color:: yellow
   id:: 6796111c-f7f9-49cf-8630-011c36d3cc04
+- We could fix this by adding a method to the case that lets us return a slice of pie. We’ll need to add exception handling to ensure we don’t keep resources if something fails
+  ls-type:: annotation
+  hl-page:: 305
+  hl-color:: yellow
+  id:: 67961127-3620-469d-b406-75a2fd3e3724
+- Again, this is less than ideal. The code is now really ugly: working out what it actually does is difficult: the business logic is buried in all the housekeeping.
+  ls-type:: annotation
+  hl-page:: 305
+  hl-color:: yellow
+  id:: 67961138-1554-4a9d-a264-bea4e87a63df
+- The pragmatic approach would be to say that “apple pie à la mode” is its own resource. We’d move this code into a new module, and then the
+  ls-type:: annotation
+  hl-page:: 305
+  hl-color:: yellow
+  id:: 6796114d-c86e-4d59-8f5d-62275117cd71
+- client could just say “get me apple pie with ice cream” and it either succeeds or fails.
+  ls-type:: annotation
+  hl-page:: 306
+  hl-color:: yellow
+  id:: 67961154-3f89-4bdb-991c-3c2c97c953b8
