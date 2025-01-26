@@ -3377,3 +3377,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 310
   hl-color:: yellow
   id:: 67964601-062e-41af-ac0b-51e00c6a3c6d
+- While You Are Coding
+  ls-type:: annotation
+  hl-page:: 324
+  hl-color:: yellow
+  id:: 679646c3-a018-4b3b-b068-393d291f2eb9

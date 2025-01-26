@@ -22951,5 +22951,22 @@
                                    :height 1319.9999999999998}),
                           :page 310},
                :content {:text "There are a few things that you won’t find in the definition of actors: There’s no single thing that’s in control. Nothing schedules what happens next, or orchestrates the transfer of information from the raw data to the final output. The only state in the system is held in messages and in the local state of each actor. Messages cannot be examined except by being read by their recipient, and local state is inaccessible outside the actor. All messages are one way—there’s no concept of replying. If you want an actor to return a response, you include your own mailbox address in the message you send it, and it will (eventually) send the response as just another message to that mailbox. An actor processes each message to completion, and only processes one message at a time."},
+               :properties {:color "yellow"}}
+              {:id #uuid "679646c3-a018-4b3b-b068-393d291f2eb9",
+               :page 324,
+               :position {:bounding {:x1 333.9375,
+                                     :y1 363.5625,
+                                     :x2 854.7875366210938,
+                                     :y2 419.5625,
+                                     :width 1019.9999999999999,
+                                     :height 1319.9999999999998},
+                          :rects ({:x1 333.9375,
+                                   :y1 363.5625,
+                                   :x2 854.7875366210938,
+                                   :y2 419.5625,
+                                   :width 1019.9999999999999,
+                                   :height 1319.9999999999998}),
+                          :page 324},
+               :content {:text "While You Are Coding"},
                :properties {:color "yellow"}}],
- :extra {:page 310}}
+ :extra {:page 324}}
