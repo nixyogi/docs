@@ -3312,3 +3312,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 306
   hl-color:: yellow
   id:: 679640ee-7716-4f12-ada6-5d534a52bbc5
+- Tip 58 Random Failures Are Often Concurrency Issues
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: yellow
+  id:: 6796456a-594a-408c-a79f-b530e778b094
+- OTHER KINDS OF EXCLUSIVE ACCESS
+  ls-type:: annotation
+  hl-page:: 307
+  hl-color:: yellow
+  id:: 67964570-ade1-410a-a81c-45d652df4b02
