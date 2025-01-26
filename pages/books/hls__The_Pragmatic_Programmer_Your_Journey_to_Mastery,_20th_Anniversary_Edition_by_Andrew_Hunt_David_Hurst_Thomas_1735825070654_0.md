@@ -3297,3 +3297,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 306
   hl-color:: yellow
   id:: 67961154-3f89-4bdb-991c-3c2c97c953b8
+- NON-TRANSACTIONAL UPDATES
+  ls-type:: annotation
+  hl-page:: 306
+  hl-color:: yellow
+  id:: 67961165-f79c-4e6d-9506-e3db73491470
