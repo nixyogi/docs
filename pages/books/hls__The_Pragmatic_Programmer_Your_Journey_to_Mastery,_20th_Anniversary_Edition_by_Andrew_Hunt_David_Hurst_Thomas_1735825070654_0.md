@@ -3182,3 +3182,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 299
   hl-color:: yellow
   id:: 67960fd6-802d-44f4-a570-7c7f04f17d20
+- a joint bank account, and turn the waitstaff into point-of-sale devices. You and your partner both decide to buy a new phone at the same time, but there’s only enough in the account for one. Someone—the bank, the store, or you—is going to be very unhappy.
+  ls-type:: annotation
+  hl-page:: 299
+  hl-color:: yellow
+  id:: 67960ffe-e6d3-415c-8be0-57ab17bed2ea
+- Tip 57 Shared State Is Incorrect State
+  ls-type:: annotation
+  hl-page:: 299
+  hl-color:: yellow
+  id:: 67961004-0e5d-457e-8f0c-fa3a359f07a4
+- The problem is the shared state
+  ls-type:: annotation
+  hl-page:: 299
+  hl-color:: yellow
+  id:: 6796100c-287d-43dd-9e16-ed1e0e13d005
+- Each point-of-sale device looked at an account balance without regard for the other.
+  ls-type:: annotation
+  hl-page:: 299
+  hl-color:: yellow
+  id:: 67961011-6280-4863-a9fa-1a9f85ab9454
+- NONATOMIC UPDATES
+  ls-type:: annotation
+  hl-page:: 299
+  hl-color:: yellow
+  id:: 6796101a-eb62-4331-a0bb-398c2924986a
