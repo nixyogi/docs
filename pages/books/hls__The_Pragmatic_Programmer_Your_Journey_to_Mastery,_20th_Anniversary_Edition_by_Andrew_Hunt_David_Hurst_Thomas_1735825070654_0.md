@@ -3302,3 +3302,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 306
   hl-color:: yellow
   id:: 67961165-f79c-4e6d-9506-e3db73491470
+- A lot of attention is given to shared memory as a source of concurrency problems, but in fact the problems can pop up anywhere where your application code shares mutable resources: files, databases, external services, and so on.
+  ls-type:: annotation
+  hl-page:: 306
+  hl-color:: yellow
+  id:: 679640e7-9812-47c2-89f1-5e04d0c68628
+- Whenever two or more instances of your code can access some resource at the same time, you’re looking at a potential problem.
+  ls-type:: annotation
+  hl-page:: 306
+  hl-color:: yellow
+  id:: 679640ee-7716-4f12-ada6-5d534a52bbc5
