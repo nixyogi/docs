@@ -3617,3 +3617,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 343
   hl-color:: yellow
   id:: 67964e25-de85-48f8-b8df-c1348aeff58f
+- there is another kind of estimating that Pragmatic Programmers use almost daily: estimating the resources that algorithms use—time, processor, memory, and so on. This kind of estimating is often crucial.
+  ls-type:: annotation
+  hl-page:: 343
+  hl-color:: yellow
+  id:: 67964e34-a740-4fd5-8cb8-5f81df1f35ba
+- WHAT DO WE MEAN BY ESTIMATING ALGORITHMS?
+  ls-type:: annotation
+  hl-page:: 343
+  hl-color:: yellow
+  id:: 67964e41-c5cf-4ff2-94de-20eed3d95002
+- Most nontrivial algorithms handle some kind of variable input
+  ls-type:: annotation
+  hl-page:: 343
+  hl-color:: yellow
+  id:: 67964e4f-d204-4dca-b5dd-bba5d5668ccc
+- If the relationship were always linear (so that the time increased in direct proportion to the value of )
+  ls-type:: annotation
+  hl-page:: 343
+  hl-color:: yellow
+  id:: 67964e5a-87f4-4964-9410-cccb18126ab5
