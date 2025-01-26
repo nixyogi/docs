@@ -3237,3 +3237,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 302
   hl-color:: yellow
   id:: 679610a5-0338-4736-8813-4466dbec750d
+- There are some problems with this approach. Probably the most significant is that it only works because everyone who accesses the pie case agrees on the convention of using the semaphore. If someone forgets (that is, some developer writes code that doesn’t follow the convention) then we’re back in chaos.
+  ls-type:: annotation
+  hl-page:: 302
+  hl-color:: yellow
+  id:: 679610b2-648f-4ad7-8adc-1a6b0c3fbfe3
+- Make the Resource Transactional
+  ls-type:: annotation
+  hl-page:: 302
+  hl-color:: yellow
+  id:: 679610b8-b7c7-4ce7-9825-3c81ee5a93a9
+- The current design is poor because it delegates responsibility for protecting access to the pie case to the people who use it
+  ls-type:: annotation
+  hl-page:: 302
+  hl-color:: yellow
+  id:: 679610c1-eaac-4ef7-bfd0-e3fef622417f
+- Let’s change it to centralize that control. To do this, we have to change the API so that waiters can check the count and also take a slice of pie in a single call
+  ls-type:: annotation
+  hl-page:: 302
+  hl-color:: yellow
+  id:: 679610cb-31ba-4a50-bfca-fb038b54c708
