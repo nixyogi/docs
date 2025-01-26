@@ -3592,3 +3592,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 339
   hl-color:: yellow
   id:: 67964da6-0c70-4350-bc11-dc0bdd21d005
+- Implicit Assumptions Coincidences can mislead at all levels—from generating requirements through to testing. Testing is particularly fraught with false causalities and coincidental outcomes. 
+  ls-type:: annotation
+  hl-page:: 339
+  hl-color:: yellow
+  id:: 67964db3-ec01-4778-9b4e-5fc190c0ca2d
+- HOW TO PROGRAM DELIBERATELY
+  ls-type:: annotation
+  hl-page:: 339
+  hl-color:: yellow
+  id:: 67964dbf-22ae-4a90-981b-a1da1db830ac
+- We want to spend less time churning out code, catch and fix errors as early in the development cycle as possible, and create fewer errors to begin with. It helps if we can program deliberately: Always be aware of what you are doing. Fred let things get slowly out of hand, until he ended up boiled, like the frog here. Can you explain the code, in detail, to a more junior programmer? If not, perhaps you are relying on coincidences. Don’t code in the dark. Build an application you don’t fully grasp, or use a technology you don’t understand, and you’ll likely be bitten by coincidences. If you’re not sure why it works, you won’t know why it fails. Proceed from a plan, whether that plan is in your head, on the back of a cocktail napkin, or on a whiteboard.
+  ls-type:: annotation
+  hl-page:: 339
+  hl-color:: yellow
+  id:: 67964dc8-4325-4afe-8a29-0005243c736e
