@@ -3702,3 +3702,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 350
   hl-color:: yellow
   id:: 67965549-8e54-4fb6-a403-62e82580d0bb
+- Topic 40 Refactoring
+  ls-type:: annotation
+  hl-page:: 354
+  hl-color:: yellow
+  id:: 67978315-9aef-43cd-90a8-1132f4629723
+- As a program evolves, it will become necessary to rethink earlier decisions and rework portions of the code. This process is perfectly natural. Code needs to evolve; it’s not a static thing.
+  ls-type:: annotation
+  hl-page:: 354
+  hl-color:: yellow
+  id:: 6797831f-c7a9-4cce-b215-a5de2cbfd366
