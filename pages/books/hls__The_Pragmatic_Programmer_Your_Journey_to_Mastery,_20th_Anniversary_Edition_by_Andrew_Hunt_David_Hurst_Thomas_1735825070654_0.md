@@ -3712,3 +3712,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 354
   hl-color:: yellow
   id:: 6797831f-c7a9-4cce-b215-a5de2cbfd366
+- Rather than construction, software is more like gardening—it is more organic than concrete. You plant many things in a garden according to an initial plan and conditions. Some thrive, others are destined to end up as compost. 
+  ls-type:: annotation
+  hl-page:: 354
+  hl-color:: yellow
+  id:: 6797833b-2cb2-46b5-a253-c76c6589b02b
+- Overgrown plants get split or pruned, and colors that clash may get moved to more aesthetically pleasing locations. 
+  ls-type:: annotation
+  hl-page:: 355
+  hl-color:: yellow
+  id:: 67978346-8c70-4a43-b48e-b9178223a478
