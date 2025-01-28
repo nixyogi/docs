@@ -3812,3 +3812,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 365
   hl-color:: yellow
   id:: 6798f580-48b2-4782-b8b9-1d523b1668e0
+- Tip 68 Build End-to-End, Not Top-Down or Bottom Up
+  ls-type:: annotation
+  hl-page:: 366
+  hl-color:: yellow
+  id:: 6798f58c-4ff6-4251-afa6-c1dc38b057ef
