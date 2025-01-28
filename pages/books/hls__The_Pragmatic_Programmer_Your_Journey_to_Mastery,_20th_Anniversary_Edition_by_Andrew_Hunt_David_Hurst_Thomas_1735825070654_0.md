@@ -3732,3 +3732,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 356
   hl-color:: yellow
   id:: 6798f3df-f23b-48a0-b33a-af2dd692f5c7
+- Duplication You’ve discovered a violation of the DRY principle. Nonorthogonal design You’ve discovered something that could be made more orthogonal.
+  ls-type:: annotation
+  hl-page:: 356
+  hl-color:: yellow
+  id:: 6798f3e5-4ec1-43e7-86f3-e9b96bee8cc1
+- Outdated knowledge Things change, requirements drift, and your knowledge of the problem increases. Code needs to keep up. Usage As the system gets used by real people under real circumstances, you realize some features are now more important than previously thought, and “must have” features perhaps weren’t. Performance You need to move functionality from one area of the system to another to improve performance. The Tests Pass Yes. Seriously. We did say that refactoring should be a small scale activity, backed up by good tests. 
+  ls-type:: annotation
+  hl-page:: 357
+  hl-color:: yellow
+  id:: 6798f3fa-afd0-4855-9147-5d3bbd54e766
+- Tip 65 Refactor Early, Refactor Often
+  ls-type:: annotation
+  hl-page:: 358
+  hl-color:: yellow
+  id:: 6798f40b-ea24-45b8-9705-5cea4fe31815
