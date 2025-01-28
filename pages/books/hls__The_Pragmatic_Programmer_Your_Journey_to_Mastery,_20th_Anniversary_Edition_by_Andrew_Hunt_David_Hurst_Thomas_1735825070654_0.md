@@ -3847,3 +3847,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 370
   hl-color:: yellow
   id:: 6798f66b-dddd-4afe-874c-e14651970df2
+- BUILD A TEST WINDOW
+  ls-type:: annotation
+  hl-page:: 371
+  hl-color:: yellow
+  id:: 6798f689-939a-46cb-a11a-587246054c9b
+- This means you’ll often need to test a piece of software once it has been deployed—with real-world data flowing though its veins. Unlike a circuit board or chip, we don’t have test pins in software, but we can provide various views into the internal state of a module, without using the debugger (which may be inconvenient or impossible in a production application).
+  ls-type:: annotation
+  hl-page:: 371
+  hl-color:: yellow
+  id:: 6798f69f-ef33-4732-b3a6-15de118fd752
+- Log files containing trace messages are one such mechanism. Log messages should be in a regular, consistent format; you may want to parse them automatically to deduce processing time or logic paths that the program took.
+  ls-type:: annotation
+  hl-page:: 371
+  hl-color:: yellow
+  id:: 6798f6aa-33aa-49d5-96e0-df12e057f908
