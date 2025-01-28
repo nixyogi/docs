@@ -3877,3 +3877,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 372
   hl-color:: yellow
   id:: 6798f6fc-5b32-44ce-8274-19e8e36475c6
+- Treat test code with the same care as any production code. Keep it decoupled, clean, and robust.
+  ls-type:: annotation
+  hl-page:: 373
+  hl-color:: yellow
+  id:: 6798f71f-114d-49fe-996f-1ba93753765d
+- Tip 70 Test Your Software, or Your Users Wil
+  ls-type:: annotation
+  hl-page:: 373
+  hl-color:: yellow
+  id:: 6798f728-eed2-47ab-9537-d51731b3accc
