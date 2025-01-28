@@ -3827,3 +3827,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 367
   hl-color:: yellow
   id:: 6798f5d8-62f4-4522-8196-72c455e04085
+- Like our hardware colleagues, we need to build testability into the software from the very beginning, and test each piece thoroughly before trying to wire them together.
+  ls-type:: annotation
+  hl-page:: 367
+  hl-color:: yellow
+  id:: 6798f5fc-8545-4e2c-a2a3-5170f90b039a
+- UNIT TESTING
+  ls-type:: annotation
+  hl-page:: 368
+  hl-color:: yellow
+  id:: 6798f600-eab6-4ea7-8566-eeb4c91834cd
