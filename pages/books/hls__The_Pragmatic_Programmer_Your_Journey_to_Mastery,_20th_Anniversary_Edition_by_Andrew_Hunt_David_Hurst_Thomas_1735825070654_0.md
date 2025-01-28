@@ -3752,3 +3752,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 359
   hl-color:: yellow
   id:: 6798f439-7e49-4cf1-b335-4fae9778731a
+- Manage the pain: if it hurts now, but is going to hurt even more later, you might as well get it over with
+  ls-type:: annotation
+  hl-page:: 360
+  hl-color:: yellow
+  id:: 6798f45a-8b82-407c-b6d6-ce272f16d1e1
+- Topic 41 Test to Code
+  ls-type:: annotation
+  hl-page:: 361
+  hl-color:: yellow
+  id:: 6798f45e-c42f-44a0-b512-0e331183c279
+- Tip 66 Testing Is Not About Finding Bugs
+  ls-type:: annotation
+  hl-page:: 361
+  hl-color:: yellow
+  id:: 6798f47c-885a-43cc-99c6-d8786a29074d
+- We believe that the major benefits of testing happen when you think about and write the tests, not when you run them.
+  ls-type:: annotation
+  hl-page:: 361
+  hl-color:: yellow
+  id:: 6798f48a-2cb7-4980-b9fd-ca9b1eb55cc8
+- THINKING ABOUT TESTS
+  ls-type:: annotation
+  hl-page:: 362
+  hl-color:: yellow
+  id:: 6798f48f-aaf3-4886-91ff-c71f3203c0c8
