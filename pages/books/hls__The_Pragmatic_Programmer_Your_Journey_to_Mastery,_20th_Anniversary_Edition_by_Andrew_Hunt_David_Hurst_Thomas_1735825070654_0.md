@@ -3747,3 +3747,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 358
   hl-color:: yellow
   id:: 6798f40b-ea24-45b8-9705-5cea4fe31815
+- Martin Fowler offers the following simple tips on how to refactor without doing more harm than good:1. Don’t try to refactor and add functionality at the same time.2. Make sure you have good tests before you begin refactoring. Run the tests as often as possible. That way you will know quickly if your changes have broken anything.3. Take short, deliberate steps: move a field from one class to another, split a method, rename a variable. Refactoring often involves making many localized changes that result in a larger-scale change. If you keep your steps small, and test after each step, you will avoid prolonged debugging
+  ls-type:: annotation
+  hl-page:: 359
+  hl-color:: yellow
+  id:: 6798f439-7e49-4cf1-b335-4fae9778731a
