@@ -3722,3 +3722,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 355
   hl-color:: yellow
   id:: 67978346-8c70-4a43-b48e-b9178223a478
+- You refactor when you’ve learned something; when you understand something better than you did last year, yesterday, or even just ten minutes ago.
+  ls-type:: annotation
+  hl-page:: 356
+  hl-color:: yellow
+  id:: 6798f3d3-b666-465a-b35d-01ab09c7c8f5
+- Perhaps you’ve come across a stumbling block because the code doesn’t quite fit anymore, or you notice two things that should really be merged, or anything else at all strikes you as being“wrong,” don’t hesitate to change it.
+  ls-type:: annotation
+  hl-page:: 356
+  hl-color:: yellow
+  id:: 6798f3df-f23b-48a0-b33a-af2dd692f5c7
