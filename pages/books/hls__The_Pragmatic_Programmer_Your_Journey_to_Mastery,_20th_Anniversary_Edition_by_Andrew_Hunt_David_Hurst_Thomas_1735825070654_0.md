@@ -3792,3 +3792,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 363
   hl-color:: yellow
   id:: 6798f4cf-0190-4274-b458-f449a0789476
+- A function or method that is tightly coupled to other code is hard to test, because you have to set up all that environment before you can even run your method. So making your stuff testable also reduces its coupling
+  ls-type:: annotation
+  hl-page:: 363
+  hl-color:: yellow
+  id:: 6798f52d-5de9-4c35-8839-aaaf67f933ba
