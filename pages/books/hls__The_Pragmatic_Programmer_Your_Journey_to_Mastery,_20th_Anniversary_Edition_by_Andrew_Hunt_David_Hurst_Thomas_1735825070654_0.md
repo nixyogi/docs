@@ -3787,3 +3787,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 363
   hl-color:: yellow
   id:: 6798f4c5-4504-402b-b1d8-0049e818cd62
+- Tip 67 A Test Is the First User of Your Code
+  ls-type:: annotation
+  hl-page:: 363
+  hl-color:: yellow
+  id:: 6798f4cf-0190-4274-b458-f449a0789476
