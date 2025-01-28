@@ -3837,3 +3837,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 368
   hl-color:: yellow
   id:: 6798f600-eab6-4ea7-8566-eeb4c91834cd
+- We like to think of unit testing as testing against contract (see Topic 23, Design by Contract). We want to write test cases that ensure that a given unit honors its contract. This will tell us two things: whether the code meets the contract, and whether the contract means what we think it means.
+  ls-type:: annotation
+  hl-page:: 368
+  hl-color:: yellow
+  id:: 6798f651-2371-47b0-bca5-1d4bc5d1af7e
+- Tip 69 Design to Test
+  ls-type:: annotation
+  hl-page:: 370
+  hl-color:: yellow
+  id:: 6798f66b-dddd-4afe-874c-e14651970df2
