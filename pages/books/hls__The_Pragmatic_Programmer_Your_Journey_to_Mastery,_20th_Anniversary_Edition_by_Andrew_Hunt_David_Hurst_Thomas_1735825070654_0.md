@@ -3817,3 +3817,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 366
   hl-color:: yellow
   id:: 6798f58c-4ff6-4251-afa6-c1dc38b057ef
+- Tests can definitely help drive development. But, as with every drive, unless you have a destination in mind, you can end up going in circles.
+  ls-type:: annotation
+  hl-page:: 367
+  hl-color:: yellow
+  id:: 6798f5cf-2011-4249-b54e-43a41dad47c9
+- BACK TO THE CODE
+  ls-type:: annotation
+  hl-page:: 367
+  hl-color:: yellow
+  id:: 6798f5d8-62f4-4522-8196-72c455e04085
