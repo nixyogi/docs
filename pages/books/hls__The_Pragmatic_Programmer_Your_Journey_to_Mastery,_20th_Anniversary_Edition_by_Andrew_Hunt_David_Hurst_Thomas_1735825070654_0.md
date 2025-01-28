@@ -3777,3 +3777,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 362
   hl-color:: yellow
   id:: 6798f48f-aaf3-4886-91ff-c71f3203c0c8
+- TESTS DRIVE CODING
+  ls-type:: annotation
+  hl-page:: 363
+  hl-color:: yellow
+  id:: 6798f4bd-2f00-433b-a585-3912651470d0
+- Thinking about writing a test for our method made us look at it from the outside, as if we were a client of the code, and not its author.
+  ls-type:: annotation
+  hl-page:: 363
+  hl-color:: yellow
+  id:: 6798f4c5-4504-402b-b1d8-0049e818cd62

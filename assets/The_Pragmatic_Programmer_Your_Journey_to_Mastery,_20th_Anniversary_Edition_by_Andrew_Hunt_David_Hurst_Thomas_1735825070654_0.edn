@@ -25859,5 +25859,22 @@
                                    :height 1319.9999999999998}),
                           :page 362},
                :content {:text "THINKING ABOUT TESTS"},
+               :properties {:color "yellow"}}
+              {:id #uuid "6798f4bd-2f00-433b-a585-3912651470d0",
+               :page 363,
+               :position {:bounding {:x1 151.265625,
+                                     :y1 520.046875,
+                                     :x2 443.190673828125,
+                                     :y2 548.046875,
+                                     :width 1019.9999999999999,
+                                     :height 1319.9999999999998},
+                          :rects ({:x1 151.265625,
+                                   :y1 520.046875,
+                                   :x2 443.190673828125,
+                                   :y2 548.046875,
+                                   :width 1019.9999999999999,
+                                   :height 1319.9999999999998}),
+                          :page 363},
+               :content {:text "TESTS DRIVE CODING"},
                :properties {:color "yellow"}}],
- :extra {:page 362}}
+ :extra {:page 363}}
