@@ -3867,3 +3867,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 372
   hl-color:: yellow
   id:: 6798f6e9-9c6b-4204-8fa2-1fab5fe02542
+- A CULTURE OF TESTING
+  ls-type:: annotation
+  hl-page:: 372
+  hl-color:: yellow
+  id:: 6798f6f5-c122-4acb-8287-2f64b46a2ad9
+- All software you write will be tested—if not by you and your team, then by the eventual users—so you might as well plan on testing it thoroughly. 
+  ls-type:: annotation
+  hl-page:: 372
+  hl-color:: yellow
+  id:: 6798f6fc-5b32-44ce-8274-19e8e36475c6
