@@ -3797,3 +3797,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 363
   hl-color:: yellow
   id:: 6798f52d-5de9-4c35-8839-aaaf67f933ba
+- If you think about testing boundary conditions and how that will work before you start coding, you may well find the patterns in the logic that’ll simplify the function. If you think about the error conditions you’ll need to test, you’ll structure your function accordingly
+  ls-type:: annotation
+  hl-page:: 364
+  hl-color:: yellow
+  id:: 6798f547-624e-417e-a215-b1d32981d7df
+- The basic cycle of TDD is:1. Decide on a small piece of functionality you want to add.2. Write a test that will pass once that functionality is implemented.3. Run all tests. Verify that the only failure is the one you just wrote.4. Write the smallest amount of code needed to get the test to pass, and verify that the tests now run cleanly.5. Refactor your code: see if there is a way to improve on what you just wrote (the test or the function). Make sure the tests still pass when you’re done
+  ls-type:: annotation
+  hl-page:: 364
+  hl-color:: yellow
+  id:: 6798f55c-b9dc-4af5-8337-26b8a56526e9
+- However, we’ve also seen people become slaves to TDD. This manifests itself in a number of ways: They spend inordinate amounts of time ensuring that they always have 100% test coverage. They have lots of redundant tests. For example, before writing a class for the first time, many TDD adherents will first write a failing test that simply references the class’s name. It fails, then they write an empty class definition and it passes. But now you have a test that does absolutely nothing; the next test you write will also reference the class, and so it makes the first unnecessary. There’s more stuff to change if the class name changes later. And this is just a trivial example. Their designs tend to start at the bottom and work their way up.(See Bottom-Up vs. Top-Down vs. The Way You Should Do It.)
+  ls-type:: annotation
+  hl-page:: 365
+  hl-color:: yellow
+  id:: 6798f580-48b2-4782-b8b9-1d523b1668e0
