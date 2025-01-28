@@ -3862,3 +3862,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 371
   hl-color:: yellow
   id:: 6798f6aa-33aa-49d5-96e0-df12e057f908
+- But that ignores the fact that tests are also a way of communicating with other developers, so I now do write tests on code shared with others or that relies on the peculiarities of external dependencies
+  ls-type:: annotation
+  hl-page:: 372
+  hl-color:: yellow
+  id:: 6798f6e9-9c6b-4204-8fa2-1fab5fe02542
