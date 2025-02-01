@@ -4522,3 +4522,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 425
   hl-color:: yellow
   id:: 679df4e1-2525-4b5e-80be-342d83e449c3
+- And that’s what we really mean by “working with”: not just asking questions, having discussions, and taking notes, but asking questions and having discussions while you’re actually coding
+  ls-type:: annotation
+  hl-page:: 425
+  hl-color:: yellow
+  id:: 679df4ea-1bec-4379-baab-860a09f2bab9
+- PAIR PROGRAMMING Pair programming is one of the practices of eXtreme Programming that has become popular outside of XP itself. In pair programming, one developer operates the keyboard, and
+  ls-type:: annotation
+  hl-page:: 425
+  hl-color:: yellow
+  id:: 679df515-bb66-4332-95fe-38e73cb2c268
+- the other does not. Both work on the problem together, and can switch typing duties as needed
+  ls-type:: annotation
+  hl-page:: 426
+  hl-color:: yellow
+  id:: 679df51c-5cd5-428e-9eff-f6555132b6cd
