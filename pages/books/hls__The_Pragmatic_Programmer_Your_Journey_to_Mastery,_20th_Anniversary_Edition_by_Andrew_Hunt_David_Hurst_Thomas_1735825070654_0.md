@@ -5017,3 +5017,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 455
   hl-color:: yellow
   id:: 679e0494-42ac-4c38-a1aa-8606f5f4b5cd
+- The build may cover several major types of software testing: unit testing; integration testing; validation and verification; and performance testing. This list is by no means complete, and some specialized projects will require various other types of testing as well. But it gives us a good starting point
+  ls-type:: annotation
+  hl-page:: 455
+  hl-color:: yellow
+  id:: 679e049f-fc42-4762-ac49-313cb9b86344
+- Unit Testing
+  ls-type:: annotation
+  hl-page:: 455
+  hl-color:: yellow
+  id:: 679e04a5-c466-41af-ba5d-4aefd72fafda
+- A unit test is code that exercises a module. We covered this in Topic 41, Test to Code. Unit testing is the foundation of all the other forms of testing that we’ll discuss in this section. If the parts don’t work by themselves, they probably won’t work well together. 
+  ls-type:: annotation
+  hl-page:: 455
+  hl-color:: yellow
+  id:: 679e04af-dba7-41a3-b645-fca88284d256
+- Integration Testing Integration testing shows that the major subsystems that make up the project work and play well with each other. With good contracts in place and well tested, any integration issues can be detected easily. 
+  ls-type:: annotation
+  hl-page:: 456
+  hl-color:: yellow
+  id:: 679e04c0-30f1-4176-acd6-0bcee6dc1a80
+- Validation and Verification As soon as you have an executable user interface or prototype, you need to answer an all-important question: the users told you what they wanted, but is it what they need?
+  ls-type:: annotation
+  hl-page:: 456
+  hl-color:: yellow
+  id:: 679e04cc-d976-42b7-a5a1-a4940ae88f8d
+- Does it meet the functional requirements of the system? This, too, needs to be tested.
+  ls-type:: annotation
+  hl-page:: 456
+  hl-color:: yellow
+  id:: 679e04d2-559e-4cb5-88d9-c453011f125c
