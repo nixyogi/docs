@@ -4802,3 +4802,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 441
   hl-color:: yellow
   id:: 679e01f2-4c77-4bc3-8c30-bdfa476f61da
+- There is a simple marketing trick that helps teams communicate as one: generate a brand. When you start a project, come up with a name for it, ideally something off-the-wal
+  ls-type:: annotation
+  hl-page:: 441
+  hl-color:: yellow
+  id:: 679e020b-1511-4f65-8406-4ce94333ed90
+- Spend 30 minutes coming up with a zany logo, and use it. Use your team’s name liberally when talking with people.
+  ls-type:: annotation
+  hl-page:: 441
+  hl-color:: yellow
+  id:: 679e0215-e9e7-43c0-b5bb-310d3e3b4df6
+- DON’T REPEAT YOURSELVES
+  ls-type:: annotation
+  hl-page:: 442
+  hl-color:: yellow
+  id:: 679e0219-d46f-4085-a8f0-c4d42844d9d8
+- Frictionless means it’s easy and low-ceremony to ask questions, share your progress, your problems, your insights and learnings, and to stay aware of what your teammates are doing. Maintain awareness to stay DRY
+  ls-type:: annotation
+  hl-page:: 442
+  hl-color:: yellow
+  id:: 679e0236-8f62-4d26-abcf-4875f4e0ed06
+- TEAM TRACER BULLETS
+  ls-type:: annotation
+  hl-page:: 442
+  hl-color:: yellow
+  id:: 679e023c-dbfb-4721-9a58-04139f323a81
