@@ -4902,3 +4902,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 449
   hl-color:: yellow
   id:: 679e0364-327b-469f-a3d7-5b7484412af1
+- The goal of course isn’t to “do Scrum,” “do agile,” “do Lean,” or what-have-you. The goal is to be in a position to deliver working software that gives the users some new capability at a moment’s notice. Not weeks, months, or years from now, but now
+  ls-type:: annotation
+  hl-page:: 449
+  hl-color:: yellow
+  id:: 679e0373-dcdc-45cc-b54d-0259348029cf
+- Tip 88 Deliver When Users Need I
+  ls-type:: annotation
+  hl-page:: 450
+  hl-color:: yellow
+  id:: 679e0394-7d25-49f7-acba-e5fb1680fc48
+- In order to move to this style of continuous development, you need a rock-solid infrastructure,
+  ls-type:: annotation
+  hl-page:: 450
+  hl-color:: yellow
+  id:: 679e03a8-4650-42a8-b807-975c4048ccb1
