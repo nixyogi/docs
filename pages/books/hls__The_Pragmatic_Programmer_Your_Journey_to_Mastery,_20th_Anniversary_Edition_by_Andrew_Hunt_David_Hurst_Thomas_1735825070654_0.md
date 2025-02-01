@@ -4862,3 +4862,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 446
   hl-color:: yellow
   id:: 679e02a3-c29c-421c-b136-a91881eb5d2e
+- It’s easy and tempting to fall into the cargo cult trap: by investing in and building up the easily-visible artifacts, you hope to attract the underlying, working magic. But as with the original cargo cults of Melanesia, a fake airport made out of coconut shells is no substitute for the real thing.
+  ls-type:: annotation
+  hl-page:: 446
+  hl-color:: yellow
+  id:: 679e02cf-08a3-49a3-8632-152f463abf78
+- CONTEXT MATTERS
+  ls-type:: annotation
+  hl-page:: 447
+  hl-color:: yellow
+  id:: 679e02e5-12d3-4936-a991-f1fc55c172da
