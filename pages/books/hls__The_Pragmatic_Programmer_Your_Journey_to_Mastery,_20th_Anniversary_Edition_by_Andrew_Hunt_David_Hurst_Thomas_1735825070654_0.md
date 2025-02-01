@@ -4642,3 +4642,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-color:: yellow
   id:: 679dfe06-7dd0-4180-b1cb-4b5b609c1278
   1. Work out where you are
+- ls-type:: annotation
+  hl-page:: 432
+  hl-color:: yellow
+  id:: 679dfe0f-e746-4159-bdde-8a6ae2dd50bf
+  2. Make the smallest meaningful step towards where you want to be.
+- ls-type:: annotation
+  hl-page:: 432
+  hl-color:: yellow
+  id:: 679dfe12-fbda-46a0-aeee-04c0e942bacb
+  3. Evaluate where you end up, and fix anything you broke
+- Repeat these steps until you’re done. And use them recursively, at every level of everything you do
+  ls-type:: annotation
+  hl-page:: 432
+  hl-color:: yellow
+  id:: 679dfe1b-0164-46c3-8291-b74e6a464527
+- The feedback loop also applies at the highest level of a project. Some of our most successful work has happened when we started working on a client’s requirements, took a single step, and realized that what we were about to do wasn’t necessary, that the best solution didn’t even involve software
+  ls-type:: annotation
+  hl-page:: 433
+  hl-color:: yellow
+  id:: 679dfe34-6854-4eef-b38b-3cc68551b6a6
+- A team that doesn’t continuously experiment with their process is not an agile team
+  ls-type:: annotation
+  hl-page:: 433
+  hl-color:: yellow
+  id:: 679dfe42-a4a8-4c30-a8c5-c28f539340d2
