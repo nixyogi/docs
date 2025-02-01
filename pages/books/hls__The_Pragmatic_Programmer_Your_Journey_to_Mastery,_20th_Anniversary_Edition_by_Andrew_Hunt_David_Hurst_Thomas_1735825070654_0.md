@@ -4987,3 +4987,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 454
   hl-color:: yellow
   id:: 679e0455-5a46-43f0-b641-a04af514e793
+- Finding bugs is somewhat like fishing with a net. We use fine, small nets (unit tests) to catch the minnows, and big, coarse nets (integration tests) to catch the killer sharks. Sometimes the fish manage to escape, so we patch any holes that we find, in hopes of catching more and more slippery defects that are swimming about in our project pool.
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e0464-9ab0-45c4-9a23-6e11741ebac4
+- Tip 90 Test Early, Test Often, Test Automatically
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e046f-8e97-4ffe-80df-4cb21eb1d96a
+- We want to start testing as soon as we have code. Those tiny minnows have a nasty habit of becoming giant, man-eating sharks pretty fast, and catching a shark is quite a bit harder. So we write unit tests. A lot of unit tests
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e047c-4c3b-44d5-8a84-a249078616e2
+- In fact, a good project may well have more test code than production code.
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e0484-a660-4e90-8165-2bb7af12d5af
+- Additionally, knowing that you’ve passed the test gives you a high degree of confidence that a piece of code is “done.’’
+  ls-type:: annotation
+  hl-page:: 455
+  hl-color:: yellow
+  id:: 679e048e-a5bc-4229-832c-d6536f7ddb00
+- Tip 91 Coding Ain’t Done ’Til All the Tests Run
+  ls-type:: annotation
+  hl-page:: 455
+  hl-color:: yellow
+  id:: 679e0494-42ac-4c38-a1aa-8606f5f4b5cd
