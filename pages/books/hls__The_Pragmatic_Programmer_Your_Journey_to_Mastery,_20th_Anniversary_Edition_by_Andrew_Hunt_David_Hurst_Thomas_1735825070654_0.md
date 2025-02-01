@@ -5192,3 +5192,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 464
   hl-color:: yellow
   id:: 679e0a37-6296-4183-a726-20bb66ffe5cd
+- Topic 53 Pride and Prejudice
+  ls-type:: annotation
+  hl-page:: 465
+  hl-color:: yellow
+  id:: 679e0a3e-2cc2-4965-889d-2bead2555ff3
+- Pragmatic Programmers don’t shirk from responsibility. Instead, we rejoice in accepting challenges and in making our expertise well known. If we are responsible for a design, or a piece of code, we do a job we can be proud of.
+  ls-type:: annotation
+  hl-page:: 465
+  hl-color:: yellow
+  id:: 679e0a46-cc84-49fa-90fd-84f8cec4d3c5
+- ip 97 Sign Your Work
+  ls-type:: annotation
+  hl-page:: 465
+  hl-color:: yellow
+  id:: 679e0a4c-cab1-4c50-94d3-7690cedf4e83
+- Artisans of an earlier age were proud to sign their work. You should be, too.
+  ls-type:: annotation
+  hl-page:: 465
+  hl-color:: yellow
+  id:: 679e0a5a-437e-46df-aac2-f7fa025ac2dc
+- Anonymity, especially on large projects, can provide a breeding ground for sloppiness, mistakes, sloth, and bad code
+  ls-type:: annotation
+  hl-page:: 466
+  hl-color:: yellow
+  id:: 679e0a6e-fe33-4c63-9e80-1935690f410e
