@@ -3887,3 +3887,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 373
   hl-color:: yellow
   id:: 6798f728-eed2-47ab-9537-d51731b3accc
+- Topic 42 Property-Based Testing
+  ls-type:: annotation
+  hl-page:: 375
+  hl-color:: yellow
+  id:: 679de457-c2f5-4f7d-9636-fefb4baf864a
