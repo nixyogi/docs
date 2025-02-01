@@ -4007,3 +4007,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 386
   hl-color:: yellow
   id:: 679de61a-c431-4d4f-9a2c-a25b97df2ccd
+- a handful of basic principles that you should always bear in mind:1. Minimize Attack Surface Area2. Principle of Least Privilege3. Secure Defaults4. Encrypt Sensitive Data5. Maintain Security Updates
+  ls-type:: annotation
+  hl-page:: 386
+  hl-color:: yellow
+  id:: 679de627-692a-4791-a266-86085b00dfdc
+- Minimize Attack Surface Area The attack surface area of a system is the sum of all access points where an attacker can enter data, extract data, or invoke execution of a service.
+  ls-type:: annotation
+  hl-page:: 387
+  hl-color:: yellow
+  id:: 679de63b-de73-4157-8925-d20ba3e39f6a
+- Code complexity leads to attack vectors Code complexity makes the attack surface larger, with more opportunities for unanticipated side effects.
+  ls-type:: annotation
+  hl-page:: 387
+  hl-color:: yellow
+  id:: 679de643-8744-4ffc-b3d2-33dc70341241
+- Input data is an attack vector Never trust data from an external entity, always sanitize it before passing it on to a database, view rendering, or other processing
+  ls-type:: annotation
+  hl-page:: 387
+  hl-color:: yellow
+  id:: 679de654-9fae-4e59-9c4f-5ac8b669356c
