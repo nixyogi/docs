@@ -5122,3 +5122,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 459
   hl-color:: yellow
   id:: 679e0944-286a-4c14-b06a-16ec135c508b
+- Once a human tester finds a bug, it should be the last time a human tester finds that bug. The automated tests should be modified to check for that particular bug from then on, every time, with no exceptions, no matter how trivial, and no matter how much the developer complains and says, “Oh, that will never happen again.”
+  ls-type:: annotation
+  hl-page:: 459
+  hl-color:: yellow
+  id:: 679e0950-e205-4699-bd70-8f2ba41f8faf
+- FULL AUTOMATION
+  ls-type:: annotation
+  hl-page:: 459
+  hl-color:: yellow
+  id:: 679e0957-385a-4bdf-9687-7473141e6d9e
+- Not surprisingly, every developer’s machine was loaded slightly differently. Subtle differences in the application’s behavior occurred when different developers ran the same code. Bugs would appear on one machine but not on others. Tracking down version differences of any one component usually revealed a surprise
+  ls-type:: annotation
+  hl-page:: 460
+  hl-color:: yellow
+  id:: 679e0977-6f79-40dc-bb58-323fdaae1a7f
+- Tip 95 Don’t Use Manual Procedures
+  ls-type:: annotation
+  hl-page:: 460
+  hl-color:: yellow
+  id:: 679e097d-6c9f-4c25-8a40-67dc9b0c1303
