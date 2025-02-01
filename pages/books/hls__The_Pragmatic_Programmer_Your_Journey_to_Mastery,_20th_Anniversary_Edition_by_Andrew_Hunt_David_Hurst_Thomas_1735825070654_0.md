@@ -4672,3 +4672,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 433
   hl-color:: yellow
   id:: 679dfe49-c673-445f-8ef8-ba310bac6bf7
+- In Topic 8, The Essence of Good Design we assert that the measure of design is how easy the result of that design is to change: a good design produces something that’s easier to change than a bad design.
+  ls-type:: annotation
+  hl-page:: 433
+  hl-color:: yellow
+  id:: 679dfeab-dbd7-4561-be37-8cb582f2486e
