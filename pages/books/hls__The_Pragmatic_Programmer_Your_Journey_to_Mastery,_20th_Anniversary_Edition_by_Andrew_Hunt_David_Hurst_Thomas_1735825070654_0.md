@@ -4472,3 +4472,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 421
   hl-color:: yellow
   id:: 679df3dd-4075-4387-b90b-ac8a9bd26851
+- Perhaps you are running late on the schedule now, or even despair of ever getting the system to work because this particular problem is “impossible.”
+  ls-type:: annotation
+  hl-page:: 421
+  hl-color:: yellow
+  id:: 679df3f7-e823-4cf8-bb92-befd7f4574e0
+- You’ll be amazed how often the answer will just pop into your head when you deliberately distract yourself
+  ls-type:: annotation
+  hl-page:: 421
+  hl-color:: yellow
+  id:: 679df410-394d-4f49-881a-4da96b1d88aa
