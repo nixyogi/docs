@@ -4207,3 +4207,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 405
   hl-color:: yellow
   id:: 679de995-72ce-4415-b7fa-718a2bdfd594
+- THE REQUIREMENTS MYTH In the early days of software, computers were more valuable (in terms of amortized cost per hour) than the people who worked with them.
+  ls-type:: annotation
+  hl-page:: 405
+  hl-color:: yellow
+  id:: 679de9a9-7c24-401b-9b0b-617330dae2a0
+- We saved money by trying to get things correct the
+  ls-type:: annotation
+  hl-page:: 405
+  hl-color:: yellow
+  id:: 679de9b0-5150-4705-bbd0-06a4ffdba084
+- first time. Part of that process was trying to specify exactly what we were going to get the machine to do. We’d start by getting a specification of the requirements, parlay that into a design document, then into flowcharts and pseudo code, and finally into code. 
+  ls-type:: annotation
+  hl-page:: 406
+  hl-color:: yellow
+  id:: 679de9bb-f008-4869-80da-e38ddbd53f33
+- But that is not the real world. The real world is messy, conflicted, and unknown. In that world, exact specifications of anything are rare, if not downright impossible.
+  ls-type:: annotation
+  hl-page:: 406
+  hl-color:: yellow
+  id:: 679de9cf-8e02-4d1b-89c8-7d67105e3b33
