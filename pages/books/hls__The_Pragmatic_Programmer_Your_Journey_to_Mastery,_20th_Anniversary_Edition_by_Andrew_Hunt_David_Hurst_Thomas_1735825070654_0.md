@@ -4962,3 +4962,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 453
   hl-color:: yellow
   id:: 679e041d-9625-47e8-8018-b7e1c726712d
+- Tip 89 Use Version Control to Drive Builds, Tests, and Releases
+  ls-type:: annotation
+  hl-page:: 453
+  hl-color:: yellow
+  id:: 679e042e-6832-48a7-b52c-03a6b26cb64a
+- pushes to version control, and built in a container in the cloud. Release to staging or production is specified by using a tag in your version control system. Releases then become a much more low-ceremony part of every day life—true continuous delivery, not tied to any one build machine or developer’s machine. RUTHLESS AND CONTINUOUS TESTING Many developers test gently, subconsciously knowing where the code will break and avoiding the weak spots. Pragmatic Programmers are different. We are driven to find our bugs now,
+  ls-type:: annotation
+  hl-page:: 453
+  hl-color:: yellow
+  id:: 679e0435-bf64-4d39-a1e5-49f5145b7a8c
+- pushes to version control, and built in a container in the cloud. Release to staging or production is specified by using a tag in your version control system.
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e0443-2546-432f-bdd5-6e39f095f130
+- RUTHLESS AND CONTINUOUS TESTING
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e044a-9f29-4ffe-84e1-ce7ab15cba70
+- Many developers test gently, subconsciously knowing where the code will break and avoiding the weak spots. Pragmatic Programmers are different. We are driven to find our bugs now, so we don’t have to endure the shame of others finding our bugs later.
+  ls-type:: annotation
+  hl-page:: 454
+  hl-color:: yellow
+  id:: 679e0455-5a46-43f0-b641-a04af514e793
