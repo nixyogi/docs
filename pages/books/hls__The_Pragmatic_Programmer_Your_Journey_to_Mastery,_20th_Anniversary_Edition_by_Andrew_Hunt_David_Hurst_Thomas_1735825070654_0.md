@@ -4512,3 +4512,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 424
   hl-color:: yellow
   id:: 679df497-45d6-4499-b57b-68dd98fb4bd9
+- Throughout this book we recommend working closely with users; they are part of your team. On that first project together
+  ls-type:: annotation
+  hl-page:: 424
+  hl-color:: yellow
+  id:: 679df4d4-b0fe-4912-869c-a9fce64d4eab
+- we practiced what now might be called pair programming or mob programming: one person typing code while one or more other team members comment, ponder, and solve problems together. It’s a powerful way of working together that transcends endless meetings, memos, and overstuffed legalistic documentation prized for weight over usefulness
+  ls-type:: annotation
+  hl-page:: 425
+  hl-color:: yellow
+  id:: 679df4e1-2525-4b5e-80be-342d83e449c3
