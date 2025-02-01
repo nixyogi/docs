@@ -4167,3 +4167,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 399
   hl-color:: yellow
   id:: 679de8a5-19ac-4242-9482-3d87a24996f2
+- RENAMING IS EVEN HARDER
+  ls-type:: annotation
+  hl-page:: 399
+  hl-color:: yellow
+  id:: 679de8bb-b616-42cd-8574-d22ca31f342f

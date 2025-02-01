@@ -28289,5 +28289,22 @@
                                    :height 1265.6470588235295}),
                           :page 399},
                :content {:text "CONSISTENCY Emerson is famous for writing “A foolish consistency is the hobgoblin of little minds…,” but Emerson wasn’t on a team of programmers"},
+               :properties {:color "yellow"}}
+              {:id #uuid "679de8bb-b616-42cd-8574-d22ca31f342f",
+               :page 399,
+               :position {:bounding {:x1 145.03125,
+                                     :y1 1083.40625,
+                                     :x2 512.1251220703125,
+                                     :y2 1110.40625,
+                                     :width 978.0000000000001,
+                                     :height 1265.6470588235295},
+                          :rects ({:x1 145.03125,
+                                   :y1 1083.40625,
+                                   :x2 512.1251220703125,
+                                   :y2 1110.40625,
+                                   :width 978.0000000000001,
+                                   :height 1265.6470588235295}),
+                          :page 399},
+               :content {:text "RENAMING IS EVEN HARDER"},
                :properties {:color "yellow"}}],
- :extra {:page 399}}
+ :extra {:page 400}}
