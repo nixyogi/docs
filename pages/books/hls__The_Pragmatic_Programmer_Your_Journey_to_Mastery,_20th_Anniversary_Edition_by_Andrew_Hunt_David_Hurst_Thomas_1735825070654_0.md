@@ -4627,3 +4627,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 431
   hl-color:: yellow
   id:: 679dfdc0-ad2c-4d2b-aa0b-824217e56caa
+- SO WHAT DO WE DO?
+  ls-type:: annotation
+  hl-page:: 431
+  hl-color:: yellow
+  id:: 679dfdf8-d390-41f9-9bd8-8e97a2edfd0c
+- The manifesto suggests that you do this by gathering and acting on feedback. So here’s our recipe for working in an agile way
+  ls-type:: annotation
+  hl-page:: 431
+  hl-color:: yellow
+  id:: 679dfe03-172a-4497-9f40-3f58df359c2c
+- ls-type:: annotation
+  hl-page:: 431
+  hl-color:: yellow
+  id:: 679dfe06-7dd0-4180-b1cb-4b5b609c1278
+  1. Work out where you are
