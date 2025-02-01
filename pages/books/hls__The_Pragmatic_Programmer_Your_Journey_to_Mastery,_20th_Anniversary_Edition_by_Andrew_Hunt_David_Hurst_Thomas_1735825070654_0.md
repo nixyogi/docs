@@ -4572,3 +4572,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 427
   hl-color:: yellow
   id:: 679dfd06-9eda-4028-b3f7-841c94070d66
+- Here are just a few tips to get started: Build the code, not your ego. It’s not about who’s brightest; we all have our moments, good and bad. Start small. Mob with only 4-5 people, or start with just a few pairs, in short sessions. Criticize the code, not the person. “Let’s look at this block” sounds much better than “you’re wrong.” Listen and try to understand others’ viewpoints. Different isn’t wrong.
+  ls-type:: annotation
+  hl-page:: 427
+  hl-color:: yellow
+  id:: 679dfd1d-941a-4069-a415-c399a4c2bb67
+- Conduct frequent retrospectives to try and improve for next time.
+  ls-type:: annotation
+  hl-page:: 428
+  hl-color:: yellow
+  id:: 679dfd2a-607f-4f71-a877-ed14119a7368
+- Tip 82 Don’t Go into the Code Alone
+  ls-type:: annotation
+  hl-page:: 428
+  hl-color:: yellow
+  id:: 679dfd41-d68a-495d-98cf-3c2decf47efc
+- Topic 48 The Essence of Agility
+  ls-type:: annotation
+  hl-page:: 429
+  hl-color:: yellow
+  id:: 679dfd47-2963-4a31-8f06-92080a299ed9
