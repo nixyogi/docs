@@ -4227,3 +4227,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 406
   hl-color:: yellow
   id:: 679de9cf-8e02-4d1b-89c8-7d67105e3b33
+- Tip 76 Programmers Help People Understand What They Want
+  ls-type:: annotation
+  hl-page:: 406
+  hl-color:: yellow
+  id:: 679de9e1-4fff-4c12-91e6-056c3c5894df
+- PROGRAMMING AS THERAPY
+  ls-type:: annotation
+  hl-page:: 406
+  hl-color:: yellow
+  id:: 679de9e9-d02d-4393-865d-6f7bb3c174fc
+- Let’s call the people who ask us to write software our clients. The typical client comes to us with a need. The need may be strategic, but it is just as likely to be a tactical issue: a response to a current problem. The need may be for a change to an existing system or it may ask for something new. The need will sometimes be expressed in business terms, and sometimes in
+  ls-type:: annotation
+  hl-page:: 406
+  hl-color:: yellow
+  id:: 679de9f8-6048-4d07-9898-79132b8e710c
+- technical ones.
+  ls-type:: annotation
+  hl-page:: 407
+  hl-color:: yellow
+  id:: 679de9fd-eab0-4811-bffb-e8df888e31e2
+- The mistake new developers often make is to take this statement of need and implement a solution for it
+  ls-type:: annotation
+  hl-page:: 407
+  hl-color:: yellow
+  id:: 679dea03-11a0-4726-ac22-9eb10d472821
+- The chances are very good that you had questions: Does the $50 include tax? Does the $50 include current shipping charges? Does the $50 have to be for paper books, or can the order also include ebooks? What kind of shipping is offered? Priority? Ground? What about international orders? How often will the $50 limit change in the future? That’s what we do. When given something that seems simple, we annoy people by looking for edge cases and asking about
+  ls-type:: annotation
+  hl-page:: 407
+  hl-color:: yellow
+  id:: 679dea1a-1468-455d-8249-e72a31f0770f
