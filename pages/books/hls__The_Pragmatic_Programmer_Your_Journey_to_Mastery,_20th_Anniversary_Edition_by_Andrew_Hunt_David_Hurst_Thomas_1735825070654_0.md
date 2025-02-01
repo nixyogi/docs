@@ -3932,3 +3932,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 378
   hl-color:: yellow
   id:: 679de4ee-e085-4762-b9ee-5773daf73f63
+- PROPERTY-BASED TESTS OFTEN SURPRISE YOU
+  ls-type:: annotation
+  hl-page:: 382
+  hl-color:: yellow
+  id:: 679de544-409e-4c46-8ae6-bc1e0b293a3a
+- The test found a bug, but it wasn’t to do with stock level adjustment. Instead, it found a bug in our in_stock function. This is both the power and the frustration of property-based testing. It’s powerful because you set up some rules for generating inputs, set up some assertions for validating output, and then just let it rip. 
+  ls-type:: annotation
+  hl-page:: 382
+  hl-color:: yellow
+  id:: 679de558-f521-40a1-82cb-0d6f8abf81eb
