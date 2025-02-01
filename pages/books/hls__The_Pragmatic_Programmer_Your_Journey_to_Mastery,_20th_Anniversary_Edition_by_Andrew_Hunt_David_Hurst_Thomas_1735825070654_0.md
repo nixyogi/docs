@@ -4072,3 +4072,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 391
   hl-color:: yellow
   id:: 679de701-3295-4736-9811-466660abbd4c
+- Maintain Security Updates
+  ls-type:: annotation
+  hl-page:: 392
+  hl-color:: yellow
+  id:: 679de75d-9a90-4bbb-a51d-fc2e87714ae7
+- Updating computer systems can be a huge pain. You need that security patch, but as a side effect it breaks some portion of your application. You could decide to wait, and defer the update until later. That’s a terrible idea, because now your system is vulnerable to a known exploit
+  ls-type:: annotation
+  hl-page:: 392
+  hl-color:: yellow
+  id:: 679de76a-2ada-4fc6-b3ac-f5672812cfce
+- Tip 73 Apply Security Patches Quickly
+  ls-type:: annotation
+  hl-page:: 392
+  hl-color:: yellow
+  id:: 679de771-16b9-47fd-90cc-b5129f28cbf2
+- just remember that the largest data breaches in history (so far) were caused by systems that were behind on their updates. Don’t let it happen to you.
+  ls-type:: annotation
+  hl-page:: 392
+  hl-color:: yellow
+  id:: 679de77c-b01f-4834-bc7d-2bd3b5bb6c0d
