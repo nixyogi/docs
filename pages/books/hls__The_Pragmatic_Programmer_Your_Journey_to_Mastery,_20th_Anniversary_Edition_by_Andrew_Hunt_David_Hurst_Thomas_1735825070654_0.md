@@ -4607,3 +4607,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 430
   hl-color:: yellow
   id:: 679dfd81-9315-4bd7-9a04-85a7dd7bedc3
+- THERE CAN NEVER BE AN AGILE PROCESS
+  ls-type:: annotation
+  hl-page:: 430
+  hl-color:: yellow
+  id:: 679dfd98-ee8c-40a9-b6f3-82bddf4cc00d
+- In fact, whenever someone says “do this, and you’ll be agile,” they are wrong. By definition.
+  ls-type:: annotation
+  hl-page:: 430
+  hl-color:: yellow
+  id:: 679dfda4-2408-4ca4-81ec-14cfe5936d6e
+- Because agility, both in the physical world and in software development, is all about responding to change, responding to the unknowns you encounter after you set out. A running gazelle doesn’t go in a straight line
+  ls-type:: annotation
+  hl-page:: 431
+  hl-color:: yellow
+  id:: 679dfdb6-5366-48bf-a6bf-79d81b28541a
+- There is no single plan you can follow when you develop software. Three of the four values tell you that. They’re all about gathering and responding to feedback
+  ls-type:: annotation
+  hl-page:: 431
+  hl-color:: yellow
+  id:: 679dfdc0-ad2c-4d2b-aa0b-824217e56caa
