@@ -5142,3 +5142,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 460
   hl-color:: yellow
   id:: 679e097d-6c9f-4c25-8a40-67dc9b0c1303
+- People just aren’t as repeatable as computers are. Nor should we expect them to be. A shell script or program will execute the same instructions, in the same order, time after time. It is under version control itself, so you can examine changes to the build/release procedures over time as well (“but it used to work…”). Everything depends on automation. 
+  ls-type:: annotation
+  hl-page:: 460
+  hl-color:: yellow
+  id:: 679e098c-fa28-4bfb-84cf-abc5a9d70895
+- Topic 52 Delight Your Users
+  ls-type:: annotation
+  hl-page:: 462
+  hl-color:: yellow
+  id:: 679e099e-187e-4283-afab-a5995fbeef38
+- Our goal as developers is to delight users. That’s why we’re here. Not to mine them for their data, or count their eyeballs or empty their wallets.
+  ls-type:: annotation
+  hl-page:: 462
+  hl-color:: yellow
+  id:: 679e09a7-c394-4479-9878-9f2725e8f60d
+- Your users are not particularly motivated by code. Instead, they have a business problem that needs solving within the context of their objectives and budget. Their belief is that by working with your team they’ll be able to do this.
+  ls-type:: annotation
+  hl-page:: 462
+  hl-color:: yellow
+  id:: 679e09b6-d0ad-4d92-ac0b-86d8fcf61ff7
+- How will you know that we’ve all been successful a month (or a year, or whatever) after this project is done?
+  ls-type:: annotation
+  hl-page:: 462
+  hl-color:: yellow
+  id:: 679e09bf-51a6-4ad5-9a78-78dd42c50951
