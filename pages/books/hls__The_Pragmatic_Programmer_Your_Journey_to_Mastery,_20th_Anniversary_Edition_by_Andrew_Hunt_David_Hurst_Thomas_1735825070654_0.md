@@ -4677,3 +4677,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 433
   hl-color:: yellow
   id:: 679dfeab-dbd7-4561-be37-8cb582f2486e
+- Topic 49 Pragmatic Teams
+  ls-type:: annotation
+  hl-page:: 437
+  hl-color:: yellow
+  id:: 679e00e5-154c-4f6d-9556-a0ab0eeb1b77
+- Programmers are a bit like cats: intelligent, strong willed, opinionated, independent, and often worshiped by the net.
+  ls-type:: annotation
+  hl-page:: 437
+  hl-color:: yellow
+  id:: 679e00f7-280b-4539-9a5f-95f8a969dc55
+- Can these methods work for teams as well, even for teams of strong-willed, independent people? The answer is a resounding “yes!’
+  ls-type:: annotation
+  hl-page:: 437
+  hl-color:: yellow
+  id:: 679e00ff-7932-4ba8-9fcd-da46e51f28ec
+- A team, in our view, is a small, mostly stable entity of its own
+  ls-type:: annotation
+  hl-page:: 437
+  hl-color:: yellow
+  id:: 679e010a-d7ef-447e-8fbd-592d6d6fb622
+- Teams where members are constantly being pulled onto other assignments and no one knows each other aren’t a team either, they are merely strangers temporarily sharing a bus stop in the rain
+  ls-type:: annotation
+  hl-page:: 437
+  hl-color:: yellow
+  id:: 679e0114-af3a-42a0-9506-2d1b81230705
