@@ -5047,3 +5047,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 456
   hl-color:: yellow
   id:: 679e04d2-559e-4cb5-88d9-c453011f125c
+- Performance Testing Performance or stress testing may be important aspects of the project as well. Ask yourself if the software meets the performance requirements under real-world conditions—with the expected number of users, or connections, or transactions per second. Is it scalable?
+  ls-type:: annotation
+  hl-page:: 456
+  hl-color:: yellow
+  id:: 679e04dc-3f4a-40bf-b97e-a3c2275fa7cf
+- Testing the Tests Because we can’t write perfect software, it follows that we can’t write perfect test software either. We need to test the tests. Think of our set of test suites as an elaborate security system, designed to sound the alarm when a bug shows up. How better to test a security system than to try to break in? After you have written a test to detect a particular bug, cause the bug deliberately and make sure the test complains.
+  ls-type:: annotation
+  hl-page:: 457
+  hl-color:: yellow
+  id:: 679e04f0-d63d-4ee2-b4c1-c75bfcf85863
+- Tip 92 Use Saboteurs to Test Your Testing
+  ls-type:: annotation
+  hl-page:: 457
+  hl-color:: yellow
+  id:: 679e0508-fbca-4879-a612-db05c8c0db6d
+- If you are really serious about testing, take a separate branch of the source tree, introduce bugs on purpose, and verify that the tests will catch them. 
+  ls-type:: annotation
+  hl-page:: 457
+  hl-color:: yellow
+  id:: 679e0511-cfb5-4e37-907a-43045af19ab2
