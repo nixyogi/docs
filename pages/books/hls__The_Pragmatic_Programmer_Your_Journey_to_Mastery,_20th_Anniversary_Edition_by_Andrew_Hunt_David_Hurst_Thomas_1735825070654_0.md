@@ -5242,3 +5242,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 471
   hl-color:: yellow
   id:: 679e0ae6-e2fe-4d05-a66d-99831571fa43
+- No one is perfect; everyone misses things now and then. But if you can’t truthfully say that you tried to list all the consequences, and made sure to protect the users from them, then you bear some responsibility when things go bad
+  ls-type:: annotation
+  hl-page:: 471
+  hl-color:: yellow
+  id:: 679e0aef-9784-41c0-90e7-948430e3a0cb
+- Tip 98 First, Do No Harm
+  ls-type:: annotation
+  hl-page:: 471
+  hl-color:: yellow
+  id:: 679e0af6-620b-4b26-b90e-cdeea20f7594
+- Tip 99 Don’t Enable Scumbags
+  ls-type:: annotation
+  hl-page:: 472
+  hl-color:: yellow
+  id:: 679e0b03-6616-44e4-9912-b17a9aef750c
+- Imagine the Future you Want It’s up to you. It’s your imagination, your hopes, your concerns that provide the pure thought-stuff that builds the next twenty years and beyond
+  ls-type:: annotation
+  hl-page:: 473
+  hl-color:: yellow
+  id:: 679e0b0d-bc6d-482f-87df-0898fd53b359
+- Tip 100 It’s Your Life. Share it. Celebrate it. Build it. AND HAVE FUN!
+  ls-type:: annotation
+  hl-page:: 473
+  hl-color:: yellow
+  id:: 679e0b15-f589-4209-b677-421b6f90788e
