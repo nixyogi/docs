@@ -3892,3 +3892,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 375
   hl-color:: yellow
   id:: 679de457-c2f5-4f7d-9636-fefb4baf864a
+- CONTRACTS, INVARIANTS, AND PROPERTIES
+  ls-type:: annotation
+  hl-page:: 375
+  hl-color:: yellow
+  id:: 679de47e-a243-428a-b8b2-02c35e8e2cf1
+- In Topic 23, Design by Contract, we talked about the idea that code has contracts that it meets: you meet the conditions when you feed it input, and it will make certain guarantees about the
+  ls-type:: annotation
+  hl-page:: 375
+  hl-color:: yellow
+  id:: 679de486-0d57-4888-993b-8c0b5e9f52d5
+- outputs it produces.
+  ls-type:: annotation
+  hl-page:: 376
+  hl-color:: yellow
+  id:: 679de48c-c39e-42e9-a3d6-bf1a807d6645
+- There are also code invariants, things that remain true about some piece of state when it’s passed through a function. For example, if you sort a list, the result will have the same number of elements as the original—the length is invariant.
+  ls-type:: annotation
+  hl-page:: 376
+  hl-color:: yellow
+  id:: 679de498-2c0e-446e-ba97-4fbaf714c9cf
+- Once we work out our contracts and invariants (which we’re going to lump together and call properties) we can use them to automate our testing. What we end up doing is called propertybased testing.
+  ls-type:: annotation
+  hl-page:: 376
+  hl-color:: yellow
+  id:: 679de4a1-3407-4453-8815-e32a5632f24c
+- Tip 71 Use Property-Based Tests to Validate Your Assumptions
+  ls-type:: annotation
+  hl-page:: 376
+  hl-color:: yellow
+  id:: 679de4a7-8859-415f-9dd6-5ab965339bc4
