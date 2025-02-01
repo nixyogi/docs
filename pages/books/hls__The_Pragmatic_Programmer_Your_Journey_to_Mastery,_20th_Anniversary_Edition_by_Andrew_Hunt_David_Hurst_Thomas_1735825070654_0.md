@@ -4942,3 +4942,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 452
   hl-color:: yellow
   id:: 679e03d9-c886-4a18-8290-f3c115b3bb9b
+- we can’t afford to go through two pages of instructions again and again for some common operation. Whether it is the build and release procedure, testing, project paperwork, or any other recurring task on the project, it has to be automatic and repeatable on any capable machine
+  ls-type:: annotation
+  hl-page:: 452
+  hl-color:: yellow
+  id:: 679e03f0-bcca-4116-a150-f4720e33feba
+- Manual procedures leave consistency up to chance; repeatability isn’t guaranteed, especially if aspects of the procedure are open to interpretation by different people
+  ls-type:: annotation
+  hl-page:: 452
+  hl-color:: yellow
+  id:: 679e0402-1252-4c95-8907-480b3938c66f
+- DRIVE WITH VERSION CONTROL
+  ls-type:: annotation
+  hl-page:: 453
+  hl-color:: yellow
+  id:: 679e0414-2438-4d1b-9e90-23b9cf1567d6
+- you want to keep everything needed to build your project under version control. That idea becomes even more important in the context of the project itself.
+  ls-type:: annotation
+  hl-page:: 453
+  hl-color:: yellow
+  id:: 679e041d-9625-47e8-8018-b7e1c726712d
