@@ -5167,3 +5167,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 462
   hl-color:: yellow
   id:: 679e09bf-51a6-4ad5-9a78-78dd42c50951
+- You may well be surprised by the answer. A project to improve product recommendations might actually be judged in terms of customer retention; a project to consolidate two databases might be judged in terms of data quality, or it might be about cost savings.
+  ls-type:: annotation
+  hl-page:: 463
+  hl-color:: yellow
+  id:: 679e09c9-64af-4eea-ba97-9f95f142e3a8
+- And now that you’ve surfaced some of the underlying expectations of value behind the project, you can start thinking about how you can deliver against them: Make sure everyone on the team is totally clear about these expectations. When making decisions, think about which path forward moves closer to those expectations. Critically analyze the user requirements in light of the expectations. On many projects we’ve discovered that the stated “requirement” was in fact just a guess at what could be done by technology: it was actually an amateur implementation plan dressed up as a requirements document. Don’t be afraid to make suggestions that change the requirement if you can demonstrate that they will move the project closer to the objective. Continue to think about these expectations as you progress through the project.
+  ls-type:: annotation
+  hl-page:: 463
+  hl-color:: yellow
+  id:: 679e09d8-9177-493e-8dbd-32b84f86b7cf
+- We’ve found that as our knowledge of the domain increases, we’re better able to make suggestions on other things that could be done to address the underlying business issues.
+  ls-type:: annotation
+  hl-page:: 463
+  hl-color:: yellow
+  id:: 679e09f1-aae1-497c-bad1-b909d058a723
+- Tip 96 Delight Users, Don’t Just Deliver Code
+  ls-type:: annotation
+  hl-page:: 464
+  hl-color:: yellow
+  id:: 679e09fa-3522-4a88-8ba7-740dd9ff66f6
