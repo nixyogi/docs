@@ -5187,3 +5187,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 464
   hl-color:: yellow
   id:: 679e09fa-3522-4a88-8ba7-740dd9ff66f6
+- If you want to delight your client, forge a relationship with them where you can actively help solve their problems. Even though your title might be some variation of “Software Developer” or“Software Engineer,” in truth it should be “Problem Solver.” That’s what we do, and that’s the essence of a Pragmatic Programmer. We solve problems.
+  ls-type:: annotation
+  hl-page:: 464
+  hl-color:: yellow
+  id:: 679e0a37-6296-4183-a726-20bb66ffe5cd
