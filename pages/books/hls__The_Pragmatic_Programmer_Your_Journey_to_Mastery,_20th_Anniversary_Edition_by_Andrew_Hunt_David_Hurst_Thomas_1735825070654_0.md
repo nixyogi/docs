@@ -5072,3 +5072,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 457
   hl-color:: yellow
   id:: 679e051b-dcb5-4a90-b03a-a68dbb5701c1
+- The short answer is “you don’t,’’ and you never will. You might look to try coverage analysis tools that watch your code during
+  ls-type:: annotation
+  hl-page:: 457
+  hl-color:: yellow
+  id:: 679e08e8-ee23-4e82-b523-fc8dc3389c6f
+- esting and keep track of which lines of code have been executed and which haven’t. These tools help give you a general feel for how comprehensive your testing is, but don’t expect to see 100% coverage
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 679e08f1-d0e2-4c96-bbd5-7f0dc019d3f0
+- Even if you do happen to hit every line of code, that’s not the whole picture. What is important is the number of states that your program may have. States are not equivalent to lines of code.
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 679e0901-b415-4211-83a8-03a55e6aa5b0
