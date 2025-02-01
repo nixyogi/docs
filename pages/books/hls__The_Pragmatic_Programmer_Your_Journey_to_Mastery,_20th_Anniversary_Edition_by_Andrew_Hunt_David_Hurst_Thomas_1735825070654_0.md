@@ -4347,3 +4347,33 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 412
   hl-color:: yellow
   id:: 679dee94-0f84-4517-9b44-b12c88e7a34f
+- This example also illustrates our belief that successful tools adapt to the hands that use them. Successful requirements gathering takes this into account. And this is why early feedback, with prototypes or tracer bullets, will let your clients say “yes, it does what I want, but not how I want.”
+  ls-type:: annotation
+  hl-page:: 412
+  hl-color:: yellow
+  id:: 679deed9-e411-4f9b-9840-f9eda90da7f9
+- DOCUMENTING REQUIREMENTS
+  ls-type:: annotation
+  hl-page:: 412
+  hl-color:: yellow
+  id:: 679deedf-5e77-4feb-a589-8a15fe046c11
+- We believe that the best requirements documentation, perhaps
+  ls-type:: annotation
+  hl-page:: 412
+  hl-color:: yellow
+  id:: 679deee8-9b88-46ba-b422-70826114574c
+- the only requirements documentation, is working code
+  ls-type:: annotation
+  hl-page:: 413
+  hl-color:: yellow
+  id:: 679deeed-6b1f-45bb-8c08-87a92b489f16
+- It just means that those documents are not a deliverable: they are not something that you give to a client to sign off on. Instead, they are simply mileposts to help guide the implementation process
+  ls-type:: annotation
+  hl-page:: 413
+  hl-color:: yellow
+  id:: 679deefb-e4ac-4938-a1c0-df61ef775708
+- Requirements Documents Are Not for Clients
+  ls-type:: annotation
+  hl-page:: 413
+  hl-color:: yellow
+  id:: 679def01-1ea4-4317-be49-11830be1e65d
