@@ -4137,3 +4137,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 396
   hl-color:: yellow
   id:: 679de7fd-678e-46bf-9c66-b3bf1dcecb62
+- Your brain treats written words as something to be respected. We need to make sure the names we use live up to this
+  ls-type:: annotation
+  hl-page:: 396
+  hl-color:: yellow
+  id:: 679de811-c15d-4328-840a-5178fef04ed1
