@@ -4752,3 +4752,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 439
   hl-color:: yellow
   id:: 679e0188-7863-47d2-a3ae-bc08c1049042
+- Teams that want to succeed need to consider their knowledge and skill investments as well.
+  ls-type:: annotation
+  hl-page:: 439
+  hl-color:: yellow
+  id:: 679e0198-dd48-444c-b7ec-702d30219ca1
+- f your team is serious about improvement and innovation, you need to schedule it. Trying to get things done “whenever there’s a free moment” means they will never happen.
+  ls-type:: annotation
+  hl-page:: 439
+  hl-color:: yellow
+  id:: 679e01a0-4949-4deb-96da-35e135b76777
+- The team works on more than just new features. Some possible examples include:
+  ls-type:: annotation
+  hl-page:: 440
+  hl-color:: yellow
+  id:: 679e01ad-cf87-49af-9993-2d5e598d3938
+- Old Systems Maintenance While we love working on the shiny new system, there’s likely maintenance work that needs to be done on the old system. We’ve met teams who try and shove this work in the corner. If the team is charged with doing these tasks, then do them—for real.
+  ls-type:: annotation
+  hl-page:: 440
+  hl-color:: yellow
+  id:: 679e01b6-3f24-4f75-90e3-b10c573d0405
+- Process Reflection and Refinement Continuous improvement can only happen when you take the time to look around, figure out what’s working and not, and then make changes (see Topic 48, The Essence of Agility). Too many teams are so busy bailing out water that they don’t have time to fix the leak. Schedule it. Fix it
+  ls-type:: annotation
+  hl-page:: 440
+  hl-color:: yellow
+  id:: 679e01c6-750d-4b46-b867-75668f8781e8
