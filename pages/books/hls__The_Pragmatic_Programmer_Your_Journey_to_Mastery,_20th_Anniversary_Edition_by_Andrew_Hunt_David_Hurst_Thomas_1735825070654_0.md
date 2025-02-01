@@ -4777,3 +4777,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 440
   hl-color:: yellow
   id:: 679e01c6-750d-4b46-b867-75668f8781e8
+- New tech experiments Don’t adopt new tech, frameworks, or libraries just because “everyone is doing it,” or based on something you saw at a conference or read online. Deliberately vet candidate technologies with prototypes
+  ls-type:: annotation
+  hl-page:: 440
+  hl-color:: yellow
+  id:: 679e01d2-d2b5-4c23-91ec-4e7990167324
+- Learning and skill improvements Personal learning and improvements are a great start, but many skills are more effective when spread teamwide.
+  ls-type:: annotation
+  hl-page:: 440
+  hl-color:: yellow
+  id:: 679e01dc-d942-4306-852b-ceea9a9d8fdc
+- ip 85 Schedule It to Make It Happen
+  ls-type:: annotation
+  hl-page:: 441
+  hl-color:: yellow
+  id:: 679e01e4-c6ad-4bdd-b581-c145cfc21646
+- COMMUNICATE TEAM PRESENCE
+  ls-type:: annotation
+  hl-page:: 441
+  hl-color:: yellow
+  id:: 679e01ea-98f3-46fe-99b2-ca472689ae80
+- However, it’s easy to forget that the team itself has a presence within the organization. The team as an entity needs to communicate clearly with the rest of the world.
+  ls-type:: annotation
+  hl-page:: 441
+  hl-color:: yellow
+  id:: 679e01f2-4c77-4bc3-8c30-bdfa476f61da
