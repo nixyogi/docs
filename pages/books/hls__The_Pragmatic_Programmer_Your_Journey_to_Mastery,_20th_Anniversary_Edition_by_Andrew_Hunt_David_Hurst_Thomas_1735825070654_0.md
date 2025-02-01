@@ -5222,3 +5222,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 466
   hl-color:: yellow
   id:: 679e0a84-34f4-453a-9f40-77c354e249fd
+- Embedded devices use an order of magnitude more computers than those used in laptops, desktops, and data centers. These embedded computers often control life-critical systems, from power plants to cars to medical equipment. Even a simple central heating control system or home appliance can kill someone if it is poorly designed or implemented. When you develop for these devices, you take on a staggering responsibility
+  ls-type:: annotation
+  hl-page:: 470
+  hl-color:: yellow
+  id:: 679e0ab6-20e3-4d3d-8499-eea0d81c6b99
+- The Moral Compass
+  ls-type:: annotation
+  hl-page:: 471
+  hl-color:: yellow
+  id:: 679e0ac7-1022-4f4d-bd1d-bd5e6c1a1e37
+- We have a duty to ask ourselves two questions about every piece of code we deliver:1. Have I protected the user?2. Would I use this myself?
+  ls-type:: annotation
+  hl-page:: 471
+  hl-color:: yellow
+  id:: 679e0ad7-be5c-4927-bf88-5fd4fd3486a3
+- First, you should ask “Have I done my best to protect the users of this code from harm?” Have I made provisions to apply ongoing security patches to that simple baby monitor?
+  ls-type:: annotation
+  hl-page:: 471
+  hl-color:: yellow
+  id:: 679e0ae6-e2fe-4d05-a66d-99831571fa43
