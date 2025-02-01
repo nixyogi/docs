@@ -26754,5 +26754,22 @@
                                    :height 1265.6470588235295}),
                           :page 376},
                :content {:text "Tip 71 Use Property-Based Tests to Validate Your Assumptions"},
+               :properties {:color "yellow"}}
+              {:id #uuid "679de4d8-9650-4ff2-ac49-413981bee6e3",
+               :page 377,
+               :position {:bounding {:x1 145.03125,
+                                     :y1 841.28125,
+                                     :x2 460.42388916015625,
+                                     :y2 868.28125,
+                                     :width 978.0000000000001,
+                                     :height 1265.6470588235295},
+                          :rects ({:x1 145.03125,
+                                   :y1 841.28125,
+                                   :x2 460.42388916015625,
+                                   :y2 868.28125,
+                                   :width 978.0000000000001,
+                                   :height 1265.6470588235295}),
+                          :page 377},
+               :content {:text "TEST DATA GENERATION"},
                :properties {:color "yellow"}}],
- :extra {:page 376}}
+ :extra {:page 378}}

@@ -3922,3 +3922,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 376
   hl-color:: yellow
   id:: 679de4a7-8859-415f-9dd6-5ab965339bc4
+- TEST DATA GENERATION
+  ls-type:: annotation
+  hl-page:: 377
+  hl-color:: yellow
+  id:: 679de4d8-9650-4ff2-ac49-413981bee6e3
+- FINDING BAD ASSUMPTIONS
+  ls-type:: annotation
+  hl-page:: 378
+  hl-color:: yellow
+  id:: 679de4ee-e085-4762-b9ee-5773daf73f63
