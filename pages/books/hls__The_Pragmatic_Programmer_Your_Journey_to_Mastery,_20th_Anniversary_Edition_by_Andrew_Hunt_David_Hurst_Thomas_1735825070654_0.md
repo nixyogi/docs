@@ -4547,3 +4547,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 426
   hl-color:: yellow
   id:: 679df815-899e-49aa-87e6-4e229d44dad5
+- MOB PROGRAMMING
+  ls-type:: annotation
+  hl-page:: 426
+  hl-color:: yellow
+  id:: 679df856-77f7-4a05-97d0-270510cdb811
+- Mob programming, despite the name, does not involve torches or pitchforks. It’s an extension of pair programming that involves more than just two developers. Proponents report great results using mobs to solve hard problems. 
+  ls-type:: annotation
+  hl-page:: 426
+  hl-color:: yellow
+  id:: 679df85f-5016-4fcb-a49a-901a4dfe3298
+- You might think of mob programming as tight collaboration with live coding. WHAT SHOULD I DO? If you’re currently only programming solo, maybe try pair programming. Give it a minimum of two weeks, only a few hours at a time, as it will feel strange at first. To brainstorm new ideas or diagnose thorny issues, perhaps try a mob programming session. If you are already pairing or mobbing, who’s included? Is it just developers, or do you allow members of your extended team to participate: users, testers, sponsors…? And as with all collaboration, you need to manage the human aspects of it as well as the technical. Here are just a few tips to get started: Build the code, not your ego. It’s not about who’s brightest; we all have our moments, good and bad. Start small. Mob with only 4-5 people, or start with just a few pairs,
+  ls-type:: annotation
+  hl-page:: 427
+  hl-color:: yellow
+  id:: 679df866-4797-4138-8e29-095159293f7a
