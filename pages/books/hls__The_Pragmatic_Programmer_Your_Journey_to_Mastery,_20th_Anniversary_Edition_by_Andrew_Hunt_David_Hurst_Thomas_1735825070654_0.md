@@ -4027,3 +4027,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 387
   hl-color:: yellow
   id:: 679de654-9fae-4e59-9c4f-5ac8b669356c
+- Unauthenticated services are an attack vector By their very nature, any user anywhere in the world can call unauthenticated services, so barring any other handling or limiting you’ve immediately created an opportunity for a denial-of-service attack at the very least.
+  ls-type:: annotation
+  hl-page:: 388
+  hl-color:: yellow
+  id:: 679de66a-e355-42f5-acb6-10c313dd1d9a
+- Authenticated services are an attack vector Keep the number of authorized users at an absolute minimum. Cull unused, old, or outdated users and services.
+  ls-type:: annotation
+  hl-page:: 388
+  hl-color:: yellow
+  id:: 679de675-5fd8-4ab8-9381-4c3a59e4408d
+- Output data is an attack vector There’s a (possibly apocryphal) story about a system that dutifully reported the error message Password is used by another user. Don’t give away information
+  ls-type:: annotation
+  hl-page:: 389
+  hl-color:: yellow
+  id:: 679de692-62a2-4a46-9c28-938b08d17fce
