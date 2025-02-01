@@ -4727,3 +4727,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 438
   hl-color:: yellow
   id:: 679e014a-caf9-49ad-96b7-19cf35b38061
+- Teams as a whole should not tolerate broken windows—those small imperfections that no one fixes. The team must take responsibility for the quality of the product
+  ls-type:: annotation
+  hl-page:: 438
+  hl-color:: yellow
+  id:: 679e015c-dead-4d3f-9c25-a3f4e969f4c0
+- BOILED FROGS
+  ls-type:: annotation
+  hl-page:: 439
+  hl-color:: yellow
+  id:: 679e0167-2700-4203-80b2-8ee12b58209b
+- It’s even easier for teams as a whole to get boiled. People assume that someone else is handling an issue, or that the team leader must have OK’d a change that your user is requesting
+  ls-type:: annotation
+  hl-page:: 439
+  hl-color:: yellow
+  id:: 679e0176-1eaa-434f-b690-8f5775715dc2
+- Fight this. Encourage everyone to actively monitor the environment for changes. Stay awake and aware for increased scope, decreased time scales, additional features, new environments—anything that wasn’t in the original understanding.
+  ls-type:: annotation
+  hl-page:: 439
+  hl-color:: yellow
+  id:: 679e0180-4bc0-4249-bdaa-94347f0e350d
+- SCHEDULE YOUR KNOWLEDGE PORTFOLIO
+  ls-type:: annotation
+  hl-page:: 439
+  hl-color:: yellow
+  id:: 679e0188-7863-47d2-a3ae-bc08c1049042
