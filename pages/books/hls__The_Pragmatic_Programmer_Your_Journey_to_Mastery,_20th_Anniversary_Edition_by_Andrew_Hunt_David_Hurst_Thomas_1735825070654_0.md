@@ -4702,3 +4702,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 437
   hl-color:: yellow
   id:: 679e0114-af3a-42a0-9506-2d1b81230705
+- A pragmatic team is small, under 10-12 or so members.
+  ls-type:: annotation
+  hl-page:: 437
+  hl-color:: yellow
+  id:: 679e011b-9770-4a97-83b5-05081da6d6fb
+- Members come and go rarely. Everyone knows everyone well, trusts each other, and depends on each other
+  ls-type:: annotation
+  hl-page:: 438
+  hl-color:: yellow
+  id:: 679e0121-51bc-449e-b166-ac2ff43bff04
+- Tip 84 Maintain Small, Stable Teams
+  ls-type:: annotation
+  hl-page:: 438
+  hl-color:: yellow
+  id:: 679e0128-f96f-420d-b4a0-f2f587f08d22
+- NO BROKEN WINDOWS
+  ls-type:: annotation
+  hl-page:: 438
+  hl-color:: yellow
+  id:: 679e0142-b791-4b2a-be6c-de378336e7ef
+- Quality is a team issue. The most diligent developer placed on a team that just doesn’t care will find it difficult to maintain the enthusiasm needed to fix niggling problems.
+  ls-type:: annotation
+  hl-page:: 438
+  hl-color:: yellow
+  id:: 679e014a-caf9-49ad-96b7-19cf35b38061
