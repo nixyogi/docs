@@ -4192,3 +4192,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 400
   hl-color:: yellow
   id:: 679de917-6d27-483d-b5b1-cfc076a7af92
+- Topic 45 The Requirements Pi
+  ls-type:: annotation
+  hl-page:: 405
+  hl-color:: yellow
+  id:: 679de981-3b32-460e-9c1b-3b4d2f5a5dfe
+- It doesn’t quite work that way. Requirements rarely lie on the surface. Normally, they’re buried deep beneath layers of assumptions, misconceptions, and politics. Even worse, often they don’t really exist at all
+  ls-type:: annotation
+  hl-page:: 405
+  hl-color:: yellow
+  id:: 679de991-7e44-46f6-bb0a-117984ee2bb7
+- Tip 75 No One Knows Exactly What They Want
+  ls-type:: annotation
+  hl-page:: 405
+  hl-color:: yellow
+  id:: 679de995-72ce-4415-b7fa-718a2bdfd594
