@@ -4432,3 +4432,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 416
   hl-color:: yellow
   id:: 679defe7-08f1-4d2f-901b-11987d7b5fad
+- Topic 46 Solving Impossible Puzzles
+  ls-type:: annotation
+  hl-page:: 418
+  hl-color:: yellow
+  id:: 679df35e-8056-4282-925e-0a74f670c422
