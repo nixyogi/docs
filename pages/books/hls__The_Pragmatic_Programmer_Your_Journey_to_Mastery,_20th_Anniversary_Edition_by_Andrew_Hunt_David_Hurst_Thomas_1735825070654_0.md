@@ -3987,3 +3987,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 386
   hl-color:: yellow
   id:: 679de5df-69f8-4360-8f1f-c182e3cd66b8
+- In the good old days, this evaluation of internal errors may have been sufficient. But today that’s only the beginning, because in addition to errors from internal causes, you need to consider how an external actor could deliberately screw up the system.
+  ls-type:: annotation
+  hl-page:: 386
+  hl-color:: yellow
+  id:: 679de5f8-0b0e-4c8a-9603-f8f1972f667d
+- Security through obscurity just doesn’t work.
+  ls-type:: annotation
+  hl-page:: 386
+  hl-color:: yellow
+  id:: 679de606-e458-4886-8699-95964417827a
+- SECURITY BASIC PRINCIPLES
+  ls-type:: annotation
+  hl-page:: 386
+  hl-color:: yellow
+  id:: 679de60d-6c6b-4aaf-a2f8-2d4c8da11afc
+- Pragmatic Programmers have a healthy amount of paranoia. We know we have faults and limitations, and that external attackers will seize on any opening we leave to compromise our systems.
+  ls-type:: annotation
+  hl-page:: 386
+  hl-color:: yellow
+  id:: 679de61a-c431-4d4f-9a2c-a25b97df2ccd
