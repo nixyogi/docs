@@ -4297,3 +4297,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 410
   hl-color:: yellow
   id:: 679deabf-47e9-4991-a31a-9c3057f01711
+- There’s a simple technique for getting inside your clients’ heads that isn’t used often enough: become a client. 
+  ls-type:: annotation
+  hl-page:: 410
+  hl-color:: yellow
+  id:: 679dee1a-5bdc-442a-9278-0f5f147a9622
+- As well as giving you insight into how the system will really be used, you’d be amazed at how the request “May I sit in for a week while you do your job?’’ helps build trust and establishes a basis for communication with your clients
+  ls-type:: annotation
+  hl-page:: 410
+  hl-color:: yellow
+  id:: 679dee2c-a24c-4698-bb03-0d8172d4c8b4
+- Tip 78 Work with a User to Think Like a User
+  ls-type:: annotation
+  hl-page:: 411
+  hl-color:: yellow
+  id:: 679dee36-0373-40b5-88a1-2a37523cdd63
+- REQUIREMENTS VS. POLICY
+  ls-type:: annotation
+  hl-page:: 411
+  hl-color:: yellow
+  id:: 679dee46-e2c3-41e7-b0f9-b71e51876f48
