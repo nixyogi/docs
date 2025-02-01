@@ -4887,3 +4887,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 448
   hl-color:: yellow
   id:: 679e0332-4632-4308-830d-370f4bf60003
+- The purpose of a software development methodology is to help people work together. As we discuss in Topic 48, The Essence of Agility, there is no single plan you can follow when you develop software, especially not a plan that someone else came up with at another company
+  ls-type:: annotation
+  hl-page:: 448
+  hl-color:: yellow
+  id:: 679e034d-cebb-42f2-9435-026eb9d1f489
+- Instead, you want to take the best pieces from any particular methodology and adapt them for use. No one size fits all, and current methods are far from complete, so you’ll need to look at more than just one popular method.
+  ls-type:: annotation
+  hl-page:: 448
+  hl-color:: yellow
+  id:: 679e0358-ee87-4ffb-a03a-4fb77c6aad17
+- THE REAL GOAL
+  ls-type:: annotation
+  hl-page:: 449
+  hl-color:: yellow
+  id:: 679e0364-327b-469f-a3d7-5b7484412af1
