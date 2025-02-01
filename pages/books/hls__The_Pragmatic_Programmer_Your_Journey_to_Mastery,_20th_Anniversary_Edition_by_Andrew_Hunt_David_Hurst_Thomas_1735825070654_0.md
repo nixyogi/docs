@@ -5217,3 +5217,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 466
   hl-color:: yellow
   id:: 679e0a6e-fe33-4c63-9e80-1935690f410e
+- We want to see pride of ownership. “I wrote this, and I stand behind my work.” Your signature should come to be recognized as an indicator of quality. People should see your name on a piece of code and expect it to be solid, well written, tested, and documented. A really professional job. Written by a professional. A Pragmatic Programmer.
+  ls-type:: annotation
+  hl-page:: 466
+  hl-color:: yellow
+  id:: 679e0a84-34f4-453a-9f40-77c354e249fd
