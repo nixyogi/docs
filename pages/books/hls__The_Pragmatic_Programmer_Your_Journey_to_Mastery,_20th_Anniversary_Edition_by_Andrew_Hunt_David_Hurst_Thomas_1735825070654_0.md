@@ -4342,3 +4342,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 412
   hl-color:: yellow
   id:: 679dee8d-99e0-483d-9c3d-18f3ed8a15d1
+- REQUIREMENTS VS. REALITY
+  ls-type:: annotation
+  hl-page:: 412
+  hl-color:: yellow
+  id:: 679dee94-0f84-4517-9b44-b12c88e7a34f
