@@ -4492,3 +4492,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 422
   hl-color:: yellow
   id:: 679df466-0694-4d02-a093-20c0ffe8bfa7
+- FORTUNE FAVORS THE PREPARED MIND
+  ls-type:: annotation
+  hl-page:: 422
+  hl-color:: yellow
+  id:: 679df46e-1119-48d5-8099-eed520f2cfe5
+- When it comes to observation, fortune favors the prepared mind
+  ls-type:: annotation
+  hl-page:: 422
+  hl-color:: yellow
+  id:: 679df475-e94c-4640-b4a9-f294ff90d985
+- A great way to feed your brain is to give it feedback on what works and what doesn’t work as you do your daily job. And we describe a great way to do that using an Engineering Daybook
+  ls-type:: annotation
+  hl-page:: 422
+  hl-color:: yellow
+  id:: 679df483-a6fc-48d5-a10c-a9b722179dbb
+- Topic 47 Working Togethe
+  ls-type:: annotation
+  hl-page:: 424
+  hl-color:: yellow
+  id:: 679df497-45d6-4499-b57b-68dd98fb4bd9
