@@ -4062,3 +4062,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 389
   hl-color:: yellow
   id:: 679de6b8-6b8e-462d-ab0f-61d3a45de2ef
+- Secure Defaults The default settings on your app, or for your users on your site, should be the most secure values. These might not be the most user-friendly or convenient values, but it’s better to let each individual decide for themselves the trade-offs between security and convenience.
+  ls-type:: annotation
+  hl-page:: 390
+  hl-color:: yellow
+  id:: 679de6e8-8545-4e55-af0c-ee7968500590
+- Encrypt Sensitive Data Don’t leave personally identifiable information, financial data, passwords, or other credentials in plain text, whether in a database or some other external file.
+  ls-type:: annotation
+  hl-page:: 391
+  hl-color:: yellow
+  id:: 679de701-3295-4736-9811-466660abbd4c
