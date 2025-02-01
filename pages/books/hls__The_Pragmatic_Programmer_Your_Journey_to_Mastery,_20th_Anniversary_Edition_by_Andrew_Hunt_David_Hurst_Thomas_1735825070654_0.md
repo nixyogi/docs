@@ -3942,3 +3942,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 382
   hl-color:: yellow
   id:: 679de558-f521-40a1-82cb-0d6f8abf81eb
+- Our suggestion is that when a property-based test fails, find out what parameters it was passing to the test function, and then use those values to create a separate, regular, unit test. That unit test does two things for you. First, it lets you focus in on the problem without all the additional calls being made into your code by the property-based testing framework. Second, that unit test acts as a regression test.
+  ls-type:: annotation
+  hl-page:: 383
+  hl-color:: yellow
+  id:: 679de577-a22b-4644-8744-9b3e5c058f48
+- PROPERTY-BASED TESTS ALSO HELP YOUR DESIGN
+  ls-type:: annotation
+  hl-page:: 383
+  hl-color:: yellow
+  id:: 679de580-59ba-4179-85f8-56d86b5fdef1
+- We believe that property-based testing is complementary to unit testing: they address different concerns, and each brings its own benefits. If you’re not currently using them, give them a go.
+  ls-type:: annotation
+  hl-page:: 383
+  hl-color:: yellow
+  id:: 679de591-c87e-4033-a04f-38879bfa8c04
+- Topic 43 Stay Safe Out There
+  ls-type:: annotation
+  hl-page:: 385
+  hl-color:: yellow
+  id:: 679de59a-1a32-4245-9065-6339702b6652
