@@ -4382,3 +4382,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 414
   hl-color:: yellow
   id:: 679def3d-138a-4ef0-85b6-b56f75a9ec3c
+- This isn’t putting the client down. But giving them a large technical document is like giving the average developer a copy of the Iliad in Homeric Greek and asking them to code the video game from it
+  ls-type:: annotation
+  hl-page:: 414
+  hl-color:: yellow
+  id:: 679def54-7405-4271-8e2d-dd73f2cb883c
+- Requirements Documents Are for Planning
+  ls-type:: annotation
+  hl-page:: 414
+  hl-color:: yellow
+  id:: 679def5a-b729-4827-9c54-4596e52bc6e7
+- We do, however, know that requirements have to be written down, simply because developers on a team need to know what they’ll be doing.
+  ls-type:: annotation
+  hl-page:: 414
+  hl-color:: yellow
+  id:: 679def6f-046a-45ab-81d4-83359ae1641f
