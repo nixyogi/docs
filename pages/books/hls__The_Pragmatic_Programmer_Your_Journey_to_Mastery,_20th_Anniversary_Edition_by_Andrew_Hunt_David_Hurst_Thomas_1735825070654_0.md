@@ -3962,3 +3962,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 385
   hl-color:: yellow
   id:: 679de59a-1a32-4245-9065-6339702b6652
+- As we write this, the daily news is filled with stories of devastating data breaches, hijacked systems, and cyberfraud.
+  ls-type:: annotation
+  hl-page:: 385
+  hl-color:: yellow
+  id:: 679de5b0-62c2-47f9-9372-bb50193157ae
+- In the vast majority of cases, it’s not because the attackers were terribly clever, or even vaguely competent. It’s because the developers were careless
+  ls-type:: annotation
+  hl-page:: 385
+  hl-color:: yellow
+  id:: 679de5bb-7de5-42c1-b4c0-d2e6bdc9c5d2
+- THE OTHER 90%
+  ls-type:: annotation
+  hl-page:: 385
+  hl-color:: yellow
+  id:: 679de5c4-c417-4cd9-a591-3f85d0f27702
+- After several hills and bumps on this uphill climb, it’s easy to say to yourself, “phew, it all works!” and proclaim the code done. Of course, it’s not done yet. You’re 90% done, but now you have the other 90% to consider
+  ls-type:: annotation
+  hl-page:: 385
+  hl-color:: yellow
+  id:: 679de5d5-f5e8-458d-9701-d795aabcc299
+- The next thing you have to do is analyze the code for ways it can go wrong and add those to your test suite. You’ll consider things such as passing in bad parameters, leaking or unavailable resources; that sort of thing.
+  ls-type:: annotation
+  hl-page:: 386
+  hl-color:: yellow
+  id:: 679de5df-69f8-4360-8f1f-c182e3cd66b8
