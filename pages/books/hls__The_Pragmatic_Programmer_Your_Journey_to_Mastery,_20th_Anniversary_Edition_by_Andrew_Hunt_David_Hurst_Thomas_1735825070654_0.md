@@ -5087,3 +5087,38 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 458
   hl-color:: yellow
   id:: 679e0901-b415-4211-83a8-03a55e6aa5b0
+- Simply knowing that you executed this line of code doesn’t tell you that—you would need to identify all possible states of the program. Unfortunately, in general this is a really hard problem. Hard as in, “The sun will be a cold hard lump before you can solve it.
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 679e0918-d232-45c9-8745-30d5371b8519
+- Tip 93 Test State Coverage, Not Code Coverage
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 679e0920-c710-4bce-9217-2e4a96df2f8c
+- Property-Based Testing
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 679e0923-9b6b-4533-bee4-7530ddd569e2
+- Use property-based testing techniques to generate test data according to the contracts and invariants of the code under test.
+  ls-type:: annotation
+  hl-page:: 458
+  hl-color:: yellow
+  id:: 679e092c-fe13-41bc-a236-2331e01df18c
+- TIGHTENING THE NET
+  ls-type:: annotation
+  hl-page:: 459
+  hl-color:: yellow
+  id:: 679e0935-5e31-4b24-83c8-4442430f4f77
+- Finally, we’d like to reveal the single most important concept in testing. It is an obvious one, and virtually every textbook says to do it this way. But for some reason, most projects still do not. If a bug slips through the net of existing tests, you need to add a new test to trap it next time
+  ls-type:: annotation
+  hl-page:: 459
+  hl-color:: yellow
+  id:: 679e0941-3b0e-422c-a47d-76afbb30f4f2
+- Tip 94 Find Bugs Once
+  ls-type:: annotation
+  hl-page:: 459
+  hl-color:: yellow
+  id:: 679e0944-286a-4c14-b06a-16ec135c508b
