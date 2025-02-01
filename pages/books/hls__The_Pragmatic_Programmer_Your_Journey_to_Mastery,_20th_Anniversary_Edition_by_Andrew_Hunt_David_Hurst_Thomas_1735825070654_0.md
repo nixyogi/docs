@@ -4917,3 +4917,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 450
   hl-color:: yellow
   id:: 679e03a8-4650-42a8-b807-975c4048ccb1
+- Once your infrastructure is in order, you need to decide how to
+  ls-type:: annotation
+  hl-page:: 450
+  hl-color:: yellow
+  id:: 679e03ad-e9c0-4c4c-bbf9-67cb64ec810b
+- organize the work.
+  ls-type:: annotation
+  hl-page:: 451
+  hl-color:: yellow
+  id:: 679e03b0-5041-40f8-9e05-eb627bf23909
+- More disciplined and experienced teams might look to Kanban and Lean techniques, both for the team and perhaps for larger governance issues. But don’t take our word for it, investigate and try these approaches for yourself. Be careful, though, in overdoing it. Overly investing in any particular methodology can leave you blind to alternatives. 
+  ls-type:: annotation
+  hl-page:: 451
+  hl-color:: yellow
+  id:: 679e03c2-8327-478f-89b7-f6a2ddbd27f1
+- Topic 51 Pragmatic Starter Kit
+  ls-type:: annotation
+  hl-page:: 452
+  hl-color:: yellow
+  id:: 679e03cc-32f1-41a1-a93b-2e928b14dd51
+- Back when cars were a novelty, the instructions for starting a Model-T Ford were more than two pages long. With modern cars, you just push a button—the starting procedure is automatic and foolproof.
+  ls-type:: annotation
+  hl-page:: 452
+  hl-color:: yellow
+  id:: 679e03d9-c886-4a18-8290-f3c115b3bb9b
