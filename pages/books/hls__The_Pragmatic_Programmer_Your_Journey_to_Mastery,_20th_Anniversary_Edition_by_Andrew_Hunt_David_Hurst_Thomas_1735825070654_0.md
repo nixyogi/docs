@@ -4262,3 +4262,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 408
   hl-color:: yellow
   id:: 679dea2c-c8ae-41fa-872b-0b08239c120e
+- And this starts an exploration. Your role in this is to interpret what the client says and to feed back to them the implications. This is both an intellectual process and a creative one: you’re thinking on your feet and you’re contributing to a solution that is likely to be better than one that either you or the client would have produced alone.
+  ls-type:: annotation
+  hl-page:: 409
+  hl-color:: yellow
+  id:: 679dea6a-5211-4218-868b-272f339f2078
+- REQUIREMENTS ARE A PROCESS
+  ls-type:: annotation
+  hl-page:: 409
+  hl-color:: yellow
+  id:: 679dea70-fdd0-423e-a711-e9f929de5965
+- Tip 77 Requirements Are Learned in a Feedback Loop
+  ls-type:: annotation
+  hl-page:: 409
+  hl-color:: yellow
+  id:: 679dea7b-3a24-4dba-88a1-3cab5ed55158
+- Your job is to help the client understand the consequences of their stated requirements. You do that by generating feedback, and letting them use that feedback to refine their thinking.
+  ls-type:: annotation
+  hl-page:: 409
+  hl-color:: yellow
+  id:: 679dea8d-a650-4142-9f4e-9340a954d17a
