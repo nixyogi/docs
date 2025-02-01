@@ -26771,5 +26771,22 @@
                                    :height 1265.6470588235295}),
                           :page 377},
                :content {:text "TEST DATA GENERATION"},
+               :properties {:color "yellow"}}
+              {:id #uuid "679de4ee-e085-4762-b9ee-5773daf73f63",
+               :page 378,
+               :position {:bounding {:x1 145.03125,
+                                     :y1 689.15625,
+                                     :x2 508.4541931152344,
+                                     :y2 716.15625,
+                                     :width 978.0000000000001,
+                                     :height 1265.6470588235295},
+                          :rects ({:x1 145.03125,
+                                   :y1 689.15625,
+                                   :x2 508.4541931152344,
+                                   :y2 716.15625,
+                                   :width 978.0000000000001,
+                                   :height 1265.6470588235295}),
+                          :page 378},
+               :content {:text "FINDING BAD ASSUMPTIONS"},
                :properties {:color "yellow"}}],
- :extra {:page 378}}
+ :extra {:page 380}}
