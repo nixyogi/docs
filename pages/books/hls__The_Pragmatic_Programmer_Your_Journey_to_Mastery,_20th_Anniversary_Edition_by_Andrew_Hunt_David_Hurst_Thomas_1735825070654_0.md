@@ -4142,3 +4142,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 396
   hl-color:: yellow
   id:: 679de811-c15d-4328-840a-5178fef04ed1
+- When naming things, you’re constantly looking for ways of clarifying what you mean, and that act of clarification will lead you to a better understanding of your code as you write it.
+  ls-type:: annotation
+  hl-page:: 397
+  hl-color:: yellow
+  id:: 679de850-093b-4f14-9892-524808eb43ac
+- HONOR THE CULTURE
+  ls-type:: annotation
+  hl-page:: 398
+  hl-color:: yellow
+  id:: 679de861-8d75-4ed5-bb07-353e81fbb793
