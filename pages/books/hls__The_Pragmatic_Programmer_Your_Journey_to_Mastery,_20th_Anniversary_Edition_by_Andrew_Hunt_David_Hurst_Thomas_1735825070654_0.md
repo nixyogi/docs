@@ -4317,3 +4317,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 411
   hl-color:: yellow
   id:: 679dee46-e2c3-41e7-b0f9-b71e51876f48
+- Let’s imagine that while discussing a Human Resources system, a client says “Only an employee’s supervisors and the personnel department may view that employee’s records.” Is this statement truly a requirement? Perhaps today, but it embeds business policy in an absolute statement.
+  ls-type:: annotation
+  hl-page:: 411
+  hl-color:: yellow
+  id:: 679dee65-049d-43f3-9798-dee79a254eb8
+- When policy changes (and it will), only the metadata for that system will need to be updated
+  ls-type:: annotation
+  hl-page:: 411
+  hl-color:: yellow
+  id:: 679dee75-ffcd-472a-a63e-82c5b6f434b7
+- In fact, gathering requirements in this way naturally leads you to a system that is well factored to support metadata
+  ls-type:: annotation
+  hl-page:: 411
+  hl-color:: yellow
+  id:: 679dee79-5d45-4dd6-8e89-7d7b88c30324
+- Tip 79 Policy Is Metadata
+  ls-type:: annotation
+  hl-page:: 411
+  hl-color:: yellow
+  id:: 679dee7f-f6ba-4331-98ca-71eef0b2ba54
+- Implement the general case, with the policy information as an example of the type of thing the system needs to support.
+  ls-type:: annotation
+  hl-page:: 412
+  hl-color:: yellow
+  id:: 679dee8d-99e0-483d-9c3d-18f3ed8a15d1
