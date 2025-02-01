@@ -4437,3 +4437,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 418
   hl-color:: yellow
   id:: 679df35e-8056-4282-925e-0a74f670c422
+- The solution lies elsewhere. The secret to solving the puzzle is to identify the real (not imagined) constraints, and find a solution therein. Some constraints are absolute; others are merely preconceived notions. Absolute constraints must be honored, however distasteful or stupid they may appear to be.
+  ls-type:: annotation
+  hl-page:: 419
+  hl-color:: yellow
+  id:: 679df381-2d8c-4d6a-a9bf-55099651bd4d
+- DEGREES OF FREEDOM
+  ls-type:: annotation
+  hl-page:: 419
+  hl-color:: yellow
+  id:: 679df399-c7dd-454a-bcf8-9dea76b55dff
+- The popular buzz-phrase “thinking outside the box” encourages us to recognize constraints that might not be applicable and to ignore them. But this phrase isn’t entirely accurate. If the “box” is the boundary of constraints and conditions, then the trick is to find the box, which may be considerably larger than you think
+  ls-type:: annotation
+  hl-page:: 419
+  hl-color:: yellow
+  id:: 679df3a4-a3cd-40b0-9b5d-951eccb7b4d2
+- The key to solving puzzles is both to recognize the constraints placed on you and to recognize the degrees of freedom you do have, for in those you’ll find your solution
+  ls-type:: annotation
+  hl-page:: 419
+  hl-color:: yellow
+  id:: 679df3af-7be4-45e7-9a45-15942884c9d6
