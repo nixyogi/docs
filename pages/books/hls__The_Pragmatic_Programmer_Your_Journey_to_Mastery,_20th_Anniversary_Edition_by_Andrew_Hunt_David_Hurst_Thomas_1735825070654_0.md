@@ -4152,3 +4152,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 398
   hl-color:: yellow
   id:: 679de861-8d75-4ed5-bb07-353e81fbb793
+- In the C programming language, i, j, and k are traditionally used as loop increment variables, s is used for a character string, and so on. If you program in that environment, that’s what you are used to seeing and it would be jarring (and hence wrong) to violate that norm
+  ls-type:: annotation
+  hl-page:: 398
+  hl-color:: yellow
+  id:: 679de880-0102-4c8b-bdec-43a7f274bfd7
+- The languages themselves will of course accept either, but that doesn’t make it right. Honor the local culture.
+  ls-type:: annotation
+  hl-page:: 398
+  hl-color:: yellow
+  id:: 679de895-5f34-4a3c-aaa1-7966f76728a9
+- CONSISTENCY Emerson is famous for writing “A foolish consistency is the hobgoblin of little minds…,” but Emerson wasn’t on a team of programmers
+  ls-type:: annotation
+  hl-page:: 399
+  hl-color:: yellow
+  id:: 679de8a5-19ac-4242-9482-3d87a24996f2
