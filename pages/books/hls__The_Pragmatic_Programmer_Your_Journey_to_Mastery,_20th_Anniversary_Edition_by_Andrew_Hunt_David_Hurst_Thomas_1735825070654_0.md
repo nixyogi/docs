@@ -4537,3 +4537,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 426
   hl-color:: yellow
   id:: 679df51c-5cd5-428e-9eff-f6555132b6cd
+- There are many benefits to pair programming. Different people bring different backgrounds and experience, different problemsolving techniques and approaches, and differing levels of focus and attention to any given problem. The developer acting as typist must focus on the low-level details of syntax and coding style, while the other developer is free to consider higher-level issues and scope.
+  ls-type:: annotation
+  hl-page:: 426
+  hl-color:: yellow
+  id:: 679df807-47f9-411a-bc38-56bb0a357aec
+- While that might sound like a small distinction, remember that we humans have only so much brain bandwidth. Fiddling around with typing esoteric words and symbols that the compiler will grudgingly accept takes a fair bit of our own processing power. Having a second developer’s full brain available during the task brings a lot more mental power to bear.
+  ls-type:: annotation
+  hl-page:: 426
+  hl-color:: yellow
+  id:: 679df815-899e-49aa-87e6-4e229d44dad5
