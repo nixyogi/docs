@@ -4377,3 +4377,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 413
   hl-color:: yellow
   id:: 679def01-1ea4-4317-be49-11830be1e65d
+- The requirements document is written for developers, and contains information and subtleties that are sometimes incomprehensible and frequently boring to the client.
+  ls-type:: annotation
+  hl-page:: 414
+  hl-color:: yellow
+  id:: 679def3d-138a-4ef0-85b6-b56f75a9ec3c
