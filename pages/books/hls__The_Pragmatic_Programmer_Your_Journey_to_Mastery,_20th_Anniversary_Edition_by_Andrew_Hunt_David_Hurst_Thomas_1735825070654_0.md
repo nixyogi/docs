@@ -4172,3 +4172,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 399
   hl-color:: yellow
   id:: 679de8bb-b616-42cd-8574-d22ca31f342f
+- No matter how much effort you put in up front, things change. Code is refactored, usage shifts, meaning becomes subtly altered.
+  ls-type:: annotation
+  hl-page:: 400
+  hl-color:: yellow
+  id:: 679de8f1-f3fe-4246-adfe-a5f3fdd81ef5
+- If you aren’t vigilant about updating names as you go, you can quickly descend into a nightmare much worse than meaningless names: misleading names.
+  ls-type:: annotation
+  hl-page:: 400
+  hl-color:: yellow
+  id:: 679de8f9-db72-4cb4-b59c-9fd5238d0231
+- Tip 74 Name Well; Rename When Needed
+  ls-type:: annotation
+  hl-page:: 400
+  hl-color:: yellow
+  id:: 679de909-822e-422e-aea1-5aa0d0c576ab
+- If for some reason you can’t change the now-wrong name, then you’ve got a bigger problem: an ETC violation (see Topic 8, The Essence of Good Design). Fix that first, then change the offending name. Make renaming easy, and do it often
+  ls-type:: annotation
+  hl-page:: 400
+  hl-color:: yellow
+  id:: 679de917-6d27-483d-b5b1-cfc076a7af92
