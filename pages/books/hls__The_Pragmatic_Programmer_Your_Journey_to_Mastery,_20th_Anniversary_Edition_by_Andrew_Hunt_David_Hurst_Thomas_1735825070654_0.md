@@ -4482,3 +4482,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 421
   hl-color:: yellow
   id:: 679df410-394d-4f49-881a-4da96b1d88aa
+- If you’re still not willing to drop the problem for a while, the next best thing is probably finding someone to explain it to. Often, the distraction of simply talking about it will lead you to enlightenment. Have them ask you questions such as:
+  ls-type:: annotation
+  hl-page:: 421
+  hl-color:: yellow
+  id:: 679df45f-0971-4b8d-9022-a85ada4ac864
+- Why are you solving this problem? What’s the benefit of solving it? Are the problems you’re having related to edge cases? Can you eliminate them? Is there a simpler, related problem you can solve?
+  ls-type:: annotation
+  hl-page:: 422
+  hl-color:: yellow
+  id:: 679df466-0694-4d02-a093-20c0ffe8bfa7
