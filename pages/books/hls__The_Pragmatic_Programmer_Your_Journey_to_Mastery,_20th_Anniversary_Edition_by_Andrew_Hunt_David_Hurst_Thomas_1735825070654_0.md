@@ -4282,3 +4282,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 409
   hl-color:: yellow
   id:: 679dea8d-a650-4142-9f4e-9340a954d17a
+- We produce mockups and prototypes, and let the client play with them. Ideally the things we produce are flexible enough that we can change them during our discussions with the client, letting us respond to “that isn’t what I meant” with “so more like this?”
+  ls-type:: annotation
+  hl-page:: 410
+  hl-color:: yellow
+  id:: 679dea9d-b285-4cee-a0b7-a316471d860b
+- But the reality is that all of the work we do is actually some form of mockup. Even at the end of a project we’re still interpreting what our client wants. In fact, by that point we’re likely to have more clients: the QA people, operations, marketing, and maybe even test groups of customers
+  ls-type:: annotation
+  hl-page:: 410
+  hl-color:: yellow
+  id:: 679deaae-ed5d-41e0-bc68-b66f0ffab100
+- WALK IN YOUR CLIENT’S SHOES
+  ls-type:: annotation
+  hl-page:: 410
+  hl-color:: yellow
+  id:: 679deabf-47e9-4991-a31a-9c3057f01711
