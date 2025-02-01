@@ -4872,3 +4872,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 447
   hl-color:: yellow
   id:: 679e02e5-12d3-4936-a991-f1fc55c172da
+- There’s a current trend to adopt the policies and processes of successful companies such as Spotify, Netflix, Stripe, GitLab, and others. Each have their own unique take on software development and management. But consider the context: are you in the same market, with the same constraints and opportunities, similar expertise and organization size, similar management, and similar culture? Similar user base and requirements? Don’t fall for it. Particular artifacts, superficial structures, policies, processes, and methods are not enough.
+  ls-type:: annotation
+  hl-page:: 447
+  hl-color:: yellow
+  id:: 679e0302-f6e5-444c-b94f-17419e68f044
+- Tip 87 Do What Works, Not What’s Fashionable
+  ls-type:: annotation
+  hl-page:: 447
+  hl-color:: yellow
+  id:: 679e030a-c123-4c89-b9e3-2e1bbdac0478
+- ONE SIZE FITS NO ONE WELL
+  ls-type:: annotation
+  hl-page:: 448
+  hl-color:: yellow
+  id:: 679e0332-4632-4308-830d-370f4bf60003
