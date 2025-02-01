@@ -4842,3 +4842,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 444
   hl-color:: yellow
   id:: 679e0270-30b7-4150-8cdd-6cfda400d418
+- Automation is an essential component of every project team. Make sure the team has skills at tool building to construct and deploy the tools that automate the project development and production deployment
+  ls-type:: annotation
+  hl-page:: 444
+  hl-color:: yellow
+  id:: 679e027f-8902-41f5-8997-e42bdb0740f1
+- KNOW WHEN TO STOP ADDING PAINT
+  ls-type:: annotation
+  hl-page:: 444
+  hl-color:: yellow
+  id:: 679e0283-2911-48de-80d3-ca0468c9ffd9
+- Remember that teams are made up of individuals. Give each member the ability to shine in their own way. Give them just enough structure to support them
+  ls-type:: annotation
+  hl-page:: 444
+  hl-color:: yellow
+  id:: 679e0299-b2dd-412c-b9a8-f11da4413d01
+- Topic 50 Coconuts Don’t Cut It
+  ls-type:: annotation
+  hl-page:: 446
+  hl-color:: yellow
+  id:: 679e02a3-c29c-421c-b136-a91881eb5d2e
