@@ -4397,3 +4397,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 414
   hl-color:: yellow
   id:: 679def6f-046a-45ab-81d4-83359ae1641f
+- OVERSPECIFICATION
+  ls-type:: annotation
+  hl-page:: 415
+  hl-color:: yellow
+  id:: 679def80-2616-4956-866c-cfd936bf12c8
+- Another big danger in producing a requirements document is being too specific. Good requirements are abstract. Where requirements are concerned, the simplest statement that accurately reflects the business need is best. This doesn’t mean you can be vague—you must capture the underlying semantic invariants as requirements, and document the specific or current work practices as policy.
+  ls-type:: annotation
+  hl-page:: 415
+  hl-color:: yellow
+  id:: 679def9b-5a04-4336-aa0c-654dd7bf0828
+- Many project failures are blamed on an increase in scope—also known as feature bloat, creeping featurism, or requirements creep.
+  ls-type:: annotation
+  hl-page:: 415
+  hl-color:: yellow
+  id:: 679defba-ca55-4fe2-aab6-6f16fadf0153
