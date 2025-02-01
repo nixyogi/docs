@@ -4412,3 +4412,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 415
   hl-color:: yellow
   id:: 679defba-ca55-4fe2-aab6-6f16fadf0153
+- The answer (again) is feedback. If you’re working with the client in iterations with constant feedback, then the client will experience first-hand the impact of “just one more feature.”
+  ls-type:: annotation
+  hl-page:: 415
+  hl-color:: yellow
+  id:: 679defc8-2362-44bc-95e9-bc54ad2ebd73
+- MAINTAIN A GLOSSARY
+  ls-type:: annotation
+  hl-page:: 415
+  hl-color:: yellow
+  id:: 679defd0-b9e0-469c-8b80-2888094cd447
+- As soon as you start discussing requirements, users and domain experts will use certain terms that have specific meaning to them. They may differentiate between a “client” and a“customer,” for example. It would then be inappropriate to use either word casually in the system
+  ls-type:: annotation
+  hl-page:: 416
+  hl-color:: yellow
+  id:: 679defdb-1089-40a7-a237-da40d395c079
+- Tip 80 Use a Project Glossary
+  ls-type:: annotation
+  hl-page:: 416
+  hl-color:: yellow
+  id:: 679defe7-08f1-4d2f-901b-11987d7b5fad
