@@ -4592,3 +4592,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 429
   hl-color:: yellow
   id:: 679dfd47-2963-4a31-8f06-92080a299ed9
+- Agile is an adjective: it’s how you do something. You can be an agile developer. You can be on a team that adopts agile practices, a team that responds to change and setbacks with agility. Agility is your style, not you
+  ls-type:: annotation
+  hl-page:: 429
+  hl-color:: yellow
+  id:: 679dfd56-4062-48f7-8eff-354cae8985c3
+- Tip 83 Agile Is Not a Noun; Agile Is How You Do Things
+  ls-type:: annotation
+  hl-page:: 429
+  hl-color:: yellow
+  id:: 679dfd61-d7bc-4dd3-aa40-26350d186fdc
+- We feel that many people have lost sight of the true meaning of agility, and we’d like to see folks return to the basics. Remember the values from the manifesto: We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value: Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation Responding to change over following a plan
+  ls-type:: annotation
+  hl-page:: 430
+  hl-color:: yellow
+  id:: 679dfd81-9315-4bd7-9a04-85a7dd7bedc3
