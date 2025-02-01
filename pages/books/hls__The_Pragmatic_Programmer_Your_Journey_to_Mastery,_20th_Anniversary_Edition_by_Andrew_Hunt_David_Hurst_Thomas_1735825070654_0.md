@@ -4457,3 +4457,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 419
   hl-color:: yellow
   id:: 679df3af-7be4-45e7-9a45-15942884c9d6
+- Tip 81 Don’t Think Outside the Box—Find the Box
+  ls-type:: annotation
+  hl-page:: 420
+  hl-color:: yellow
+  id:: 679df3bc-cea6-4a15-bf0e-14f547c4a6fd
+- When faced with an intractable problem, enumerate all the possible avenues you have before you. Don’t dismiss anything, no matter how unusable or stupid it sounds. Now go through the list and explain why a certain path cannot be taken. Are you sure? Can you prove it?
+  ls-type:: annotation
+  hl-page:: 420
+  hl-color:: yellow
+  id:: 679df3c7-e329-4af5-94d5-c700d466a26f
+- GET OUT OF YOUR OWN WAY!
+  ls-type:: annotation
+  hl-page:: 421
+  hl-color:: yellow
+  id:: 679df3dd-4075-4387-b90b-ac8a9bd26851
