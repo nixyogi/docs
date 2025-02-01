@@ -4827,3 +4827,18 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 442
   hl-color:: yellow
   id:: 679e023c-dbfb-4721-9a58-04139f323a81
+- we recommend developing individual features, however small and limited initially, that go end-to-end through the entire system. That means that you need all the skills to do that within the team: frontend, UI/UX, server, DBA, QA, etc., all comfortable and accustomed to working with each other. With a tracer bullet approach, you can implement very small bits of functionality very quickly, and get immediate feedback on how well your team communicates and delivers.
+  ls-type:: annotation
+  hl-page:: 443
+  hl-color:: yellow
+  id:: 679e0264-e5ee-4d1c-aee7-369538c38d38
+- Tip 86 Organize Fully Functional Teams
+  ls-type:: annotation
+  hl-page:: 443
+  hl-color:: yellow
+  id:: 679e026c-ec47-4eaf-aaee-fdda87b29ead
+- AUTOMATION
+  ls-type:: annotation
+  hl-page:: 444
+  hl-color:: yellow
+  id:: 679e0270-30b7-4150-8cdd-6cfda400d418
