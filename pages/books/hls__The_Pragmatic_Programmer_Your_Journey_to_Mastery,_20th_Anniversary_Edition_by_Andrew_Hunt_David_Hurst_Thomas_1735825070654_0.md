@@ -4112,3 +4112,28 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 395
   hl-color:: yellow
   id:: 679de7c0-e898-48bc-b672-7a3f6759b010
+- We create names for applications, subsystems, modules, functions, variables—we’re constantly creating new things and bestowing names on them. And those names are very, very important, because they reveal a lot about your intent and belief.
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 679de7c8-5115-442a-ace5-93ba42af3151
+- We believe that things should be named according to the role they play in your code
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 679de7d4-99d4-48d4-af82-365d5bf78c35
+- This means that, whenever you create something, you need to pause and think “what is my motivation to create this?”
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 679de7db-5d9a-4bea-8b04-f63f59c4d490
+- This is a powerful question, because it takes you out of the immediate problem-solving mindset and makes you look at the bigger picture. When you consider the role of a variable or function, you’re thinking about what is special about it, about what it can do, and what it interacts with.
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 679de7f0-99e9-4e70-9346-69b7fad41128
+- It turns out that the brain can read and understand words really fast: faster than many other activities. This means that words have a certain priority when we try to make sense of something.
+  ls-type:: annotation
+  hl-page:: 396
+  hl-color:: yellow
+  id:: 679de7fd-678e-46bf-9c66-b3bf1dcecb62
