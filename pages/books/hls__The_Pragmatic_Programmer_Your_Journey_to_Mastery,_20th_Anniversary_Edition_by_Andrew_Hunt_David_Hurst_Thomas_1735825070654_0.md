@@ -4042,3 +4042,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 389
   hl-color:: yellow
   id:: 679de692-62a2-4a46-9c28-938b08d17fce
+- Debugging info is an attack vector There’s nothing as heartwarming as seeing a full stack trace with data on your local ATM machine, an airport kiosk, or crashing web page.
+  ls-type:: annotation
+  hl-page:: 389
+  hl-color:: yellow
+  id:: 679de6a2-4d64-48b6-8a75-c6922fae2dcf
+- Tip 72 Keep It Simple and Minimize Attack Surfaces
+  ls-type:: annotation
+  hl-page:: 389
+  hl-color:: yellow
+  id:: 679de6ab-dda5-4316-858b-549998911467
+- Principle of Least Privilege
+  ls-type:: annotation
+  hl-page:: 389
+  hl-color:: yellow
+  id:: 679de6b1-35f1-449d-96a8-f34af2cf9282
+- Another key principle is to use the least amount of privilege for the shortest time you can get away with. 
+  ls-type:: annotation
+  hl-page:: 389
+  hl-color:: yellow
+  id:: 679de6b8-6b8e-462d-ab0f-61d3a45de2ef
