@@ -4092,3 +4092,23 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 392
   hl-color:: yellow
   id:: 679de77c-b01f-4834-bc7d-2bd3b5bb6c0d
+- COMMON SENSE VS. CRYPTO
+  ls-type:: annotation
+  hl-page:: 393
+  hl-color:: yellow
+  id:: 679de787-3f30-486b-847e-472efd82f98d
+- It’s important to keep in mind that common sense may fail you when it comes to matters of cryptography. The first and most important rule when it comes to crypto is never do it yourself.
+  ls-type:: annotation
+  hl-page:: 393
+  hl-color:: yellow
+  id:: 679de78b-99fc-4775-b37f-7c468100b1a5
+- As we’ve said elsewhere, rely only on reliable things: wellvetted, thoroughly examined, well-maintained, frequently updated, preferably open source libraries and frameworks
+  ls-type:: annotation
+  hl-page:: 393
+  hl-color:: yellow
+  id:: 679de7a1-8546-4bef-bea9-d1a7d891fec7
+- Topic 44 Naming Things
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 679de7c0-e898-48bc-b672-7a3f6759b010
