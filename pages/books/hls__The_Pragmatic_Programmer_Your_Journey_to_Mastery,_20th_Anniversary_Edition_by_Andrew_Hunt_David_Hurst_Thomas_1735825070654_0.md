@@ -4252,8 +4252,13 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 407
   hl-color:: yellow
   id:: 679dea03-11a0-4726-ac22-9eb10d472821
-- The chances are very good that you had questions: Does the $50 include tax? Does the $50 include current shipping charges? Does the $50 have to be for paper books, or can the order also include ebooks? What kind of shipping is offered? Priority? Ground? What about international orders? How often will the $50 limit change in the future? That’s what we do. When given something that seems simple, we annoy people by looking for edge cases and asking about
+- You work for a publisher of paper and electronic books. You’re given a new requirement: Shipping should be free on all orders costing $50 or more. Stop for a second and imagine yourself in that position. What’s the first thing that comes to mind? The chances are very good that you had questions: Does the $50 include tax? Does the $50 include current shipping charges? Does the $50 have to be for paper books, or can the order also include ebooks? What kind of shipping is offered? Priority? Ground? What about international orders? How often will the $50 limit change in the future? That’s what we do. When given something that seems simple, we annoy people by looking for edge cases and asking abou
   ls-type:: annotation
   hl-page:: 407
   hl-color:: yellow
-  id:: 679dea1a-1468-455d-8249-e72a31f0770f
+  id:: 679dea26-de2f-42f4-9afd-a7c9817b1708
+- them
+  ls-type:: annotation
+  hl-page:: 408
+  hl-color:: yellow
+  id:: 679dea2c-c8ae-41fa-872b-0b08239c120e
