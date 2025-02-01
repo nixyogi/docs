@@ -4567,3 +4567,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 427
   hl-color:: yellow
   id:: 679df875-ac7f-4bdb-8420-d8e687f36b70
+- If you’re currently only programming solo, maybe try pair programming. Give it a minimum of two weeks, only a few hours at a time, as it will feel strange at first. To brainstorm new ideas or diagnose thorny issues, perhaps try a mob programming session.
+  ls-type:: annotation
+  hl-page:: 427
+  hl-color:: yellow
+  id:: 679dfd06-9eda-4028-b3f7-841c94070d66
