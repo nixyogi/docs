@@ -4667,3 +4667,8 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 433
   hl-color:: yellow
   id:: 679dfe42-a4a8-4c30-a8c5-c28f539340d2
+- AND THIS DRIVES DESIGN
+  ls-type:: annotation
+  hl-page:: 433
+  hl-color:: yellow
+  id:: 679dfe49-c673-445f-8ef8-ba310bac6bf7
