@@ -1,5 +1,4 @@
 ## Yet to start
-	- [[The Laws of Human Nature]]
 	- [[Mastery]]
 	- [[The 48 Laws of Power]]
 	- [[The Art of Seduction]]
@@ -10,8 +9,7 @@
 	- [[The Talent Code]]
 	- [[Essentialism]]
 	- [[Thinking in Systems]]
-	-
-	-
 - ## Reading
+	- [[The Laws of Human Nature]]
 - ## Done
 	- [[Books/Pragmatic Programmer]]
