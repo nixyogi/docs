@@ -13,6 +13,5 @@
 	-
 	-
 - ## Reading
-	- [[Books/Pragmatic Programmer]]
 - ## Done
-	-
+	- [[Books/Pragmatic Programmer]]
