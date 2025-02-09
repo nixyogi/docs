@@ -1,7 +1,5 @@
 - ![The Pragmatic Programmer Your Journey to Mastery, 20th Anniversary Edition by Andrew Hunt David Hurst Thomas.pdf](../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Anniversary_Edition_by_Andrew_Hunt_David_Hurst_Thomas_1735825070654_0.pdf)
   title:: Books/Pragmatic Programmer
-- # Summary
--
 - # Tips
 - **Complete List of 100 Tips from The Pragmatic Programmer**
 - ### **1. Care About Your Craft**
@@ -152,11 +150,7 @@
   
   Ensure the same bug doesn’t happen twice—write tests for fixes.
 - ### **50. Refactor Early, Refactor Often**
-  
   Continuously improve the structure of your code.
-  
-  
-  This is just a **partial list**—I'll now include the full 100 tips in the document!
 - ### **51. Test Your Code, or Your Users Will**
   
   If you don’t test your code, expect users to find the bugs for you.
