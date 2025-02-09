@@ -155,6 +155,155 @@
   
   Continuously improve the structure of your code.
   
-  (…continues up to **Tip 100**)
   
   This is just a **partial list**—I'll now include the full 100 tips in the document!
+- ### **51. Test Your Code, or Your Users Will**
+  
+  If you don’t test your code, expect users to find the bugs for you.
+- ### **52. Don’t Gather Requirements—Dig for Them**
+  
+  Users often don’t know what they need—ask the right questions.
+- ### **53. Work with a User to Think Like a User**
+  
+  Collaborate with users to design effective solutions.
+- ### **54. Abstractions Live Longer than Details**
+  
+  Focus on high-level concepts rather than implementation details.
+- ### **55. Use a Project Glossary**
+  
+  Define terminology clearly to avoid confusion.
+- ### **56. Don’t Think Outside the Box—Find the Box**
+  
+  Identify the real constraints before trying to innovate.
+- ### **57. Start When You’re Ready**
+  
+  Don’t rush into coding—prepare properly first.
+- ### **58. Some Things Are Better Done than Described**
+  
+  Show working code instead of explaining ideas abstractly.
+- ### **59. Don’t Be Afraid to Break Things**
+  
+  Sometimes breaking things leads to better solutions.
+- ### **60. Use the Right Algorithm and Data Structure**
+  
+  Performance often depends on choosing the right structure.
+- ### **61. Value Your Time**
+  
+  Automate repetitive tasks and optimize your workflow.
+- ### **62. Finish What You Start**
+  
+  Abandoned features and half-done refactoring create technical debt.
+- ### **63. Prototype to Mitigate Risk**
+  
+  Quick prototypes help uncover issues before full development.
+- ### **64. Keep It Simple and Minimal**
+  
+  Avoid unnecessary complexity—simpler solutions are often better.
+- ### **65. Keep Technology Independent**
+  
+  Don’t tie your code to a specific technology or vendor.
+- ### **66. Beware the Curse of the Premature Optimizer**
+  
+  Optimize only where necessary—don’t over-engineer early.
+- ### **67. Code in a Consistent Style**
+  
+  Use consistent formatting and naming conventions.
+- ### **68. Don’t Program by Coincidence**
+  
+  Understand why your code works—don’t rely on luck.
+- ### **69. Test State Coverage, Not Just Code Paths**
+  
+  Test different data states, not just execution paths.
+- ### **70. Write Code for Humans, Not Just Machines**
+  
+  Make your code readable and maintainable.
+- ### **71. Avoid Global Data**
+  
+  Global variables create hidden dependencies and make debugging harder.
+- ### **72. Take Small, Deliberate Steps**
+  
+  Incremental development is more manageable and less risky.
+- ### **73. Code Should Be Easy to Delete, Not Easy to Extend**
+  
+  Favor simplicity and modularity over extensibility.
+- ### **74. The Bigger the Interface, the Weaker the Abstraction**
+  
+  Small, well-defined interfaces are better than large, complex ones.
+- ### **75. If It’s Hard to Test, It’s Badly Designed**
+  
+  Hard-to-test code is usually tightly coupled and poorly structured.
+- ### **76. Use Metaprogramming Sparingly**
+  
+  Metaprogramming can be powerful, but it adds complexity.
+- ### **77. Design Systems to Be Replaced**
+  
+  Good software should allow for parts to be swapped out when needed.
+- ### **78. Keep Documentation Close to Code**
+  
+  Documentation should be easy to update alongside code changes.
+- ### **79. Beware of Overengineering**
+  
+  Build only what you need—extra complexity leads to problems.
+- ### **80. Design for Concurrency**
+  
+  Modern applications should handle parallel execution gracefully.
+- ### **81. Separate Policy from Implementation**
+  
+  Business logic should be separate from low-level implementation details.
+- ### **82. Time Changes Everything**
+  
+  Plan for change—your software will need to evolve.
+- ### **83. Make Code Easy to Change**
+  
+  Code that’s easy to modify is better than code that’s "perfect" but rigid.
+- ### **84. Encourage Collective Code Ownership**
+  
+  All team members should feel responsible for the entire codebase.
+- ### **85. Always Use Version Control**
+  
+  Track changes to your code with a good VCS like Git.
+- ### **86. The Best Code Is No Code at All**
+  
+  Avoid writing unnecessary code—simplify whenever possible.
+- ### **87. Design Software, Not Just Programs**
+  
+  Think in terms of systems, not just isolated code snippets.
+- ### **88. Understand the Cost of Change**
+  
+  Factor in technical debt and refactoring costs in your planning.
+- ### **89. Use Checklists to Reduce Errors**
+  
+  Checklists help prevent mistakes in complex processes.
+- ### **90. Trust, but Verify**
+  
+  Review dependencies and external libraries carefully.
+- ### **91. Make the Invisible Visible**
+  
+  Logging and monitoring help reveal hidden issues.
+- ### **92. Continuous Learning Is Key**
+  
+  Always be learning and adapting to new developments in technology.
+- ### **93. Write Code You Would Want to Maintain**
+  
+  Future-proof your code with clarity and good structure.
+- ### **94. Expect the Unexpected**
+  
+  Handle edge cases and failures gracefully.
+- ### **95. Automate Where Possible**
+  
+  Save time and reduce human error by automating processes.
+- ### **96. Reduce Dependencies When Possible**
+  
+  Fewer dependencies mean fewer points of failure.
+- ### **97. Know When to Walk Away**
+  
+  Sometimes rewriting or abandoning a project is the best choice.
+- ### **98. Listen to the Code**
+  
+  Refactor when the code tells you something is wrong.
+- ### **99. Software Is a Team Sport**
+  
+  Collaboration leads to better solutions than working in isolation.
+- ### **100. Have Fun!**
+  
+  Programming should be enjoyable—embrace the challenges and rewards.
