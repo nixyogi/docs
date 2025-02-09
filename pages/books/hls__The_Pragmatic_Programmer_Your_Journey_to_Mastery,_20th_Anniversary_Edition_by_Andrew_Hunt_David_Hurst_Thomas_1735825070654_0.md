@@ -5267,3 +5267,4 @@ file-path:: ../assets/The_Pragmatic_Programmer_Your_Journey_to_Mastery,_20th_Ann
   hl-page:: 473
   hl-color:: yellow
   id:: 679e0b15-f589-4209-b677-421b6f90788e
+-
